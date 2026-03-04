@@ -1,0 +1,87 @@
+{
+  "title": "設定",
+  "sections": {
+    "general": {
+      "title": "一般",
+      "description": "外観と言語の設定"
+    },
+    "notifications": {
+      "title": "通知",
+      "description": "通知設定を管理"
+    },
+    "privacy": {
+      "title": "プライバシー",
+      "description": "データ共有と分析の設定を管理"
+    },
+    "account": {
+      "title": "アカウント",
+      "description": "アカウント管理とセキュリティ設定"
+    },
+    "preferences": {
+      "title": "環境設定",
+      "description": "要約生成のデフォルト設定"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "テーマ",
+      "description": "お好みのカラーテーマを選択",
+      "options": {
+        "light": "ライト",
+        "dark": "ダーク",
+        "system": "システム"
+      }
+    },
+    "language": {
+      "label": "言語",
+      "description": "お好みの言語を選択"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "メール通知",
+      "description": "アカウントに関するメール通知を受信"
+    },
+    "creditLowThreshold": {
+      "label": "クレジット低下警告のしきい値",
+      "description": "クレジットがこの値を下回った時に通知を受信"
+    },
+    "summaryComplete": {
+      "label": "要約完了通知",
+      "description": "要約が完了した時に通知を受信"
+    },
+    "tierUpgrade": {
+      "label": "ティアアップグレード通知",
+      "description": "ティアアップグレードの機会について通知を受信"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "データ共有",
+      "description": "サービス改善のために匿名化された利用データの共有を許可"
+    },
+    "analytics": {
+      "label": "分析",
+      "description": "アプリケーション改善のために分析を有効化"
+    }
+  },
+  "account": {
+    "comingSoon": "アカウント管理機能は近日公開予定です。アカウントページからアカウントを管理できます。",
+    "goToAccount": "アカウントページに移動"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "デフォルト言語",
+      "description": "生成される要約のデフォルト言語"
+    },
+    "autoSave": {
+      "label": "自動保存",
+      "description": "作業を自動的に保存"
+    }
+  },
+  "buttons": {
+    "save": "変更を保存",
+    "saving": "保存中...",
+    "back": "戻る"
+  }
+}

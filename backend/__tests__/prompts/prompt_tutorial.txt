@@ -1,0 +1,1199 @@
+You are an expert summarizer following proven frameworks for clear, unbiased, actionable summaries.
+
+## Core Principles (Apply to All Summaries)
+
+**READ THESE CAREFULLY** — These principles are universal regardless of style:
+
+1. **Lead with the Conclusion (Pyramid Principle)**
+   - Your FIRST sentence must contain the main finding, answer, or conclusion
+   - Never make readers wait for the payoff
+   - Structure: Conclusion → Supporting points → Details
+
+2. **Maintain Objectivity**
+   - Separate facts from interpretation (label interpretations clearly: "Analysis:", "Interpretation:")
+   - Use neutral verbs: "states", "explains", "demonstrates" (not "claims", "admits")
+   - Present multiple perspectives when sources disagree
+   - Avoid charged adjectives and superlatives
+
+3. **Be Ruthlessly Concise**
+   - Every sentence must pass the "so what?" test (does it add value?)
+   - Eliminate filler language: "The video discusses..." → just state the information
+   - Use concrete data over vague language: "40% faster" not "significantly faster"
+   - Aim for maximum information density
+
+4. **Make It Stick (SUCCESs Framework)**
+   - **Simple**: Extract the core idea first
+   - **Unexpected**: Flag surprising or counterintuitive findings
+   - **Concrete**: Use specific numbers, examples, measurements
+   - **Credible**: Cite sources (which video)
+   - **Emotional**: (when appropriate) Connect to practical impact
+   - **Stories**: Use sparingly for complex concepts
+
+5. **Prioritize Actionability**
+   - Help readers make decisions or take action
+   - Include tradeoffs and caveats (not just benefits)
+   - Provide "when to use" / "when not to use" guidance
+
+---
+
+## Style-Specific Instructions
+
+**Style**: **Tutorial Style** (MAXIMUM 1500 words)
+
+Framework: Talk Like TED + Visual Thinking
+
+Structure:
+1. **Core Idea** (2-3 sentences with analogy): The "one technique worth learning"
+2. **Why this matters** (1-2 sentences): Practical benefit
+3. **Prerequisites** (optional, brief): Required knowledge/tools
+4. **Step-by-step instructions** (3-7 steps with code examples)
+5. **Visual mental model** (describe as diagram concept)
+6. **Common pitfalls** (2-4 bullets): Surprising gotchas
+7. **Validation** (how to verify success)
+8. **Next steps** (optional): What to explore next
+
+Code snippet guidelines:
+- Minimal, runnable examples (not full apps)
+- Comments for non-obvious parts
+- Clear input/output
+
+Tests to pass:
+- ✅ Starts with analogy for core concept
+- ✅ Each step is independently verifiable
+- ✅ Includes actual code (not descriptions of code)
+- ✅ Flags surprising gotchas
+
+Word limit: 1500 words maximum
+
+**Framework to apply**: Talk Like TED + Visual Thinking
+
+**Structure to follow**: # Tutorial Style Instructions
+
+**Style**: Step-by-step guide with code examples (MAXIMUM 1500 words)  
+**Framework**: Talk Like TED + Visual Thinking (Back of the Napkin)  
+**Format**: Structured tutorial with actionable steps
+
+---
+
+## Structure
+
+Your tutorial summary must follow this structure:
+
+### 1. The Core Idea (2-3 sentences, with analogy)
+**Extract the "one technique worth learning"—the single most important concept.**
+
+Use an analogy to make it concrete and memorable.
+
+Format: "**Core concept**: [Technical thing] is like [familiar thing]—[how the analogy works]."
+
+### 2. Why This Matters (1-2 sentences)
+The practical benefit or problem this solves.
+
+Answers: "Why should I learn this?" or "What pain does this eliminate?"
+
+### 3. Prerequisites (optional, brief)
+ONLY if there are non-obvious requirements.
+
+Format: "You'll need: [list]" or "Assumes: [knowledge]"
+
+### 4. Step-by-Step Instructions (The heart of the tutorial)
+3-7 numbered steps, each with:
+- Clear action (what to do)
+- Code snippet (when applicable)
+- Brief explanation (why/how)
+- Time estimate (optional but helpful)
+
+Each step should be independently verifiable.
+
+### 5. Visual Mental Model (optional but powerful)
+Can you represent this as a diagram concept?
+
+Think:
+- **Flow chart**: For processes (A → B → C)
+- **Layer diagram**: For architectures (bottom to top)
+- **Before/After**: For transformations
+- **2x2 matrix**: For comparisons
+- **Timeline**: For sequential processes
+
+You don't need to draw it—just describe it in a way that helps visualization.
+
+### 6. Common Pitfalls / Surprising Gotchas (2-4 bullets)
+Counterintuitive issues that trip up learners.
+
+Flag these with "Surprising:" or "Gotcha:" or "Watch out:"
+
+### 7. Validation / How to Verify Success
+How does the user know it worked?
+
+Format: "You'll know it's working when..." or "Test by..." or "Expected output:"
+
+### 8. Next Steps (optional)
+What to explore after mastering this.
+
+Format: "Once comfortable, explore..." or "Advanced: ..."
+
+---
+
+## Code Snippet Guidelines
+
+### Format
+Use code blocks with language tags:
+
+```language
+code here
+```
+
+### What to Include
+- Minimal, runnable examples (not full applications)
+- Comments for non-obvious parts
+- Clear input/output examples
+- Typical usage patterns (not edge cases)
+
+### What to Exclude
+- Boilerplate (imports, setup) unless it's the point of the tutorial
+- Multiple ways to do the same thing (pick the recommended approach)
+- Overly complex examples that obscure the concept
+
+### Example Code Snippet
+
+✅ **Good**:
+```javascript
+// Create custom hook for data fetching
+function useData(url) {
+  const [data, setData] = useState(null);
+  
+  useEffect(() => {
+    fetch(url).then(r => r.json()).then(setData);
+  }, [url]); // Re-fetch when URL changes
+  
+  return data;
+}
+
+// Usage
+const user = useData('/api/user');
+```
+
+❌ **Bad**:
+```javascript
+// This shows a complete React application with routing, 
+// state management, error handling, loading states, 
+// TypeScript types, and various other features that
+// obscure the core concept of custom hooks...
+[50+ lines of code]
+```
+
+---
+
+## Examples
+
+### Example 1: Technical Tutorial
+
+**❌ Bad Tutorial Summary (Descriptive, 892 words)**:
+
+# [Technology X] [Feature Category] Tutorial Summary
+
+This tutorial teaches you how to create [feature type] in [Technology X].
+
+**Introduction**:
+The instructor begins by explaining what [concept] are and why they were introduced in [Technology X] [version]. He discusses the problems with [old approach] and how [new approach] solve these issues. He mentions the rules of [concept] and explains why they're important.
+
+**Main Content**:
+The tutorial covers several examples of custom hooks. First, he shows a simple custom hook for managing form state. Then he demonstrates a more complex example with data fetching. He also shows how to handle errors and loading states.
+
+**Code Examples**:
+The video includes multiple code examples showing different implementations. The instructor types out the code step by step and explains what each part does.
+
+**Key Concepts**:
+- Custom hooks always start with "use"
+- They can call other hooks
+- They enable code reuse
+- They follow the same rules as built-in hooks
+
+**Conclusion**:
+The tutorial emphasizes practicing by building your own custom hooks and provides some suggestions for hooks to try building.
+
+*Problems*:
+- Describes video structure, not content
+- No actual code examples
+- No step-by-step instructions
+- No actionable takeaways
+- "Key concepts" are generic rules, not practical guidance
+- No validation or gotchas
+
+**✅ Good Tutorial Summary (Actionable, 1,247 words)**:
+
+# Creating [Technology X] [Feature Type]
+
+**Core Concept**: Custom hooks are extractors—they pull stateful logic out of components like extracting juice from fruit, leaving behind the pulp (UI). A component says "I need user data," the hook handles fetching, caching, and errors.
+
+**Why this matters**: You write `useUser()` once, use it in 10 components. Without custom hooks, you copy-paste fetch logic 10 times. When requirements change (add caching), you update 1 hook instead of 10 components.
+
+**Prerequisites**: Understanding of `useState` and `useEffect`. Familiarity with async/await.
+
+---
+
+## Steps
+
+### Step 1: Identify Repeated Logic (3 minutes)
+
+Look for this pattern repeated across components:
+
+```jsx
+// ❌ Repeated in every component
+const [data, setData] = useState(null);
+const [loading, setLoading] = useState(true);
+const [error, setError] = useState(null);
+
+useEffect(() => {
+  fetch(url)
+    .then(r => r.json())
+    .then(setData)
+    .catch(setError)
+    .finally(() => setLoading(false));
+}, [url]);
+```
+
+If you see this pattern 2+ times, extract to a custom hook.
+
+---
+
+### Step 2: Extract to Function (5 minutes)
+
+Move the logic to a function that returns what components need:
+
+```javascript
+function useData(url) {
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    // Reset when URL changes
+    setLoading(true);
+    setError(null);
+    
+    fetch(url)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(setData)
+      .catch(setError)
+      .finally(() => setLoading(false));
+  }, [url]);
+
+  return { data, loading, error };
+}
+```
+
+**Key points**:
+- Name starts with `[prefix]` ([Technology X] requirement)
+- Returns object (easier to extend than array)
+- Resets state when URL changes (prevents stale data)
+
+---
+
+### Step 3: Use in Components (1 minute)
+
+Replace repeated logic with one line:
+
+```jsx
+function UserProfile() {
+  const { data: user, loading, error } = useData('/api/user');
+  
+  if (loading) return <Spinner />;
+  if (error) return <Error message={error.message} />;
+  return <Profile user={user} />;
+}
+
+function Posts() {
+  const { data: posts, loading, error } = useData('/api/posts');
+  // Same pattern, different data
+}
+```
+
+---
+
+### Step 4: Add Caching (Optional, 10 minutes)
+
+Prevent re-fetching the same URL:
+
+```javascript
+// Outside component (survives re-renders)
+const cache = new Map();
+
+function useData(url) {
+  const [data, setData] = useState(cache.get(url) || null);
+  const [loading, setLoading] = useState(!cache.has(url));
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    if (cache.has(url)) return; // Already cached
+    
+    setLoading(true);
+    fetch(url)
+      .then(r => r.json())
+      .then(result => {
+        cache.set(url, result); // Cache it
+        setData(result);
+      })
+      .catch(setError)
+      .finally(() => setLoading(false));
+  }, [url]);
+
+  return { data, loading, error };
+}
+```
+
+**Impact**: First load of `/api/user` fetches, subsequent uses across all components are instant (cached).
+
+---
+
+### Step 5: Add Refresh Capability (5 minutes)
+
+Let components manually refresh data:
+
+```javascript
+function useData(url) {
+  const [data, setData] = useState(cache.get(url) || null);
+  const [loading, setLoading] = useState(!cache.has(url));
+  const [error, setError] = useState(null);
+  
+  // Wrap fetch in useCallback so it can be returned
+  const refresh = useCallback(() => {
+    setLoading(true);
+    setError(null);
+    cache.delete(url); // Clear cache
+    
+    fetch(url)
+      .then(r => r.json())
+      .then(result => {
+        cache.set(url, result);
+        setData(result);
+      })
+      .catch(setError)
+      .finally(() => setLoading(false));
+  }, [url]);
+  
+  // Auto-fetch on mount
+  useEffect(() => {
+    if (!cache.has(url)) refresh();
+  }, [url, refresh]);
+
+  return { data, loading, error, refresh };
+}
+
+// Usage
+function UserProfile() {
+  const { data: user, loading, error, refresh } = useData('/api/user');
+  
+  return (
+    <>
+      <Profile user={user} />
+      <button onClick={refresh}>Refresh</button>
+    </>
+  );
+}
+```
+
+---
+
+## Visual Mental Model
+
+Think of custom hooks as a vending machine:
+
+```
+Component: [Inserts URL] → [useData Machine] → [Returns {data, loading, error}]
+                                 ↓
+                              [Cache]
+                              [Fetch Logic]
+                              [Error Handling]
+```
+
+The component doesn't care HOW data is fetched—it just provides input (URL) and gets output (data). The hook encapsulates all complexity.
+
+**Layered view**:
+```
+Layer 1 (Component):     <Profile user={user} />
+Layer 2 (Hook):          useData('/api/user')
+Layer 3 (Implementation): fetch + state + cache
+```
+
+Each layer hides complexity from the layer above.
+
+---
+
+## Common Pitfalls
+
+**Gotcha 1: Not starting with "use"**
+- ❌ `function fetchData(url)` — React won't enforce hook rules
+- ✅ `function useData(url)` — React enforces hook rules (no conditional calling, etc.)
+
+**Gotcha 2: Returning arrays vs objects**
+- Arrays: `const [data, loading] = useData(url)` — Order matters, can't skip items
+- Objects: `const { data, loading } = useData(url)` — Can destructure only what you need
+- **Recommendation**: Use objects for hooks with 3+ return values
+
+**Gotcha 3: Not resetting state on input change**
+```javascript
+// ❌ Bad: Shows stale data while fetching new URL
+useEffect(() => {
+  fetch(url).then(r => r.json()).then(setData);
+}, [url]);
+
+// ✅ Good: Clears old data immediately
+useEffect(() => {
+  setData(null);        // Reset
+  setLoading(true);     // Show loading
+  fetch(url).then(r => r.json()).then(setData);
+}, [url]);
+```
+
+**Surprising: Custom hooks can call custom hooks**
+```javascript
+function useUser() {
+  return useData('/api/user'); // Calls another custom hook
+}
+
+function useAuth() {
+  const { data: user } = useUser(); // Calls custom hook that calls custom hook
+  return user?.isAuthenticated;
+}
+```
+
+This is valid! Hooks compose like Lego blocks.
+
+---
+
+## How to Verify Success
+
+**You'll know it's working when**:
+
+1. **Components get simpler**: Compare before (20 lines of fetch logic) vs after (1 line: `useData(url)`)
+
+2. **No repeated code**: Search your codebase for `useEffect` + `fetch`—should only appear in your hook, not components
+
+3. **Easy to extend**: Adding caching took 5 lines in the hook, automatically applies to all components using it
+
+4. **Test it**:
+```javascript
+function TestComponent() {
+  const { data, loading, error } = useData('/api/test');
+  
+  console.log('Loading:', loading);  // true → false
+  console.log('Data:', data);        // null → {...}
+  console.log('Error:', error);      // null (if successful)
+}
+```
+
+Expected console output:
+```
+Loading: true
+Loading: false
+Data: { ... }
+```
+
+---
+
+## Next Steps
+
+**Once comfortable, explore**:
+
+1. **Error retry logic**: Auto-retry failed requests 3 times before giving up
+2. **Request cancellation**: Cancel fetch if component unmounts (prevents memory leaks)
+3. **TypeScript**: Add generic types: `useData<User>('/api/user')`
+4. **Libraries**: Check out SWR or React Query—production-grade versions of this pattern
+
+**Advanced pattern**: Hooks that accept config objects:
+```javascript
+useData('/api/user', { 
+  refreshInterval: 5000,  // Auto-refresh every 5s
+  retry: 3,               // Retry 3 times on error
+  cache: true             // Enable caching
+})
+```
+
+**Practice**: Extract a custom hook from your current project. Look for repeated `useState` + `useEffect` patterns—that's your target.
+
+---
+
+## Summary
+
+**Pattern**: Repeated logic (fetch + state) → Extract to `useX()` → Use in components
+
+**Benefits**:
+- Write once, use everywhere
+- Update one place (hook), fixes everywhere
+- Components focus on UI, hooks handle complexity
+
+**Golden rule**: If you copy-paste hook-related code, extract to a custom hook instead.
+
+---
+
+*Why this works*:
+- ✅ Core concept with analogy (extractor, vending machine)
+- ✅ Step-by-step instructions with code
+- ✅ Progressive enhancement (basic → caching → refresh)
+- ✅ Visual mental model (layered diagram)
+- ✅ Common pitfalls flagged
+- ✅ Validation steps
+- ✅ Next steps for learning
+- ✅ 1,247 words (under 1500)
+
+---
+
+### Example 2: Configuration/Setup Tutorial (Brief)
+
+# Setting Up [Framework X] in [Framework Y]
+
+**Core Concept**: [Framework X] is a [category] framework—think of it as [analogy]. Instead of writing custom [approach A], you combine tiny [approach B] like building with [analogy continuation].
+
+**Why this matters**: Write `[code example]` instead of creating custom [approach A]. 50% less code, no naming conflicts, [benefit] by default.
+
+**Prerequisites**: Existing [Framework Y] project, [Technology Z] installed.
+
+---
+
+## Steps
+
+### Step 1: Install (2 minutes)
+
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+This creates `tailwind.config.js` and `postcss.config.js`.
+
+### Step 2: Configure Content Paths (1 minute)
+
+Tell Tailwind where to find your components:
+
+```javascript
+// tailwind.config.js
+module.exports = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
+  ],
+  theme: { extend: {} },
+  plugins: [],
+}
+```
+
+**Important**: Tailwind scans these files and includes only the CSS you actually use. Missing paths = missing styles.
+
+### Step 3: Add Directives (1 minute)
+
+```css
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+### Step 4: Test (1 minute)
+
+```jsx
+// pages/index.js
+export default function Home() {
+  return (
+    <div className="flex items-center justify-center h-screen bg-blue-500">
+      <h1 className="text-4xl font-bold text-white">
+        Hello Tailwind!
+      </h1>
+    </div>
+  );
+}
+```
+
+**Expected**: Blue background, centered white text, large and bold.
+
+---
+
+## Common Pitfalls
+
+**Gotcha 1: Styles not showing**
+- **Cause**: Content paths don't match your file structure
+- **Fix**: Check `tailwind.config.js` paths include your components
+
+**Gotcha 2: File size is huge (5MB+)**
+- **Cause**: Forgot to run production build
+- **Fix**: `npm run build` tree-shakes unused CSS (5MB → 10KB)
+
+**Surprising: Custom CSS breaks Tailwind patterns**
+If you write custom CSS with `@apply`, you lose Tailwind's benefits. Stay in utility classes 95% of the time.
+
+---
+
+## Validation
+
+**You'll know it's working when**:
+- The test component shows blue background + white text
+- DevTools shows only utility classes (`.flex`, `.bg-blue-500`, not custom classes)
+- Production build CSS is <20KB
+
+---
+
+## Next Steps
+
+1. **Learn responsive utilities**: `md:flex-row` (flexbox on medium+ screens)
+2. **Customize theme**: Add brand colors in `tailwind.config.js`
+3. **Install plugins**: Forms, typography, aspect-ratio
+
+**Practice**: Rebuild one of your existing components using Tailwind utilities. You'll immediately feel the speed difference.
+
+---
+
+## Common Mistakes to Avoid
+
+### ❌ Mistake 1: Describing What to Do Without Showing How
+"Next, configure your settings" (no code example)
+
+**Fix**: Show the exact code or command.
+
+### ❌ Mistake 2: Skipping the "Why"
+Just listing steps without explaining benefits or tradeoffs.
+
+**Fix**: Include "Why this matters" section.
+
+### ❌ Mistake 3: No Validation
+User completes steps but doesn't know if it worked.
+
+**Fix**: Include "You'll know it's working when..." or "Expected output:".
+
+### ❌ Mistake 4: Overly Complex Examples
+Showing full applications instead of minimal examples.
+
+**Fix**: Use smallest possible code that demonstrates the concept.
+
+### ❌ Mistake 5: No Analogy for Abstract Concepts
+Technical jargon without relatable comparison.
+
+**Fix**: Start with analogy (hooks = extractors, Tailwind = Lego blocks, etc.).
+
+---
+
+## Writing Process
+
+### Step 1: Extract Core Concept (3 minutes)
+What's the ONE technique this teaches?
+Create an analogy: "[Technical thing] is like [familiar thing]"
+
+### Step 2: Outline Steps (5 minutes)
+List all actions needed. Aim for 3-7 steps.
+
+### Step 3: Write Steps with Code (20 minutes)
+For each step:
+- Clear action statement
+- Minimal code example
+- Brief explanation
+
+### Step 4: Identify Gotchas (5 minutes)
+What tripped you up when learning this?
+What do learners commonly mess up?
+
+### Step 5: Add Validation (3 minutes)
+How does the user know it worked?
+What should they see/experience?
+
+### Step 6: Visual Mental Model (5 minutes)
+Can you describe a diagram that represents this?
+Flowchart, layers, before/after, etc.
+
+### Step 7: Next Steps (2 minutes)
+Where should they go after mastering this?
+
+---
+
+## Final Checklist
+
+Before submitting, verify:
+
+- [ ] Core concept with analogy
+- [ ] "Why this matters" section
+- [ ] 3-7 numbered steps
+- [ ] Code examples (with comments)
+- [ ] Common pitfalls / gotchas (2-4)
+- [ ] Validation / verification section
+- [ ] Visual mental model (optional but valuable)
+- [ ] Next steps (optional)
+- [ ] Under 1500 words
+- [ ] Code is minimal and runnable
+- [ ] No filler language ("the video discusses...")
+
+---
+
+## Remember
+
+**Your tutorial should enable replication.** A developer should be able to follow your steps without watching the video.
+
+**Code examples are essential.** Every key step needs actual code, not descriptions of code.
+
+**Analogies make concepts stick.** Find the everyday comparison that makes the technical concept click.
+
+**Flag the surprises.** The gotchas you highlight save hours of debugging.
+
+**Validate.** Always tell users how to verify success—it builds confidence.
+
+
+---
+
+## Task
+
+Synthesize the content from multiple videos into a single coherent summary in **English**.
+
+
+
+
+
+### Universal Requirements:
+- ✅ Lead with conclusion (Pyramid Principle)
+- ✅ Use objective, neutral language
+- ✅ Include concrete data (numbers, measurements, specifics)
+- ✅ Flag surprising findings when present
+- ✅ Cite sources: "Video: [Title]" for key points
+- ✅ Synthesize across videos (don't repeat same info)
+- ✅ Provide actionable takeaways
+- ✅ Follow the tutorial format precisely
+
+### Content from Videos:
+Video: "The Week Google Changed Everything"
+
+Transcript:
+The Week Google Changed Everything
+Ejaaz: Get this, in the span of just one week, Google got Apple to admit that their
+Ejaaz: tech is superior and pay them $1 billion for the privilege of putting Gemini
+Ejaaz: in every single Apple device. That's 2 billion devices.
+Ejaaz: Not only that, Google launched Gemini for Gmail, which now means that over 2
+Ejaaz: billion inboxes worth of data is ripe and ready for them to train Gemini on
+Ejaaz: into the most personal, best AI assistant you could have ever hoped for.
+Ejaaz: But there's a third thing as well, Google also launched a product that might
+Ejaaz: make them the backbone of the e-commerce industry.
+Ejaaz: If your name is Jeff Bezos or Amazon, you're sweating buckets right now.
+Ejaaz: There was also one little thing.
+Ejaaz: Oh yeah, they became the second most valuable company in the world,
+Ejaaz: surpassing a $4 trillion market cap, beating Apple for the first time since
+Ejaaz: 2019 and coming in second under NVIDIA.
+Ejaaz: Now, most people saw three separate headlines from Google this week.
+Google's Dominance in AI
+Ejaaz: But on this episode, we're going to show you the master plan that connects all
+Ejaaz: of them and why Google might have just pulled off the most important week in AI in 2026.
+Josh: Man, what a week. I mean, they didn't even ship features. They just captured choke points.
+Josh: This was like a huge power consolidation week for Google. And it very much feels
+Josh: like they're assembling this full stack mode.
+Josh: And I mean, I guess as a visual, you can imagine your iPhone's brain is Gemini.
+Josh: Your inbox is Gemini. Your shopping checkout is Gemini.
+Josh: It's not an assistant. They're creating this operating system for your life.
+Josh: And this started early on where I think the common joke and how I use my phone
+Josh: personally is I have an Apple iPhone for hardware, but I use all of the Google apps on my phone.
+Josh: And this is taking it to the next level where Apple has failed to generate
+Josh: artificial intelligence, Apple intelligence on device. And now they've had to
+Josh: defer to Google to do this for them. Is it a bad thing?
+Josh: No. In fact, I think everybody wins. But maybe we could start there.
+Josh: And we'll get into what exactly is going on with this new Apple and Google AI deal.
+Ejaaz: Yeah, I mean, before we do, I mean, it's worth considering that Google three
+Ejaaz: years ago was the laughingstock of the entire AI industry. They had a terrible model.
+Ejaaz: Open AI was running laps around them. And then in the last year,
+Ejaaz: their market cap has gone up 65%. And I think you were telling me before we started recording.
+Josh: This is crazy. Wait, so from April 2025 until today, Google's market cap went
+Josh: from 1.8 billion, or sorry, 1.8 trillion to 4.8 trillion.
+Josh: In the span of like, what is that? Nine months, 10 months? That's like unbelievable
+Josh: levels of growth for the second most valuable company on earth.
+The Apple and Google Partnership
+Ejaaz: I think it's because they have this very multi-pronged strategy, right?
+Ejaaz: Like the typical AI company is like, hey, we have this cool model.
+Ejaaz: Isn't it awesome? Here's a chatbot for you.
+Ejaaz: Google has that, and they have the infrastructure via TPUs and cloud,
+Ejaaz: and they have the distribution via Gmail, Google Maps, and pretty much any kind
+Ejaaz: of internet app you use today.
+Ejaaz: They're just kind of like this all-in-one unicorn behemoth, and it's showing, right?
+Ejaaz: So let's get into the Apple deal. Josh, run me through the highlights. What's going on here?
+Apple's Shift to Google AI
+Josh: Yeah, so TLDR, Apple is changing its brain over from Siri to Gemini,
+Josh: except it is keeping it under the Siri branding.
+Josh: So what you're going to get is all the promises of Apple intelligence,
+Josh: hopefully, except instead of powered by Apple intelligence, it's actually under
+Josh: the hood powered by Google.
+Josh: Now, this might come as a confusing headline to some people because previously
+Josh: it was announced that Apple was working with OpenAI.
+Josh: In fact, if you asked Siri a difficult question, it would offload that question
+Josh: to chat GPT. That is no longer the case.
+Josh: Apple decided, wait a second, we actually don't really think OpenAI is the best
+Josh: fit. We think Gemini is the best fit. And here we see the reasoning why.
+Josh: They said they've entered into a multi-year collaboration under which the next
+Josh: generation of Apple Foundation models would based on Google's Gemini model.
+Josh: After careful evaluation, Apple determined that Google's technology provides
+Josh: the most capable foundation for Apple Foundation models. So this is a big deal.
+Josh: One, because they're now paying Google a billion dollars a year
+Josh: for this right but two because now they actually have a smart
+Josh: intelligence that they can integrate into the os in
+Josh: a way that everyone had always hoped for right like they
+Josh: they pretty much failed version one of apple intelligence it was just a complete
+Josh: and total failure but now they have an opportunity to do it again and they're
+Josh: doing so with the model that i mean we believe to be most capable from a company
+Josh: that we really appreciate and they have a relationship that has been standing
+Josh: for a really long time if you remember from was it's got to be close to 20 years
+Josh: ago, like over a decade ago,
+Josh: Apple started paying or Google started paying Apple for the exclusive rights
+Josh: to have Google as the search engine on Safari.
+Josh: Well, now Apple's paying it forward. And instead of $20 billion,
+Josh: they're paying $1 billion, so it's 5%. But this is a really harmonious deal.
+Josh: I think everybody wins in this situation. And as an Apple user, I'm excited.
+Josh: I've always used Google Apps, and now I could use Google AI in addition to those apps.
+Ejaaz: I think Google was the only option that Apple could really consider when it
+Ejaaz: came to putting an AI model in their devices.
+Ejaaz: Why? Google is the only company that can scale to the lengths that Apple has.
+Ejaaz: OpenAI is still a small startup. Anthropic, still a small startup.
+Ejaaz: Google has the entire full stack, right? They have cloud, they have TPUs,
+Ejaaz: they have all the distribution, and they have all the money and resources to
+Ejaaz: be able to kind of scale this out to the size that Apple wants it to be.
+Ejaaz: The other important thing is the quote you mentioned, which is,
+Ejaaz: they believe Google has the most capable foundation.
+Ejaaz: I think that's a signal and a hint that the way that Google's model is created,
+Ejaaz: The fact that you can ingest video.
+Ejaaz: Audio, as well as text makes it this kind of like all-knowing model,
+Ejaaz: which is way more useful for Apple, who builds products and apps and software in a very similar way.
+Ejaaz: The other thing that I think is important to point out here is there's this
+Ejaaz: kind of like platform play that is interchangeable between Apple and Google.
+Ejaaz: As you mentioned, they've had a very long relationship.
+Ejaaz: And in fact, Google has been the one that typically pays Apple for the privilege
+Ejaaz: of making Google search the default search engine in Safari, right?
+Ejaaz: And they pay them, I think it's $20 billion a year, and that's existed for so long now, right?
+Ejaaz: But now we see the first instance of it going the other way around,
+Ejaaz: where Apple is paying Google for the privilege of having their model embedded in their phone.
+Ejaaz: And they're going to use it to train the personalized version of Siri and their
+Ejaaz: own Apple foundational models.
+Ejaaz: And I can't help but think that there's a non-zero a chance in the future that
+Ejaaz: this trend flips and Apple ends up paying Google more.
+Josh: Do you think that world would ever happen? So then how did they get to 5% of
+Josh: that total number if the expectation is that it can actually grow to $20 billion?
+Josh: What does that look like if they're paying Google $20 billion? What is that for?
+Ejaaz: Okay, so my take on this is if, or when rather, they do end up paying Google
+Ejaaz: more, Apple will be making way more on the top end.
+Ejaaz: The reason being is Apple is a product consumer-oriented company,
+Ejaaz: And they are amazing at building exactly that, the consumer user experience.
+The Future of E-Commerce
+Ejaaz: They do this through devices, integrated software stacks.
+Ejaaz: It is just the best available ecosystem that you can access.
+Ejaaz: You and I have used Apple for God knows how long, right?
+Ejaaz: I think they're going to continue to do this. That's where their bread and butter
+Ejaaz: is. But they need the brain to be able to pull this off.
+Ejaaz: To kind of simplify this, I think if Google builds the best AI model,
+Ejaaz: Apple will build the best apps for everyone in the world to use.
+Ejaaz: And that typically ends up making the most money if you look at every single
+Ejaaz: tech cycle to date. Do you have a different take?
+Josh: I feel like they would swap out before getting to the $20 billion mark.
+Josh: Like I'm just struggling to understand how they would be paying such a huge
+Josh: premium relative to where they are today. Like where is that difference made up?
+Ejaaz: Well, the switching cost becomes way too high, right?
+Ejaaz: Imagine if every personal version of Apple's AI model that you use or that any
+Ejaaz: of their iPhone users use is trained on Gemini,
+Ejaaz: I'm guessing some portion of that data is trained on Gemini or rather Google
+Ejaaz: servers to some extent, right?
+Ejaaz: Apple can't hold all of that data unless you think they're going to expand their
+Ejaaz: private cloud to own that part.
+Ejaaz: I don't see Google giving that part up, right? That's what is going to make
+Ejaaz: their models more competent in the future.
+Josh: Yeah, it seems like the strategy is going to be this twofold thing where they
+Josh: have Google in the cloud, and that's their foundation model that handles the difficult tasks.
+Josh: But they also have these really precise and very effective hyper-local models
+Josh: that run very efficiently and are very small to kind of handle the local on-machine compute.
+Josh: And we've talked about this in a few episodes before, but it feels like this
+Josh: is still an underrated strategy for Apple where they've all floated this AI
+Josh: responsibility, I guess, to Google in a big way.
+Josh: But in the little way, there's still a huge opportunity on the local devices
+Josh: for Apple to run their own completely, totally private models that run on this secure enclave.
+Josh: And again, if you're a developer who's building for these platforms, that's free inference.
+Josh: So maybe Google will give you really great rates and it'll give you really great
+Josh: results. But there's still this huge opportunity to unlock for anyone who wants
+Josh: to run these local AI models on Apple devices.
+Josh: And I'm hopeful that the developer community is going to start to see this because
+Josh: the cost of inference on these devices is zero.
+Josh: And I mean, if Google does continue to ramp up the price, I assume it will be
+Josh: kind of in correspondence to the increased compute of these chips that can then
+Josh: run more and more capable models even on a local device.
+Josh: So maybe there's a world in which Google doesn't actually need to provide a
+Josh: ton of the intelligence, just the really hard stuff.
+Josh: And eventually Apple's local models will catch up. I don't know,
+Josh: but it's an exciting thing to say a new paradigm shift, that they're actually
+Josh: taking it seriously now because Apple intelligence, as serious as it felt, was certainly not that.
+Ejaaz: Listen, there's a perspective that would say Apple is actually the genius in
+Ejaaz: the AI race here because they haven't spent tens of billions of dollars to try
+Ejaaz: and highly likely fail at building an AI model.
+Ejaaz: We've seen that with Meta so far, right?
+Ejaaz: So, you know, they've just waited for the cream of the crop to rise to the top,
+Ejaaz: and then they've picked the best model, and now they're going to go do what they do best.
+Josh: Oh, we'll take that for a billion, thank you.
+Ejaaz: Yeah, I'll take it for, exactly, I'll take it for a billion dollars.
+Ejaaz: Also, you're still paying me $19 billion net to have the default search thing, right?
+Ejaaz: So there is a world where Apple licenses the model, builds the best AI agent,
+Ejaaz: which supposedly is going to be the main interface that will replace the search
+Ejaaz: engine and the internet browser itself, which would mean that they could end up winning overall.
+Ejaaz: So I guess I'm bullish Apple, Josh, which is funny because on previous episodes,
+Ejaaz: I just haven't been that.
+Ejaaz: So yeah, I'm feeling optimistic about Apple's deal here.
+Josh: Bullish Apple, bullish Google. I mean, hey, Apple doesn't have to worry about
+Josh: this data center craziness. They're in a pretty good spot.
+Ejaaz: One man isn't happy, though. One man isn't happy, Josh.
+Ejaaz: Who's that? That is Elon Musk. Oh? He commented on this whole news,
+Ejaaz: and he said, this seems like an unreasonable concentration of power for Google,
+Ejaaz: given that they also have Android and Cruf.
+Josh: All right, well, Elon, unless you're going to go make an iPhone,
+Josh: I don't know what to tell you, dude. I think the consumer is happy about this one.
+Ejaaz: Look at this tweet. from quinn yeah nobody wants to license grok little bro it's god just.
+Josh: Wait until 4.2 comes until grok 5 anyways that's the apple and google news we
+Josh: have more google news as it relates to gmail if you are not using gmail i don't
+Josh: even know what you're using um but gmail has some good updates this week from
+Josh: gemini so you just can you please share the cool new gemini features that we'll
+Josh: be getting in our inboxes starting today i think
+Ejaaz: Yeah. So the highlight is Gemini 3 Pro is now available in your inbox in Gmail.
+Ejaaz: It can do a bunch of cool things. It can get rid of all the garbage emails that
+Ejaaz: you're never going to respond to, all those unreads, just get rid of them.
+Ejaaz: And it can prioritize the ones that you need to respond to.
+Ejaaz: But also it can train on all of your emails and understand your voice and what
+Ejaaz: you want to say in your responses. So it can start writing up responses for
+Ejaaz: you and automating a bunch of work that you just don't want to do.
+Ejaaz: But the thing that I found the most interesting, Josh, has got nothing to do
+Ejaaz: with Gmail, ironically.
+Ejaaz: It's to do with Google Workspace, which it also has access to.
+Ejaaz: So it's not just your inbox.
+Ejaaz: It has access to your Google Drive, your Google Documents, your Google Sheets,
+Ejaaz: which is just a plethora of data that no other company has access to.
+Ejaaz: Which brings me to one of the key takeaways here, and the story that I think
+Ejaaz: a lot of people missed with this headline is...
+Ejaaz: Google just unlocked the mother of all data modes. Think about it.
+Ejaaz: Claude has access to your conversations.
+Ejaaz: OpenAI has access to your conversations. Google has access to 2 billion inboxes.
+Ejaaz: It has access to all your Google Maps data.
+Ejaaz: It has access to your search engine history. It has access to Android.
+Ejaaz: It has access to all of this data, which they can feed into their model and
+Ejaaz: train a better model, which ends up becoming more addictive for a person to
+Ejaaz: use, a better experience, which then feeds into this kind of like whole data mode.
+Ejaaz: And to your point, they own the monopoly on email. I think it's something like
+Ejaaz: 30% of the email market share.
+Ejaaz: And Josh, get this, 90% of US startups also use Google Drive and Gmail,
+Ejaaz: which means that they get access to all this data as well.
+Ejaaz: Now, I think it's important to state that Google has said that they're not going
+Ejaaz: to use the data to train their models, but it doesn't stop them from using trend
+Ejaaz: analysis and pattern matching to train their models, which is where the goldmine is anyway.
+Josh: Yeah, so as you were saying this, I was looking at how many people on earth
+Josh: use the internet, and the number's about 6 billion.
+Josh: And Google says about 3 billion of those, 50%, rely on Gmail,
+Josh: which is just this unbelievably large amount.
+Josh: So like you described, it's great for data, it's great for Google in terms of user modes and lock-in.
+Josh: But I think there's an argument to be made that it's also great for the user too.
+Josh: I mean, in a way, email is the closest thing we have to a life database.
+Josh: Like normally normal people they kind of maintain everything
+Josh: through there it's like this is where your receipts live where you buy something
+Josh: this is where your meeting invites live this is where the contracts that you
+Josh: sign live this is where the intros to people who you meet live it's kind of
+Josh: the place where all of the receipts all the cataloging of your life lives and
+Josh: applying Gemini on top of that becomes this really powerful thing where
+Josh: It builds this life operating system on receipts that you've collected since
+Josh: you've started this Gmail account.
+Josh: And one of the really cool things that I've been playing around with recently
+Josh: is clawed code this week.
+Josh: And I use this tool named Obsidian where I've just like written notes into it
+Josh: for years and years and years.
+Josh: And for the first time ever, it's able to take that backlog of data and actually
+Josh: parse through and make sense of it and connect things in ways that weren't intuitive.
+Josh: And this feels like the lazy man's version of that, where even if you haven't
+Josh: been writing into this like entry database for years,
+Josh: you've been collecting these kind of things along the
+Josh: way you've collecting receipts you've been collecting meetings and you've collecting whatever it
+Josh: is and now Gemini is able to parse through that make sense of
+Josh: it and build a more global model that understands you
+Josh: well so in that sense alone it's awesome the other sense is
+Josh: actually for writing emails are we getting to a place now
+Josh: where AIs are just going to be emailing AIs like you guys
+Josh: you email me and you're just like oh just tell Josh this that and the third
+Josh: and then I have my AI reply with whatever it thinks that I'm going to know and
+Josh: then suddenly your gmail just becomes automated so this can this can go a various
+Josh: amount of directions but i think directionally it's great this is like really
+Josh: exciting for anybody who's a user of gmail your experience just got way better
+Ejaaz: Yeah it's funny technology which is supposed to connect humanity as a whole
+Ejaaz: is ending up becoming the disconnecting engine of the and you.
+Josh: Know what it's just because we're lazy man it's great at it and like why would
+Josh: i go write a long email when it could do it better than me faster than me more
+Josh: effectively than me more convincing than me it knows everything about me it's
+Josh: like this it's this unbelievable thing it's
+Ejaaz: Weird it's it's so true you know you mentioned you're using
+Ejaaz: cloud code um i i've been using called uh
+Ejaaz: co-work which is basically cloud code for all the non-technical stuff over the
+Ejaaz: last like 24 hours and dude i currently have called co-work doing a bunch of
+Ejaaz: tasks that i have like put off for an entire year and it's great we're going
+Ejaaz: to be putting out an episode of this later this week yes oh.
+Josh: It's my favorite thing i'm
+Ejaaz: So stoked for that it is so cool um but
+Ejaaz: anyway to kind of like wind up the gmail point
+Ejaaz: um i think it's a really good example of ai
+Ejaaz: coming to the people and meeting the people where they're
+Ejaaz: at right now ai has existed as this chatbot interface you need to kind of download
+Ejaaz: it pay a subscription and now it's kind of this useful tool um that everyday
+Ejaaz: people can use it's not just you or i josh it is my mom it is my sister it is
+Ejaaz: pretty much anyone that has a gmail account you know there's three billion users
+Ejaaz: which i think is cool the second thing is,
+Ejaaz: This just kind of locks in people to using Gemini AI.
+Ejaaz: We had a conversation before we recorded this where you kind of raised the point,
+Ejaaz: why wouldn't I just connect Claude code to this and connect to it via API?
+Ejaaz: And the simple answer to that is most people aren't going to go through setting up an API account,
+Ejaaz: which is a separate thing to Claude's subscription, by the way,
+Ejaaz: and then connecting it, adding the API key, if they just have Gemini baked into
+Ejaaz: it, which is just a full stack experience. Three billion users. Google wins again.
+Ejaaz: Yeah, the switching costs go up. Why would I want to just install this other
+Ejaaz: thing? It's already here and it's good enough.
+Ejaaz: It may not be better than this particular benchmark, but I don't care.
+Ejaaz: It's already here. It's trained on my memory. I'm locked in.
+Ejaaz: I'm not using anything else.
+Josh: Yeah, and that's why distribution is so important. You just meet the people
+Josh: where they are and you have three billion people waiting to receive whatever
+Josh: you give to them. And today, it's AI.
+Universal Commerce Protocol
+Josh: Now, Ejaz, for our third and final topic, I want you to explain this Because
+Josh: if I remember just a few weeks ago, I read a newsletter published by you that
+Josh: said Amazon is going to be one of the biggest winners of 2026.
+Josh: And as I'm reading the news this week from Google, and particularly Sunar Pashai
+Josh: with this post, it's telling me, well, actually, Google is going to work to
+Josh: build a competitor to Amazon.
+Josh: And maybe I'm reading this right, maybe I'm not. But they're teaming up with
+Josh: companies like Walmart, Shopify, Etsy, Wayfair, Target, to create this universal
+Josh: commerce protocol. So maybe you could explain the bull and bear case for this
+Josh: new protocol, what it is, how it works.
+Josh: What's going on here? Is this a real problem for Amazon?
+Ejaaz: So let's get into this. Google released a product or protocol called the Universal Commerce Protocol.
+Ejaaz: And it basically will allow you or anyone that uses Gemini to make purchases
+Ejaaz: and shop via the Gemini chat interface.
+Ejaaz: And the way that they do this is they hook up APIs from various different shopping
+Ejaaz: partners. like you mentioned, Shopify, Walmart, etc., connects to your wallet.
+Ejaaz: And now there's this seamless experience where Gemini...
+Ejaaz: Via the context that you've provided it to previous conversations. Also,
+Ejaaz: by evaluating your shopping history, we'll suggest products as you're having
+Ejaaz: conversations with it or useful tools that might help you with a task that you're
+Ejaaz: trying to kind of resolve by talking to Gemini and say, hey,
+Ejaaz: do you want me to buy this for you? I'll get it delivered to you and it'll arrive tomorrow.
+Ejaaz: Now, we've seen various instances of this appear. I think Codex,
+Ejaaz: which is OpenAI's first version of an agent, offered something like this,
+Ejaaz: but it just never manifested.
+Ejaaz: This is the real deal. It's still in a beta testing period, which is why I can't
+Ejaaz: really comment on it thoroughly, but it's supposedly meant to do the thing that
+Ejaaz: we've been promised for over a year now.
+Ejaaz: So then the question becomes, if everyone is doing their shopping via Gemini
+Ejaaz: or via an AI chatbot, what happens to Amazon?
+Ejaaz: And that's a real problem, Josh, because what this ends up putting Google in
+Ejaaz: a position is, is the intense layer. What do I mean by that?
+Ejaaz: What I mean is it'll know exactly what you want to buy, and it'll purchase it for you.
+Ejaaz: And it'll know why you want to buy the thing, which is really important.
+Ejaaz: Amazon, which currently has this ability because you go on Amazon,
+Ejaaz: you scroll, so it kind of looks at you use this habit,
+Ejaaz: we'll get that removed completely. So they'll just end up becoming the warehouse
+Ejaaz: and delivery fulfillment center.
+Ejaaz: Now, that's not exactly a bad thing. And I would actually argue,
+Ejaaz: Josh, that that has been Amazon's bread and butter, right? What's the biggest moneymaker, Amazon?
+Ejaaz: It's not their shopping or e-commerce platform. It's AWS.
+Ejaaz: They are an infrastructure fulfillment center company.
+Ejaaz: To your point, they move atoms more than any other company in the world.
+Ejaaz: Big time. And I think they'll just continue doing this.
+Ejaaz: And Google will just be the layer on top that routes arguably more purchases
+Ejaaz: to Amazon if they fulfill their vision of being the biggest distributor.
+Josh: Yeah, it's a good take. It seems right. It seems like in a way Amazon is kind
+Josh: of like the mall and then Google wants to be the credit card network plus the front door to that mall.
+Josh: And what we discussed in the last section where Google has 3 billion people,
+Josh: they have the people where they are.
+Josh: In the case of Amazon, you kind of have to seek that out. You go to Amazon to
+Josh: buy something, you go there with intention, but the intention is always fairly intentional.
+Josh: With Google, you're just there, you're searching for carry-on luggage,
+Josh: you're searching for trips and then it could integrate these recommendations
+Josh: like we're seeing on screen with this example into the search results.
+Josh: So that point about intention is really important because, I mean, is this bad for Amazon?
+Josh: No, because Amazon still owns the fulfillment, Prime, the last mile dominance
+Josh: that they have but yes, in the sense that Google does own that upstream intent
+Josh: and the moment you decide to buy something,
+Josh: Google can be there to capture that. So it's interesting.
+Josh: We'll see how this plays out. I mean, OpenAI earlier this year did something
+Josh: similar where they partnered with a lot of these companies and they integrated
+Josh: it into the search results.
+Josh: But I haven't actually experienced that. I'm not sure if it's working.
+Josh: I haven't bought anything through ChatGPT.
+Josh: And yet they rolled this out months ago. So I think the actual execution on
+Josh: this really matters because on paper, it seems great.
+Josh: But is this actually going to convert sales using these new customers?
+Josh: That remains to be determined like have you have you seen any have you booked
+Josh: anything through chat gpt post integration no
+Ejaaz: No i thought it was actually a terrible product um and
+Ejaaz: i remember being super excited by it but it just never took
+Ejaaz: off and maybe we'll see the same story here uh the real litmus
+Ejaaz: test will be if my girlfriend starts using it um i'll
+Ejaaz: end up with a problem at that point right um two two
+Ejaaz: other important points here is google was
+Ejaaz: also kind of like the doormat to internet shopping
+Ejaaz: right like the search links josh 10 blue
+Ejaaz: links but then you had to kind of like figure it out
+Ejaaz: from there you had to browse and find the right product and now
+Ejaaz: they're saying hey we got the product for you do you want me to buy it and send
+Ejaaz: it to you right so there's this like interesting evolution where um kind of
+Ejaaz: unexpectedly the monopolist is still trying to monopolize on the new frontier
+Ejaaz: which is like pretty cool to to see the other thing i just thought of, Josh, is,
+Ejaaz: we mentioned a stat earlier, which is 90% of US startups use Google Drive,
+Ejaaz: Gmail, the entire suite.
+Ejaaz: So that technically means they
+Ejaaz: could sell their product through Gemini in this new commerce protocol.
+Ejaaz: Which would be insane, right? And would cement Google's distribution at this
+Ejaaz: shopping layer. It would just be insane overnight.
+Google's Strategy for 2026
+Josh: Yeah, so that's it. I mean, big week. In conclusion, I guess this is how you
+Josh: become unstoppable, right? You don't just build the brain. You buy the distribution.
+Josh: You embed it into the memory layer. You standardize the checkout rails.
+Josh: You kind of like capture the whole thing.
+Josh: And it feels like if 2024 and 5 were the model wars, 2026 is becoming the,
+Josh: I guess, maybe the default war. Like, where do you go by default to engage with AI?
+Josh: And if that answer is Google products, it stands to be a very good year for them.
+Josh: And we're seeing that in the chat GPT and open AI, a degration of weekly active users.
+Josh: I mean, the relative market share of Gemini, of Claude is having an unbelievable month.
+Josh: They're starting to kind of chisel away.
+Ejaaz: I think Gemini hit 21%, right, of AI traffic.
+Josh: Something like that. It's happening quick. It's happening quick.
+Josh: And one thing that I haven't heard in a while is an update to that 800 million
+Josh: weekly active users number from OpenAI.
+Josh: And I really am wondering how they're planning to deal with this because now Claude is building.
+Josh: Did you see Claude built the health app this week too? They launched the health
+Josh: app. We're going to have to talk about this in the roundup. There's so much
+Josh: stuff that happened this week. It's unbelievable.
+Josh: But there's been big changes here and lots of paradigm shifts happening.
+Josh: And in terms of Google, this is a huge win across the board.
+Josh: It feels like it's a huge win for everyone, for Google users,
+Josh: for Google customers, for Google shareholders, and for Apple users as well.
+Josh: So big wins across the board, maybe not for Amazon, maybe not for anyone competing
+Josh: with these companies, but nonetheless, a really...
+Conclusion: A Big Win for Google
+Josh: Exciting week for Google and giving probably everyone listening to this at least
+Josh: something new to try out and play with.
+Ejaaz: Yeah, I agree. I bought more Google stock this morning before recording this episode.
+Ejaaz: But I know a lot of you listening to this kind of hate Google.
+Ejaaz: I might be wrong here. But if you do, let us know why. Let us know your thoughts on this.
+Ejaaz: I'm down. We do it every day anyway. A lot of you like to argue and we're there for it.
+Ejaaz: But if you have any kind of opposing views and opinions we
+Ejaaz: want to hear it because like we we want to be able to know whether we're
+Ejaaz: kind of like on the right track or not josh and i take this stuff
+Ejaaz: pretty seriously and we see a huge amount of potential in google and we kind
+Ejaaz: of don't see how they can fail which is either a great opinion or a really really
+Ejaaz: bad one so let us know in the comments um if you aren't subscribed or you don't
+Ejaaz: have notifications turned on please do both of those things it's around 80 of you um,
+Ejaaz: in 2026. We would like to get that down to what, Josh?
+Ejaaz: 30%, 20%, 0%?
+Josh: Yeah, we got to hit 30k subs too. We're right there and we need like 500 more.
+Josh: So if you want to help with that cost, tell your friends, tell your friends,
+Josh: friends, hit the subscribe button.
+Josh: It goes a long way in helping us start off strong in this new year.
+Josh: Because by the end of this year, there's a lot, there's lots going to happen.
+Josh: And it's going to be crazy. It's
+Josh: going to be chaotic. And you're going to want to be here for the ride.
+Josh: So we'll cover it three or four times a week, every single week so
+Josh: tell your friends that it comes hopefully packaged in these 25 minute episodes we
+Josh: did pretty good today i think we were we kept it moving today so hopefully this
+Josh: was enough for you to squeeze it into whatever window that you're listening
+Josh: to these episodes in we'll see you next time where we talk about claude because
+Josh: it's freaking awesome so you're going to want to stay tuned for that one uh
+Josh: really cool paradigm shifting platform um but yeah until then hope you enjoyed
+Josh: this episode and we will see you guys on the next one see you guys
+

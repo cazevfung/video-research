@@ -1,0 +1,88 @@
+{
+  "title": "Settings",
+  "sections": {
+    "general": {
+      "title": "General",
+      "description": "Appearance and language preferences"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Manage your notification preferences"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "description": "Control your data sharing and analytics preferences"
+    },
+    "account": {
+      "title": "Account",
+      "description": "Account management and security settings"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "description": "Default settings for summary generation"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "Theme",
+      "description": "Choose your preferred color theme",
+      "options": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      }
+    },
+    "language": {
+      "label": "Language",
+      "description": "Select your preferred language"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "Email Notifications",
+      "description": "Receive email notifications about your account"
+    },
+    "creditLowThreshold": {
+      "label": "Credit Low Warning Threshold",
+      "description": "Get notified when your credits fall below this amount"
+    },
+    "summaryComplete": {
+      "label": "Summary Completion Notifications",
+      "description": "Get notified when your summaries are completed"
+    },
+    "tierUpgrade": {
+      "label": "Tier Upgrade Notifications",
+      "description": "Get notified about tier upgrade opportunities"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "Data Sharing",
+      "description": "Allow sharing of anonymized usage data to improve the service"
+    },
+    "analytics": {
+      "label": "Analytics",
+      "description": "Enable analytics to help us improve the application"
+    }
+  },
+  "account": {
+    "comingSoon": "Account management features coming soon. You can manage your account from the Account page.",
+    "goToAccount": "Go to Account Page"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "Default Language",
+      "description": "Default language for generated summaries"
+    },
+    "autoSave": {
+      "label": "Auto-save",
+      "description": "Automatically save your work as you go"
+    }
+  },
+  "buttons": {
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "back": "Back"
+  }
+}
+

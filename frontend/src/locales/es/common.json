@@ -1,0 +1,75 @@
+{
+    "buttons":  {
+                    "submit":  "Enviar",
+                    "cancel":  "Cancelar",
+                    "save":  "Guardar",
+                    "delete":  "Eliminar",
+                    "edit":  "Editar",
+                    "close":  "Cerrar",
+                    "back":  "Atrás",
+                    "next":  "Siguiente",
+                    "previous":  "Anterior",
+                    "retry":  "Reintentar",
+                    "newBatch":  "Nuevo lote",
+                    "summarize":  "Resumir",
+                    "saveChanges":  "Guardar cambios",
+                    "goBack":  "Volver"
+                },
+    "labels":  {
+                   "email":  "Correo electrónico",
+                   "password":  "Contraseña",
+                   "name":  "Nombre",
+                   "loading":  "Cargando...",
+                   "error":  "Error",
+                   "success":  "Éxito",
+                   "theme":  "Tema",
+                   "language":  "Idioma"
+               },
+    "actions":  {
+                    "save":  "Guardar",
+                    "cancel":  "Cancelar",
+                    "delete":  "Eliminar",
+                    "edit":  "Editar",
+                    "back":  "Atrás",
+                    "next":  "Siguiente",
+                    "previous":  "Anterior",
+                    "close":  "Cerrar",
+                    "confirm":  "Confirmar",
+                    "submit":  "Enviar",
+                    "retry":  "Reintentar",
+                    "loading":  "Cargando...",
+                    "refresh":  "Actualizar"
+                },
+    "status":  {
+                   "success":  "Éxito",
+                   "error":  "Error",
+                   "warning":  "Advertencia",
+                   "info":  "Información",
+                   "loading":  "Cargando"
+               },
+    "time":  {
+                 "justNow":  "Justo ahora",
+                 "minutesAgo":  "hace {{count}} minutos",
+                 "hoursAgo":  "hace {{count}} horas",
+                 "daysAgo":  "hace {{count}} días",
+                 "weeksAgo":  "hace {{count}} semanas",
+                 "monthsAgo":  "hace {{count}} meses",
+                 "yearsAgo":  "hace {{count}} años"
+             },
+    "validation":  {
+                       "required":  "Este campo es obligatorio",
+                       "invalid":  "Valor no válido",
+                       "tooShort":  "Demasiado corto",
+                       "tooLong":  "Demasiado largo"
+                   },
+    "devMode":  {
+                    "storage":  "Storage",
+                    "files":  "({{count}} {{count, plural, one {file} other {files}}})",
+                    "userId":  "User ID",
+                    "title":  "DEV MODE",
+                    "disabled":  "Disabled",
+                    "auth":  "Auth",
+                    "enabled":  "Enabled",
+                    "noLocalFiles":  "No local files found"
+                }
+}

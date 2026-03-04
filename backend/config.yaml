@@ -1,0 +1,308 @@
+system:
+  max_concurrent_jobs: 10 # Prevent server overload
+  job_timeout_minutes: 10 # Max time for a job to complete
+  sse_heartbeat_interval_seconds: 30 # Keep-alive for SSE connections
+  job_retention_hours: 1 # How long to keep completed jobs in memory
+  graceful_shutdown_timeout_seconds: 10 # Force shutdown timeout
+  session_max_age_hours: 24 # Session cookie max age in hours
+  jwt_expiration_hours: 24 # JWT token expiration time in hours
+  history_pagination_max_limit: 100 # Maximum items per page for history
+  history_pagination_default_limit: 20 # Default items per page for history
+  history_research_fallback_title: 'Research' # Fallback title when research_query is empty (history display)
+  dev_mode_credits: 999 # Credits for dev user when auth is disabled
+  use_local_storage: true # Default for development. Production (NODE_ENV=production) automatically uses Firestore.
+                          # Can be overridden with USE_LOCAL_STORAGE environment variable.
+
+metrics:
+  max_items_retention: 1000 # Maximum number of processing times/latencies to keep in memory
+  top_users_limit: 10 # Number of top users to show in quota usage statistics
+
+auth:
+  credit_reset_cron: "0 0 0 * * *" # Cron schedule for daily credit reset (midnight UTC)
+  dev_mode_tier: "premium" # Tier for dev user when auth is disabled
+
+freemium_model:
+  free_tier:
+    daily_request_limit: 3 # User can run 3 batches per day
+    max_videos_per_batch: 3
+    default_credits: 3
+  premium_tier:
+    daily_request_limit: 50
+    max_videos_per_batch: 10
+    default_credits: 50
+
+limits:
+  long_video_threshold_minutes: 60
+  long_video_word_count: 8000
+  custom_prompt_max_length: 500
+  max_batch_size: 10 # Absolute maximum regardless of tier
+  url_max_length: 2048 # Maximum URL length for validation
+  short_video_threshold_minutes: 1 # Videos shorter than this are considered "very short"
+  min_transcript_success_rate: 0.5 # Minimum success rate (0.5 = 50%) to continue processing. If below this, batch fails.
+  max_context_tokens: 2000000 # Maximum context window tokens (set very high to allow unlimited input - Qwen Plus/Max support up to 1M+ tokens)
+
+ai_models:
+  pre_condense: qwen-flash # Fast, cheap model for condensing
+  default_summary: qwen-plus # Default for final summary
+  premium_summary: qwen-plus # Premium users get better quality output
+
+api:
+  supadata:
+    base_url: https://api.supadata.ai/v1/youtube/transcript # Supadata API endpoint
+    timeout_ms: 60000 # 60 seconds timeout (increased for search operations which can be slower)
+    max_retries: 3 # Maximum retry attempts (increased to handle Supadata 500 errors)
+    retry_backoff_ms: 1000 # Base backoff delay in milliseconds
+  dashscope:
+    base_url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions # DashScope Beijing region API endpoint
+    timeout_ms: 180000 # 3 minutes (research summary can be slow; fallback non-streaming needs enough time)
+    max_retries: 1 # Maximum retry attempts
+    retry_backoff_ms: 2000 # Base backoff delay in milliseconds
+  youtube:
+    base_url: https://www.googleapis.com/youtube/v3/videos # YouTube Data API v3 endpoint
+    timeout_ms: 30000 # 30 seconds timeout
+    thumbnail_fallback_pattern: https://img.youtube.com/vi/{video_id}/maxresdefault.jpg # Fallback thumbnail URL pattern
+
+ai_settings:
+  temperature: 0.7 # Default temperature for AI generation
+  top_p: 0.8 # Nucleus sampling parameter (0.8 = more focused, higher quality output; 1.0 = full diversity)
+  token_estimation_ratio: 1.3 # Tokens per word estimation (approximate)
+  stream: true # Enable streaming responses from Qwen API
+  enable_thinking: false # Enable thinking mode for Qwen models
+  max_tokens_default: 200000 # Default max output tokens (set very high to allow unlimited output - model will use its maximum if lower)
+  context_window_safety_margin: 0.01 # Minimal safety margin (0.01 = 1%, effectively uses full context window, only blocks if exceeding full 2M token limit)
+  # Search term generation specific settings
+  search_term_generation:
+    enable_search: true # Enable internet search for current context (helps avoid outdated information)
+    enable_thinking: true # Enable deep reasoning mode for better query diversity
+    thinking_budget: 4000 # Maximum tokens for thinking process
+
+summary:
+  batch_title_max_length: 100 # Maximum length for batch titles
+  default_language: "English" # Default language for summaries
+  preset_styles: # Available preset styles for summaries
+    - "tldr"
+    - "bullet_points"
+    - "deep_dive"
+    - "tutorial"
+    - "detailed"
+  supported_languages:
+    - "English"
+    - "Spanish"
+    - "French"
+    - "German"
+    - "Chinese (Simplified)"
+    - "Chinese (Traditional)"
+    - "Japanese"
+    - "Korean"
+    - "Portuguese"
+    - "Italian"
+    - "Russian"
+    - "Arabic"
+  title_generation:
+    max_length: 60 # Maximum length for AI-generated titles
+    min_length: 5 # Minimum length for AI-generated titles
+    transcript_content_limit: 2000 # Maximum characters from transcripts to use for title generation (to save tokens)
+    temperature: 0.7 # Temperature for title generation (0.7 for creativity)
+    max_tokens: 100 # Maximum tokens for title generation response
+  progress_percentages:
+    validation: 5 # Progress when validating URLs
+    fetching: 10 # Progress when fetching transcripts
+    processing_start: 30 # Progress when starting video processing
+    processing_per_video: 20 # Progress increment per video during processing
+    further_condensing: 60 # Progress when further condensing
+    aggregating: 70 # Progress when aggregating content
+    generating: 85 # Progress when generating final summary
+    completed: 100 # Progress when completed
+  sse_streaming:
+    text_chunk_size: 50 # Size of each text chunk for SSE streaming (characters)
+    chunk_delay_ms: 30 # Delay between chunks in milliseconds
+    streaming_progress_ratio: 0.1 # Percentage of progress bar used for streaming (0.1 = 10%)
+    chars_per_token_estimate: 4 # Estimated characters per token for output length calculation
+    progress_cap_ratio: 0.99 # Maximum progress ratio during streaming (0.99 = 99%)
+    progress_range_multiplier: 0.93 # Multiplier for streaming progress range (0.93 = use 93% of range)
+    generating_message: "Generating summary..." # Status message during streaming
+    generating_final_message: "Generating final summary..." # Status message for non-streaming generation
+    streaming_unavailable_message: "Streaming unavailable, generating summary..." # Status message when falling back to non-streaming mode
+    fallback_message: "Streaming unavailable, generating summary..." # Legacy alias for streaming_unavailable_message
+
+job_cleanup:
+  cleanup_interval_hours: 1 # How often to run cleanup (in hours)
+  error_job_retention_hours: 24 # How long to keep error jobs (in hours)
+
+tasks:
+  limits:
+    free: 1 # Free users can run 1 simultaneous task
+    premium: 10 # Premium users can run up to 10 simultaneous tasks
+  polling_interval_seconds: 5 # How often frontend should poll for active tasks
+
+guest_access:
+  max_summaries: null # Maximum number of summaries a guest can create (null = unlimited)
+  cleanup_interval_hours: 24 # How often to run cleanup for expired guest sessions (in hours)
+
+rate_limiting:
+  auth:
+    window_minutes: 15 # Time window for auth rate limiting
+    max_requests: 60 # Max requests per IP per window (4 req/min) - Phase 3: Increased for better UX
+  general:
+    window_minutes: 15 # Time window for general API rate limiting
+    max_requests: 300 # Max requests per IP per window (20 req/min) - Phase 3: Increased to support task polling (16 req/min) + tier checks (2 req/min) + general API
+  summary:
+    window_hours: 24 # Time window for summary rate limiting (daily limit)
+    # max_requests is determined by freemium_model tier limits
+  research:
+    window_hours: 1 # Time window for research rate limiting (hourly limit)
+    # max_requests is determined by freemium_model tier limits
+
+research:
+  # Question generation
+  question_count: 5 # Number of research questions to generate
+  enable_question_approval: true # Allow user to approve/reject questions
+  enable_search_term_approval: true # Allow user to approve/reject search terms
+  enable_video_approval: true # Allow user to approve/reject video selection
+  
+  # Search query generation
+  queries_per_research: 10 # Number of search queries to generate per research job (kept for backward compatibility)
+  search_terms_per_question: 2 # Generate 2 search terms per question (total = question_count * 2)
+  videos_per_query: 10 # Number of videos to fetch per search query
+  # max_total_videos is calculated dynamically as queries_per_research * videos_per_query
+  
+  # Feedback limits
+  max_feedback_per_stage: 1 # Maximum regeneration attempts per stage
+  min_feedback_length: 100 # Minimum characters required for feedback
+  max_feedback_length: 500 # Maximum characters allowed for feedback
+  
+  # Approval timeouts
+  approval_timeout_hours: 1 # Auto-fail job if no approval within 1 hour
+  cleanup_pending_jobs_interval_hours: 1 # How often to clean up expired jobs
+  
+  # Video filtering
+  min_video_duration_seconds: 300 # 5 minutes minimum
+  max_video_duration_seconds: 5400 # 90 minutes maximum
+  target_selected_videos: 10 # Target number of videos to select
+  min_selected_videos: 8 # Minimum number of videos required to proceed
+  
+  # Summary generation
+  five_question_framework: true # Use 5-question framework for research summaries
+  include_video_citations: true # Include video citations in summary
+  use_questions_for_structure: true # Structure summary around approved questions
+  enable_style_guide: true # Generate adaptive style guide based on query and transcripts
+  style_guide_transcript_preview_length: 1000 # Number of characters to preview from each transcript for style analysis
+  
+  # Citation system (Phase 1)
+  citation:
+    enabled: true # Enable numbered citation system
+    sources_heading: # Localized "Sources" heading per language
+      English: "### Sources"
+      "Chinese (Simplified)": "### 来源"
+      "Chinese (Traditional)": "### 來源"
+      Spanish: "### Fuentes"
+      French: "### Sources"
+      German: "### Quellen"
+      Japanese: "### 出典"
+      Korean: "### 출처"
+      Portuguese: "### Fontes"
+      Italian: "### Fonti"
+      Russian: "### Источники"
+      Arabic: "### المصادر"
+    format_examples: # Citation format examples per language
+      English: |
+        Example: Gold has shown significant volatility[1]. Multiple factors contribute[2, 3].
+      "Chinese (Simplified)": |
+        示例：黄金显示出显著的波动性[1]。多种因素共同作用[2, 3]。
+      "Chinese (Traditional)": |
+        範例：黃金顯示出顯著的波動性[1]。多種因素共同作用[2, 3]。
+      Spanish: |
+        Ejemplo: El oro ha mostrado una volatilidad significativa[1]. Múltiples factores contribuyen[2, 3].
+      French: |
+        Exemple: L'or a montré une volatilité significative[1]. Plusieurs facteurs contribuent[2, 3].
+    parser: # Citation parser configuration (Phase 2)
+      patterns:
+        single: "\\[(\\d+)\\]" # Single citation: [1]
+        multiple: "\\[(\\d+(?:,\\s*\\d+)+)\\]" # Multiple citations: [1, 3, 5]
+        range: "\\[(\\d+)-(\\d+)\\]" # Range citations: [1-4]
+        section_heading: "^##\\s+(.+)$" # H2 section headings: ## Title
+      sources_section_patterns: # Patterns for detecting Sources sections per language
+        English:
+          - "### Sources"
+        "Chinese (Simplified)":
+          - "### 来源"
+        "Chinese (Traditional)":
+          - "### 來源"
+        Spanish:
+          - "### Fuentes"
+        French:
+          - "### Sources"
+        German:
+          - "### Quellen"
+        Japanese:
+          - "### 出典"
+        Korean:
+          - "### 출처"
+        Portuguese:
+          - "### Fontes"
+        Italian:
+          - "### Fonti"
+        Russian:
+          - "### Источники"
+        Arabic:
+          - "### المصادر"
+      validation:
+        log_invalid_citations: true # Log warnings for invalid citation numbers
+        allow_invalid_citations: true # Allow invalid citations (false = strict validation mode)
+  
+  # Credit costs
+  base_cost: 100 # Base research setup cost
+  per_video_cost: 10 # Cost per video transcribed
+  
+  # Rate limiting (per tier)
+  free_tier_max_per_hour: 3 # Free tier: 3 research jobs per hour (reduced due to longer workflow)
+  starter_tier_max_per_hour: 10 # Starter tier: 10 research jobs per hour
+  pro_tier_max_per_hour: 25 # Pro tier: 25 research jobs per hour
+  premium_tier_max_per_hour: 50 # Premium tier: 50 research jobs per hour
+  
+  # Timeouts
+  search_timeout_ms: 60000 # 60 seconds timeout for video search (increased for slow API responses)
+  filter_timeout_ms: 60000 # 60 seconds timeout for video filtering
+  summary_timeout_ms: 180000 # 180 seconds timeout for summary generation
+  
+  # Progress percentages (updated for enhanced workflow)
+  progress_percentages:
+    created: 0
+    generating_questions: 5
+    awaiting_question_approval: 10
+    regenerating_questions: 11
+    generating_search_terms: 20
+    awaiting_search_term_approval: 25
+    regenerating_search_terms: 26
+    searching_videos: 35
+    videos_found: 45
+    filtering_videos: 50
+    awaiting_video_approval: 55
+    refiltering_videos: 56
+    fetching_transcripts: 65
+    transcripts_ready: 75
+    generating_summary: 85
+    completed: 100
+
+# Supadata API configuration for YouTube Search
+supadata_search:
+  search_url: https://api.supadata.ai/v1/youtube/search # Supadata YouTube Search API endpoint
+  sort_by: relevance # 'views', 'date', 'relevance' - Sort by relevance for best match quality, then client-side sorts by recency and views
+  video_type: video
+  supported_durations: # Duration filters
+    - medium
+    - long
+  # Rate-limit friendly: run searches with limited concurrency and spacing to avoid 429
+  concurrency: 2 # Max parallel requests to Supadata (default 2)
+  delay_between_requests_ms: 600 # Delay between starting each request (ms)
+
+# Optional: Local storage configuration (only used when system.use_local_storage: true)
+# If not specified, defaults to:
+#   data_directory: "data"
+#   summaries_subdirectory: "summaries"
+#   users_subdirectory: "users"
+# Uncomment and customize if you need different paths:
+# local_storage:
+#   data_directory: "data" # Base directory for local storage (relative to process.cwd())
+#   summaries_subdirectory: "summaries" # Subdirectory for summary JSON files
+#   users_subdirectory: "users" # Subdirectory for user JSON files

@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "공유된 연구 로딩 중...",
+    "error": "공유된 연구를 불러올 수 없습니다",
+    "errorMessage": "이 공유된 연구를 불러오는 중 오류가 발생했습니다.",
+    "shareIdRequired": "공유 ID가 필요합니다"
+  },
+  "metadata": {
+    "sharedOn": "{{date}}에 공유됨",
+    "viewed": "{{count}} {{count, plural, one {회} other {회}}} 조회"
+  },
+  "footer": {
+    "createResearch": "자신만의 연구 만들기",
+    "poweredBy": "<brand>Video Research</brand>에서 제공"
+  }
+}

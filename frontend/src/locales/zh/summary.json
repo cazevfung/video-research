@@ -1,0 +1,201 @@
+{
+  "header": {
+    "title": "将数小时的视频转化为几分钟的阅读",
+    "subtitle": "使用AI批量总结多个YouTube视频。以您喜欢的风格和语言获得全面的见解。"
+  },
+  "form": {
+    "title": "YouTube摘要生成器",
+    "urlLabel": "YouTube链接",
+    "urlPlaceholder": "在此粘贴YouTube链接（每行一个）...",
+    "promptPresets": "提示预设",
+    "expandStyles": "更多",
+    "collapseStyles": "收起",
+    "expandStylesAria": "展开样式详情",
+    "collapseStylesAria": "收起样式详情",
+    "bestFor": "适用于",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "要点",
+      "deep_dive": "深入分析",
+      "tutorial": "教程",
+      "detailed": "详细"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "超简洁摘要，以主要结论开头。非常适合快速浏览和移动端阅读。",
+        "bestFor": "快速概览、移动用户、高管、时间有限的读者",
+        "characteristics": [
+          "最多100字",
+          "以答案开头（金字塔原则）",
+          "通过Twitter测试（核心思想在280字符内）",
+          "加粗标题行，包含具体数据"
+        ]
+      },
+      "bullet_points": {
+        "name": "要点",
+        "framework": "Smart Brevity格式",
+        "description": "结构化格式的可扫描要点。主要摘要后跟带具体细节的优先要点。",
+        "bestFor": "会议记录、快速参考、可扫描要点、团队分享",
+        "characteristics": [
+          "最多500字",
+          "主要摘要格式",
+          "优先要点",
+          "每个要点通过\"那又怎样？\"测试"
+        ]
+      },
+      "tutorial": {
+        "name": "教程",
+        "framework": "TED演讲提取 + 视觉思维",
+        "description": "带代码示例和视觉类比的逐步指南。提取\"值得学习的一种技术\"，提供可操作的说明。",
+        "bestFor": "操作指南、代码教程、技术指南、学习新技能",
+        "characteristics": [
+          "最多1500字",
+          "核心思想带类比",
+          "逐步说明带代码片段",
+          "突出常见陷阱",
+          "无需观看视频即可复制"
+        ]
+      },
+      "detailed": {
+        "name": "详细",
+        "framework": "麦肯锡方法 + 金字塔原则",
+        "description": "全面的文章式摘要，包含执行摘要、结构化章节和可操作建议。旨在替代观看所有视频。",
+        "bestFor": "全面分析、战略决策、替代视频观看、深入研究",
+        "characteristics": [
+          "最多3000字",
+          "执行摘要（独立）",
+          "情境-复杂性-解决方案结构",
+          "每个章节以结论开头",
+          "独立分析章节"
+        ]
+      },
+      "deep_dive": {
+        "name": "深入分析",
+        "framework": "研究论文结构 + 麦肯锡方法",
+        "description": "技术深度分析，包含全面分析、性能基准和多种实现方法。最大深度和细节。",
+        "bestFor": "技术分析、性能评估、权衡讨论、研究级细节",
+        "characteristics": [
+          "最多3000字",
+          "大量代码示例",
+          "性能基准",
+          "多种实现方法",
+          "权衡讨论"
+        ]
+      }
+    },
+    "customPrompt": "自定义提示",
+    "customPromptPlaceholder": "添加任何特定的说明或要求...",
+    "customPromptHelper": "可选：添加自定义说明以定制摘要输出",
+    "language": "语言",
+    "submitButton": "生成摘要",
+    "processing": "处理中...",
+    "starting": "启动中...",
+    "summarize": "总结"
+  },
+  "urlValidation": {
+    "validLinks": "检测到{{count}}个有效链接",
+    "invalidLinks": "{{count}}个无效链接",
+    "invalidLinksWithLines": "{{count}}个无效链接（第{{lines}}行）",
+    "invalidTooltip": "检测到无效的YouTube链接。请检查格式。",
+    "ariaLabel": "YouTube链接输入"
+  },
+  "language": {
+    "default": "默认（您的偏好）",
+    "english": "英语",
+    "spanish": "西班牙语",
+    "french": "法语",
+    "german": "德语",
+    "chineseSimplified": "简体中文",
+    "chineseTraditional": "繁体中文",
+    "japanese": "日语",
+    "korean": "韩语",
+    "portuguese": "葡萄牙语",
+    "italian": "意大利语",
+    "russian": "俄语",
+    "arabic": "阿拉伯语"
+  },
+  "messages": {
+    "pasteUrl": "请至少粘贴一个YouTube链接以继续",
+    "selectPreset": "请选择一个提示预设以继续"
+  },
+  "tooltips": {
+    "urlInput": "在此粘贴一个或多个YouTube链接，每行一个。系统将自动验证每个链接。",
+    "controlPanel": "选择一个提示预设以自定义摘要的生成方式。您还可以添加自定义说明以满足特定要求。"
+  },
+  "errors": {
+    "configLoadFailed": "加载配置失败",
+    "retry": "重试"
+  },
+  "result": {
+    "sourceVideos": "源视频",
+    "viewOnYouTube": "在YouTube上查看",
+    "noImage": "无图片",
+    "showLess": "显示更少",
+    "showMore": "还有{{count}}个",
+    "videoAnalyzed": "已分析{{count}}个视频",
+    "summary": "摘要",
+    "waitingForContent": "等待内容..."
+  },
+  "buttons": {
+    "copy": "复制",
+    "copied": "已复制",
+    "copiedExclamation": "已复制！",
+    "save": "保存",
+    "saving": "保存中...",
+    "newBatch": "新建批次",
+    "export": "导出",
+    "exporting": "导出中...",
+    "delete": "删除",
+    "deleting": "删除中..."
+  },
+  "tooltips": {
+    "waitForCompletion": "等待摘要完成",
+    "summaryNotAvailable": "摘要不可用",
+    "saving": "保存中...",
+    "saveToLibrary": "保存到库",
+    "collapseVideos": "收起视频",
+    "showMoreVideos": "显示更多{{count}}个视频"
+  },
+  "toasts": {
+    "copiedToClipboard": "已复制到剪贴板！",
+    "failedToCopy": "复制到剪贴板失败",
+    "cannotSaveNotAvailable": "无法保存：摘要不可用",
+    "waitForCompletion": "请等待摘要完成后再保存",
+    "cannotSaveMissingContent": "无法保存：摘要内容缺失",
+    "savedToLibrary": "已保存到库",
+    "failedToSave": "保存摘要失败",
+    "summaryDeleted": "摘要已删除",
+    "failedToDelete": "删除摘要失败",
+    "summaryExported": "摘要已导出！",
+    "failedToExport": "导出摘要失败"
+  },
+  "metadata": {
+    "processedIn": "处理用时{{seconds}}秒",
+    "video": "个视频",
+    "videos": "个视频"
+  },
+  "deleteDialog": {
+    "title": "删除摘要",
+    "description": "您确定要删除此摘要吗？此操作无法撤销。",
+    "cancel": "取消",
+    "delete": "删除"
+  },
+  "processing": {
+    "fetchingTranscripts": "正在获取字幕...",
+    "processingVideos": "正在处理视频...",
+    "condensingVideos": "正在压缩长视频...",
+    "aggregatingContent": "正在合并字幕...",
+    "generatingSummary": "正在生成最终摘要...",
+    "processingVideosCount": "正在处理 {{completed}}/{{total}} 个视频",
+    "videoCount": "{{count}} 个视频",
+    "percentComplete": "{{progress}}% 完成"
+  },
+  "submittedUrls": {
+    "title": "已提交的链接 ({{count}})",
+    "showLess": "显示更少",
+    "showAll": "显示全部",
+    "invalidUrlsDetected": "检测到 {{count}} 个无效链接"
+  }
+}

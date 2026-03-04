@@ -1,0 +1,184 @@
+{
+  "header": {
+    "title": "数時間の動画を数分の読書に変換",
+    "subtitle": "AIを使用して複数のYouTube動画を一括要約。お好みのスタイルと言語で包括的な洞察を得られます。"
+  },
+  "form": {
+    "title": "YouTube要約ジェネレーター",
+    "urlLabel": "YouTubeリンク",
+    "urlPlaceholder": "YouTubeリンクをここに貼り付けてください（1行に1つ）...",
+    "promptPresets": "プロンプトプリセット",
+    "expandStyles": "詳細",
+    "collapseStyles": "簡略",
+    "expandStylesAria": "スタイルの詳細を展開",
+    "collapseStylesAria": "スタイルの詳細を折りたたむ",
+    "bestFor": "最適な用途",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "要点",
+      "deep_dive": "詳細分析",
+      "tutorial": "チュートリアル",
+      "detailed": "詳細"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "主な結論から始まる超簡潔な要約。クイックスキャンとモバイル読書に最適です。",
+        "bestFor": "クイック概要、モバイルユーザー、エグゼクティブ、時間に制約のある読者",
+        "characteristics": [
+          "最大100語",
+          "答えから始まる（ピラミッド原則）",
+          "Twitterテストに合格（280文字以内の核心アイデア）",
+          "具体的なデータを含む太字のトップライン"
+        ]
+      },
+      "bullet_points": {
+        "name": "要点",
+        "framework": "Smart Brevity形式",
+        "description": "構造化された形式のスキャン可能な要点。具体的な詳細を含む優先順位付けされた箇条書きが続く主要要約。",
+        "bestFor": "会議メモ、クイックリファレンス、スキャン可能な要点、チーム共有",
+        "characteristics": [
+          "最大500語",
+          "トップライン形式",
+          "優先順位付けされた箇条書き",
+          "各箇条書きが「だから何？」テストに合格"
+        ]
+      },
+      "tutorial": {
+        "name": "チュートリアル",
+        "framework": "TEDトーク抽出 + 視覚的思考",
+        "description": "コード例と視覚的類推を含むステップバイステップガイド。「学ぶ価値のある一つの技術」を実用的な指示で抽出します。",
+        "bestFor": "ハウツーコンテンツ、コードチュートリアル、技術ガイド、新しいスキルの学習",
+        "characteristics": [
+          "最大1500語",
+          "類推を含む核心アイデア",
+          "コードスニペット付きステップバイステップ",
+          "一般的な落とし穴を強調",
+          "動画を見ずに再現可能"
+        ]
+      },
+      "detailed": {
+        "name": "詳細",
+        "framework": "マッキンゼー方式 + ピラミッド原則",
+        "description": "エグゼクティブサマリー、構造化されたセクション、実用的な推奨事項を含む包括的な記事スタイルの要約。すべての動画を見ることを置き換えるように設計されています。",
+        "bestFor": "包括的分析、戦略的意思決定、動画視聴の置き換え、詳細な研究",
+        "characteristics": [
+          "最大3000語",
+          "エグゼクティブサマリー（独立）",
+          "状況-複雑化-解決構造",
+          "各セクションが結論から始まる",
+          "独立した分析セクション"
+        ]
+      },
+      "deep_dive": {
+        "name": "詳細分析",
+        "framework": "研究論文構造 + マッキンゼー方式",
+        "description": "包括的な分析、パフォーマンスベンチマーク、複数の実装アプローチを含む技術的詳細分析。最大の深度と詳細。",
+        "bestFor": "技術分析、パフォーマンス評価、トレードオフの議論、研究レベルの詳細",
+        "characteristics": [
+          "最大3000語",
+          "広範なコード例",
+          "パフォーマンスベンチマーク",
+          "複数の実装アプローチ",
+          "トレードオフの議論"
+        ]
+      }
+    },
+    "customPrompt": "カスタムプロンプト",
+    "customPromptPlaceholder": "要約に関する特定の指示や要件を追加してください...",
+    "customPromptHelper": "オプション：要約出力をカスタマイズするためのカスタム指示を追加",
+    "language": "言語",
+    "submitButton": "要約を生成",
+    "processing": "処理中...",
+    "starting": "開始中...",
+    "summarize": "要約"
+  },
+  "urlValidation": {
+    "validLinks": "{{count}}個の有効なリンクが検出されました",
+    "invalidLinks": "{{count}}個の無効なリンク",
+    "invalidLinksWithLines": "{{count}}個の無効なリンク（{{lines}}行目）",
+    "invalidTooltip": "無効なYouTubeリンクが検出されました。形式を確認してください。",
+    "ariaLabel": "YouTubeリンク入力"
+  },
+  "language": {
+    "default": "デフォルト（お好み）",
+    "english": "英語",
+    "spanish": "スペイン語",
+    "french": "フランス語",
+    "german": "ドイツ語",
+    "chineseSimplified": "中国語（簡体字）",
+    "chineseTraditional": "中国語（繁体字）",
+    "japanese": "日本語",
+    "korean": "韓国語",
+    "portuguese": "ポルトガル語",
+    "italian": "イタリア語",
+    "russian": "ロシア語",
+    "arabic": "アラビア語"
+  },
+  "messages": {
+    "pasteUrl": "続行するには、少なくとも1つのYouTubeリンクを貼り付けてください",
+    "selectPreset": "続行するには、プロンプトプリセットを選択してください"
+  },
+  "tooltips": {
+    "urlInput": "ここに1つ以上のYouTubeリンクを貼り付けてください。1行に1つ。システムが各リンクを自動的に検証します。",
+    "controlPanel": "プロンプトプリセットを選択して、要約の生成方法をカスタマイズします。特定の要件に対してカスタム指示を追加することもできます。"
+  },
+  "errors": {
+    "configLoadFailed": "設定の読み込みに失敗しました",
+    "retry": "再試行"
+  },
+  "result": {
+    "sourceVideos": "ソース動画",
+    "viewOnYouTube": "YouTubeで見る",
+    "noImage": "画像なし",
+    "showLess": "折りたたむ",
+    "showMore": "あと{{count}}件",
+    "videoAnalyzed": "{{count}}件の動画を分析",
+    "summary": "要約"
+  },
+  "buttons": {
+    "copy": "コピー",
+    "copied": "コピー済み",
+    "copiedExclamation": "コピーしました！",
+    "save": "保存",
+    "saving": "保存中...",
+    "newBatch": "新しいバッチ",
+    "export": "エクスポート",
+    "exporting": "エクスポート中...",
+    "delete": "削除",
+    "deleting": "削除中..."
+  },
+  "tooltips": {
+    "waitForCompletion": "要約の完了をお待ちください",
+    "summaryNotAvailable": "要約が利用できません",
+    "saving": "保存中...",
+    "saveToLibrary": "ライブラリに保存",
+    "collapseVideos": "動画を折りたたむ",
+    "showMoreVideos": "あと{{count}}件の動画を表示"
+  },
+  "toasts": {
+    "copiedToClipboard": "クリップボードにコピーしました！",
+    "failedToCopy": "クリップボードへのコピーに失敗しました",
+    "cannotSaveNotAvailable": "保存できません：要約が利用できません",
+    "waitForCompletion": "保存する前に要約の完了をお待ちください",
+    "cannotSaveMissingContent": "保存できません：要約コンテンツがありません",
+    "savedToLibrary": "ライブラリに保存しました",
+    "failedToSave": "要約の保存に失敗しました",
+    "summaryDeleted": "要約を削除しました",
+    "failedToDelete": "要約の削除に失敗しました",
+    "summaryExported": "要約をエクスポートしました！",
+    "failedToExport": "要約のエクスポートに失敗しました"
+  },
+  "metadata": {
+    "processedIn": "{{seconds}}秒で処理",
+    "video": "動画",
+    "videos": "動画"
+  },
+  "deleteDialog": {
+    "title": "要約を削除",
+    "description": "この要約を削除してもよろしいですか？この操作は元に戻せません。",
+    "cancel": "キャンセル",
+    "delete": "削除"
+  }
+}

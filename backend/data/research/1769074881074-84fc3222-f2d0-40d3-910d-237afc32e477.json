@@ -1,0 +1,905 @@
+{
+  "job_id": "84fc3222-f2d0-40d3-910d-237afc32e477",
+  "timestamp": "2026-01-22T09:41:21.074Z",
+  "request": {
+    "research_query": "how will AI impact organizational structures, particularly the middle management and how teams are formed",
+    "language": "English"
+  },
+  "generated_queries": [
+    "AI killing middle management",
+    "How AI changes team structure at work",
+    "Future of middle managers with AI",
+    "AI and organizational design 2024",
+    "What happens to managers when AI takes over",
+    "Google Microsoft AI restructuring teams",
+    "How to lead teams in AI era",
+    "AI flat organizations no middle management",
+    "Harvard Business Review AI management future",
+    "AI-powered teams real examples"
+  ],
+  "supadata_metadata": [
+    {
+      "video_id": "3lPnN8omdPA",
+      "title": "How to Stop AI from Killing Your Critical Thinking | Advait Sarkar | TED",
+      "channel": "TED",
+      "thumbnail": "https://i.ytimg.com/vi/3lPnN8omdPA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0O_BpaQIKRwEQDbavYLrCCOkRnA",
+      "duration_seconds": 895,
+      "view_count": 147864,
+      "upload_date": "3 weeks ago",
+      "url": "https://www.youtube.com/watch?v=3lPnN8omdPA"
+    },
+    {
+      "video_id": "yw1J6FJfUwA",
+      "title": "Why Mid-Level Managers Are Getting Laid Off in 2025 | Career Growth, AI, and Job Security",
+      "channel": "Vishal Manocha",
+      "thumbnail": "https://i.ytimg.com/vi/yw1J6FJfUwA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEkY2LtOgTDgratu6XKc60MNcZhg",
+      "duration_seconds": 392,
+      "view_count": 827,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=yw1J6FJfUwA"
+    },
+    {
+      "video_id": "CbIpVb4MB8U",
+      "title": "The middle management AI apocalypse is accelerating",
+      "channel": "Easy Going Growers",
+      "thumbnail": "https://i.ytimg.com/vi/CbIpVb4MB8U/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDC4h7L3XnlAWwO0JJUvx1rXgQKyA",
+      "duration_seconds": 845,
+      "view_count": 41,
+      "upload_date": "Streamed 6 months ago",
+      "url": "https://www.youtube.com/watch?v=CbIpVb4MB8U"
+    },
+    {
+      "video_id": "__k4DfZWZQ0",
+      "title": "SHOCK: AI Automation KILLS Millions of US Jobs — Economy CRASHES — The Great Reset",
+      "channel": "RetireWise",
+      "thumbnail": "https://i.ytimg.com/vi/__k4DfZWZQ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDc_-OytiJodDK4mUuKYx8pTh-_pw",
+      "duration_seconds": 825,
+      "view_count": 17,
+      "upload_date": "3 weeks ago",
+      "url": "https://www.youtube.com/watch?v=__k4DfZWZQ0"
+    },
+    {
+      "video_id": "q4d-Z8rqOlk",
+      "title": "Is AI Killing Communication Skills? | Ep 17",
+      "channel": "Paul Leon",
+      "thumbnail": "https://i.ytimg.com/vi/q4d-Z8rqOlk/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYFyBBKH8wDw==&rs=AOn4CLDrYcwFJ3lc_h2gXwqg4lNDPBkfIA",
+      "duration_seconds": 592,
+      "view_count": 0,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=q4d-Z8rqOlk"
+    },
+    {
+      "video_id": "TECDj4JUx7o",
+      "title": "How AI Coding Agents Will Change Your Job",
+      "channel": "Y Combinator",
+      "thumbnail": "https://i.ytimg.com/vi/TECDj4JUx7o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB94XQ5cmTGCL0PgLb5mHAt47PYZw",
+      "duration_seconds": 1152,
+      "view_count": 114322,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=TECDj4JUx7o"
+    },
+    {
+      "video_id": "FYD_YNFVjbw",
+      "title": "Managing Remote Teams Has Changed – Here’s What Works in 2025",
+      "channel": "MeetGeek",
+      "thumbnail": "https://i.ytimg.com/vi/FYD_YNFVjbw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAlmnUEzr-XnDSO-0OfWs5bUlQgA",
+      "duration_seconds": 497,
+      "view_count": 31324,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=FYD_YNFVjbw"
+    },
+    {
+      "video_id": "siX2CL9JpW0",
+      "title": "How AI Will Change Work",
+      "channel": "Relay (relay.app)",
+      "thumbnail": "https://i.ytimg.com/vi/siX2CL9JpW0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCdPKrpILJi7A-6fKUfxkNPos1_og",
+      "duration_seconds": 1068,
+      "view_count": 4712,
+      "upload_date": "4 months ago",
+      "url": "https://www.youtube.com/watch?v=siX2CL9JpW0"
+    },
+    {
+      "video_id": "SfRnUQ7nvdk",
+      "title": "🇬🇧 Why AI Finally Works in 2026 — When Structure Comes First. Press Release AllyAllez Switzerland",
+      "channel": "AllyAllez 🇨🇭",
+      "thumbnail": "https://i.ytimg.com/vi/SfRnUQ7nvdk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAL4DYcJh9i4zw4dziQN1CXrJCJTg",
+      "duration_seconds": 284,
+      "view_count": 194,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=SfRnUQ7nvdk"
+    },
+    {
+      "video_id": "ozVb14bNwzQ",
+      "title": "AI Is Laying Off... Senior Executives",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/ozVb14bNwzQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7HC9GwbqWpK20Kww76yr9VImswA",
+      "duration_seconds": 956,
+      "view_count": 1557755,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=ozVb14bNwzQ"
+    },
+    {
+      "video_id": "C0W4H6jMLKg",
+      "title": "Why Middle Management is the Hardest Job | Simon Sinek",
+      "channel": "Simon Sinek",
+      "thumbnail": "https://i.ytimg.com/vi/C0W4H6jMLKg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkpkrmVAS4iACdYXGqaLg8HNul1A",
+      "duration_seconds": 276,
+      "view_count": 1338143,
+      "upload_date": "5 years ago",
+      "url": "https://www.youtube.com/watch?v=C0W4H6jMLKg"
+    },
+    {
+      "video_id": "IeTFpsuCor8",
+      "title": "The graduate 'jobpocalypse':  Where have all the entry-level jobs gone? | FT Working It",
+      "channel": "Financial Times",
+      "thumbnail": "https://i.ytimg.com/vi/IeTFpsuCor8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9dEvC0SLI1w-8fb1tfhCkP4seQQ",
+      "duration_seconds": 838,
+      "view_count": 1251589,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=IeTFpsuCor8"
+    },
+    {
+      "video_id": "3EBqWe3d3CI",
+      "title": "TCS, Intel, Microsoft: A Global Wave of AI-Led Mass Layoffs | Vantage with Palki Sharma | N18G",
+      "channel": "Firstpost",
+      "thumbnail": "https://i.ytimg.com/vi/3EBqWe3d3CI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-COF3X-G-hS1PXLIcqIOYIFSyEw",
+      "duration_seconds": 365,
+      "view_count": 942365,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=3EBqWe3d3CI"
+    },
+    {
+      "video_id": "yic4ImNSE3w",
+      "title": "How AI Is Replacing Middle-Class Careers",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/yic4ImNSE3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7APHQMcJ5Lhby8T9BOb717fPJrA",
+      "duration_seconds": 533,
+      "view_count": 384420,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=yic4ImNSE3w"
+    },
+    {
+      "video_id": "WdGVCjekkHk",
+      "title": "Drowning In Middle Management - Is There A Way Out?",
+      "channel": "Logically Answered",
+      "thumbnail": "https://i.ytimg.com/vi/WdGVCjekkHk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDZUQaGBoO-SvriPpur1HV5g9yfaQ",
+      "duration_seconds": 784,
+      "view_count": 89264,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=WdGVCjekkHk"
+    },
+    {
+      "video_id": "f-6wAvkaO-g",
+      "title": "AI and Leadership: The Smart Way for Managers to Use Artificial Intelligence | 2025",
+      "channel": "David Burkus",
+      "thumbnail": "https://i.ytimg.com/vi/f-6wAvkaO-g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtW5JN6yRQ6mR1gFf0qpkzlD31RA",
+      "duration_seconds": 698,
+      "view_count": 10567,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=f-6wAvkaO-g"
+    },
+    {
+      "video_id": "esJ9BOZJ55E",
+      "title": "Amazon Just Terminated 14,000 Managers – The AI Takeover Begins",
+      "channel": "The Clueless Employee",
+      "thumbnail": "https://i.ytimg.com/vi/esJ9BOZJ55E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmnm1_P474dYbGvPKwSb-hQb1n4w",
+      "duration_seconds": 512,
+      "view_count": 2318,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=esJ9BOZJ55E"
+    },
+    {
+      "video_id": "6XGa7FG3mAI",
+      "title": "Why Middle Managers Are Vanishing (and What It Means for You)",
+      "channel": "Benjamin Preston",
+      "thumbnail": "https://i.ytimg.com/vi/6XGa7FG3mAI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYm88kJfxpDNiH0K1CRys_vEFH_A",
+      "duration_seconds": 268,
+      "view_count": 1283,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=6XGa7FG3mAI"
+    },
+    {
+      "video_id": "Kcn-GkXPdyA",
+      "title": "HRBP Explains: Why Middle Managers Are Disappearing",
+      "channel": "Sanja Williams",
+      "thumbnail": "https://i.ytimg.com/vi/Kcn-GkXPdyA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBg65zYcHD2dw5lhIewwmlrN4w2gQ",
+      "duration_seconds": 481,
+      "view_count": 965,
+      "upload_date": "11 months ago",
+      "url": "https://www.youtube.com/watch?v=Kcn-GkXPdyA"
+    },
+    {
+      "video_id": "2ESTkhUCKmM",
+      "title": "Why Organization Design Is More Urgent Than Ever, and AI Accelerates The Need",
+      "channel": "Josh Bersin",
+      "thumbnail": "https://i.ytimg.com/vi/2ESTkhUCKmM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYRCBTKGUwDw==&rs=AOn4CLA9igMbknmhoZDZGgyHwblX7YTy7w",
+      "duration_seconds": 1183,
+      "view_count": 206,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=2ESTkhUCKmM"
+    },
+    {
+      "video_id": "hfmmjaaSsik",
+      "title": "All that AI is not just saving money | Unpacking organizations: the practitioner's podcast S01E19",
+      "channel": "Orgvue",
+      "thumbnail": "https://i.ytimg.com/vi/hfmmjaaSsik/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKFEwDw==&rs=AOn4CLAQRtsLpy_8Z6Y--2vgXsKAPDRSCA",
+      "duration_seconds": 1059,
+      "view_count": 40,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=hfmmjaaSsik"
+    },
+    {
+      "video_id": "ozVb14bNwzQ",
+      "title": "AI Is Laying Off... Senior Executives",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/ozVb14bNwzQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7HC9GwbqWpK20Kww76yr9VImswA",
+      "duration_seconds": 956,
+      "view_count": 1557755,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=ozVb14bNwzQ"
+    },
+    {
+      "video_id": "PzRDmok1xgY",
+      "title": "If AI Takes All The Jobs, This Is What Society Looks Like",
+      "channel": "Moon",
+      "thumbnail": "https://i.ytimg.com/vi/PzRDmok1xgY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBIaY11TbqE2vkQmrpNIfRhM5Borw",
+      "duration_seconds": 865,
+      "view_count": 1039588,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=PzRDmok1xgY"
+    },
+    {
+      "video_id": "U5XS7_FqL9k",
+      "title": "High-Paying Careers of the Future: What AI Won’t Take Over",
+      "channel": "Jean Lee",
+      "thumbnail": "https://i.ytimg.com/vi/U5XS7_FqL9k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9esXb3lrtkMzVsG3Fn_8UtgkVGQ",
+      "duration_seconds": 583,
+      "view_count": 864217,
+      "upload_date": "11 months ago",
+      "url": "https://www.youtube.com/watch?v=U5XS7_FqL9k"
+    },
+    {
+      "video_id": "3MwMII8n1qM",
+      "title": "What Will Happen to Marketing in the Age of AI? | Jessica Apotheker | TED",
+      "channel": "TED",
+      "thumbnail": "https://i.ytimg.com/vi/3MwMII8n1qM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7n5VmwYOf6VJ_T0_nZdm65ogWfg",
+      "duration_seconds": 644,
+      "view_count": 828175,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=3MwMII8n1qM"
+    },
+    {
+      "video_id": "8g5img1hTes",
+      "title": "The Truth About AI And The Mass Layoffs",
+      "channel": "CNBC",
+      "thumbnail": "https://i.ytimg.com/vi/8g5img1hTes/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZcWRqXBOwaEBAuyTTHdyrrYy81Q",
+      "duration_seconds": 364,
+      "view_count": 480270,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=8g5img1hTes"
+    },
+    {
+      "video_id": "tKNJH7L9ntE",
+      "title": "AI Will Take 40% Jobs by 2030: Indian Graduate CRISIS EXPOSED | Warikoo Careers Hindi",
+      "channel": "warikoo careers",
+      "thumbnail": "https://i.ytimg.com/vi/tKNJH7L9ntE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMAqBx5OxuZWO0tXL3Pqc0hUXhgA",
+      "duration_seconds": 922,
+      "view_count": 333233,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=tKNJH7L9ntE"
+    },
+    {
+      "video_id": "u8R7pEU7eUg",
+      "title": "TECH CEO EXPLAINS: Why AI Layoffs Will EXPLODE in 2026",
+      "channel": "Soleyman Shahir",
+      "thumbnail": "https://i.ytimg.com/vi/u8R7pEU7eUg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLClJ9NPYWLjRmkSiS8dBdokQvGSFg",
+      "duration_seconds": 973,
+      "view_count": 97692,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=u8R7pEU7eUg"
+    },
+    {
+      "video_id": "wDBraae1Bjw",
+      "title": "The COMPLETE AI Product Manager Roadmap [2025]",
+      "channel": "GeekyBaller",
+      "thumbnail": "https://i.ytimg.com/vi/wDBraae1Bjw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRRPqspMSE1MMAxC-cKkYyr91qlQ",
+      "duration_seconds": 801,
+      "view_count": 54742,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=wDBraae1Bjw"
+    },
+    {
+      "video_id": "ECvQmfwVDJc",
+      "title": "Project Managers in the Age of AI (HONE THESE SKILLS!)",
+      "channel": "Adriana Girdler",
+      "thumbnail": "https://i.ytimg.com/vi/ECvQmfwVDJc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJN1EKBII3nEod1YA2aWK0bsBtUw",
+      "duration_seconds": 662,
+      "view_count": 36414,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=ECvQmfwVDJc"
+    },
+    {
+      "video_id": "cNstcCf42W4",
+      "title": "A I Taking Over My YouTube Channel and Forest Management",
+      "channel": "Wilson Forest Lands",
+      "thumbnail": "https://i.ytimg.com/vi/cNstcCf42W4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCPu1uZHyoSsKnLq40wKz7XZ8Jqmg",
+      "duration_seconds": 697,
+      "view_count": 33910,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=cNstcCf42W4"
+    },
+    {
+      "video_id": "1REDBnhtVAE",
+      "title": "Google’s New Gemini AI Watch Is Just the Start! (Apple & Microsoft Join the AI Arms Race)",
+      "channel": "Trend AI Tech",
+      "thumbnail": "https://i.ytimg.com/vi/1REDBnhtVAE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_m8h5MqN_dFWGo9WAI5pf-ddi2g",
+      "duration_seconds": 340,
+      "view_count": 147,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=1REDBnhtVAE"
+    },
+    {
+      "video_id": "YyvY3C9tzL4",
+      "title": "Mark Zuckerberg Shakes Up Meta’s A.I. Efforts, Again",
+      "channel": "Speak to Build",
+      "thumbnail": "https://i.ytimg.com/vi/YyvY3C9tzL4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBAwoEgPzDj1LMtjsLesMO9i91BoA",
+      "duration_seconds": 560,
+      "view_count": 21,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=YyvY3C9tzL4"
+    },
+    {
+      "video_id": "w4rG5GY9IlA",
+      "title": "Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU",
+      "channel": "TEDx Talks",
+      "thumbnail": "https://i.ytimg.com/vi/w4rG5GY9IlA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuUq8Owa8HDrFI_Pe5JV1Fj3Rwwg",
+      "duration_seconds": 747,
+      "view_count": 581114,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=w4rG5GY9IlA"
+    },
+    {
+      "video_id": "CWEWBgVwFc8",
+      "title": "Leadership in the Age of AI | Paul Hudson and Lindsay Levin | TED",
+      "channel": "TED",
+      "thumbnail": "https://i.ytimg.com/vi/CWEWBgVwFc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvLAXoUYAJ9SdQiUH-m7FyL-4_0Q",
+      "duration_seconds": 1054,
+      "view_count": 108140,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=CWEWBgVwFc8"
+    },
+    {
+      "video_id": "xBKIBb5vF1o",
+      "title": "Leading EXPERTS Share Top Tips for Managing Remote Teams in the AI Era - Essential Book Summary",
+      "channel": "The Literary Digest",
+      "thumbnail": "https://i.ytimg.com/vi/xBKIBb5vF1o/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYHCBcKHIwDw==&rs=AOn4CLDkrZSENcuPQ3Ib3Mhg7f8wacG7Nw",
+      "duration_seconds": 1080,
+      "view_count": 54,
+      "upload_date": "10 months ago",
+      "url": "https://www.youtube.com/watch?v=xBKIBb5vF1o"
+    },
+    {
+      "video_id": "fkAVHEnIk2c",
+      "title": "Is Your Recruiting Team Falling Behind in the Post-AI Era?",
+      "channel": "Crelate, Inc.",
+      "thumbnail": "https://i.ytimg.com/vi/fkAVHEnIk2c/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBTKEgwDw==&rs=AOn4CLBonHgrTVmRfn5MAlo79MSsV5b39g",
+      "duration_seconds": 1017,
+      "view_count": 38,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=fkAVHEnIk2c"
+    },
+    {
+      "video_id": "icQw917L4SU",
+      "title": "6 Human Traits to Lead every leader needs in the AI era",
+      "channel": "Next Level Leaders ",
+      "thumbnail": "https://i.ytimg.com/vi/icQw917L4SU/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDjFbTi4ny6a9sS6r4Lh2X0S83veg",
+      "duration_seconds": 240,
+      "view_count": 18,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=icQw917L4SU"
+    },
+    {
+      "video_id": "fT1Ql2HDd9Y",
+      "title": "Selling in the AI Era",
+      "channel": "BakerCommunications",
+      "thumbnail": "https://i.ytimg.com/vi/fT1Ql2HDd9Y/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAYk5F_mytAgPGClkyC1z_Vve8i6Q",
+      "duration_seconds": 407,
+      "view_count": 17,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=fT1Ql2HDd9Y"
+    },
+    {
+      "video_id": "_5KPjWXOI-k",
+      "title": "Strategy First Empowering the Business to Lead in the AI Era",
+      "channel": "Big Data LDN",
+      "thumbnail": "https://i.ytimg.com/vi/_5KPjWXOI-k/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyAcKB4wDw==&rs=AOn4CLDKD64i-O2VIIF-I2GSMmbIBabrqg",
+      "duration_seconds": 1092,
+      "view_count": 10,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=_5KPjWXOI-k"
+    },
+    {
+      "video_id": "-Zu_ujtRkX4",
+      "title": "How to Lead in the AI-Powered Digital Era in future | Shwetabh & Navin | Titans Talk S2EP07🎙️",
+      "channel": "Titans Talk - Listen to Industry Leaders",
+      "thumbnail": "https://i.ytimg.com/vi/-Zu_ujtRkX4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYViBhKGUwDw==&rs=AOn4CLBLREAnkFoKCrrosyHHuXhMN2a3hw",
+      "duration_seconds": 480,
+      "view_count": 8,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=-Zu_ujtRkX4"
+    },
+    {
+      "video_id": "A4449Tn7GEU",
+      "title": "Managers’ Transition to AI   Leading People and Performance in the AI Era",
+      "channel": "Adapt and Thrive Series",
+      "thumbnail": "https://i.ytimg.com/vi/A4449Tn7GEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC7om1N6LK2YqVSpKD551nqXPvTKA",
+      "duration_seconds": 354,
+      "view_count": 5,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=A4449Tn7GEU"
+    },
+    {
+      "video_id": "YOTrx4vrzNM",
+      "title": "Leading in the AI Era",
+      "channel": "heyCoach!",
+      "thumbnail": "https://i.ytimg.com/vi/YOTrx4vrzNM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0OlrftUzr7wKThaBEzZ_K-IIRGg",
+      "duration_seconds": 411,
+      "view_count": 1,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=YOTrx4vrzNM"
+    },
+    {
+      "video_id": "lHYyzrlysLQ",
+      "title": "Why Middle Managers Will Outlast Us All",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/lHYyzrlysLQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9hN04cn0csytBUJpA2Ql4Zxo0Fw",
+      "duration_seconds": 623,
+      "view_count": 422368,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=lHYyzrlysLQ"
+    },
+    {
+      "video_id": "Kcn-GkXPdyA",
+      "title": "HRBP Explains: Why Middle Managers Are Disappearing",
+      "channel": "Sanja Williams",
+      "thumbnail": "https://i.ytimg.com/vi/Kcn-GkXPdyA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBg65zYcHD2dw5lhIewwmlrN4w2gQ",
+      "duration_seconds": 481,
+      "view_count": 965,
+      "upload_date": "11 months ago",
+      "url": "https://www.youtube.com/watch?v=Kcn-GkXPdyA"
+    },
+    {
+      "video_id": "iuYlGRnC7J8",
+      "title": "A Plan Is Not a Strategy",
+      "channel": "Harvard Business Review",
+      "thumbnail": "https://i.ytimg.com/vi/iuYlGRnC7J8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2bY6XkPPigqMW_Gpb-pu-1Nu11g",
+      "duration_seconds": 572,
+      "view_count": 6270566,
+      "upload_date": "3 years ago",
+      "url": "https://www.youtube.com/watch?v=iuYlGRnC7J8"
+    },
+    {
+      "video_id": "sRtVWwXSUBU",
+      "title": "Harvard Business Review - Guide to generative AI for managers",
+      "channel": "Capgemini",
+      "thumbnail": "https://i.ytimg.com/vi/sRtVWwXSUBU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrlRUxJac_Zuuf7F5NMk0_SkA_wg",
+      "duration_seconds": 1118,
+      "view_count": 213,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=sRtVWwXSUBU"
+    },
+    {
+      "video_id": "iSNUzfEIhd4",
+      "title": "Agile: The Insights You Need from Harvard… by Harvard Business Review · Audiobook preview",
+      "channel": "Google Play Books",
+      "thumbnail": "https://i.ytimg.com/vi/iSNUzfEIhd4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5mnUFcbYCYiFlpvB6cupTz4kz5w",
+      "duration_seconds": 1015,
+      "view_count": 103,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=iSNUzfEIhd4"
+    },
+    {
+      "video_id": "g2-2F4uUFp8",
+      "title": "The Future of Work: The Insights You Need from… by Harvard Business Review · Audiobook preview",
+      "channel": "Google Play Books",
+      "thumbnail": "https://i.ytimg.com/vi/g2-2F4uUFp8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDBYuqKasXsLyxnrfoOWNb6AlbAkw",
+      "duration_seconds": 1191,
+      "view_count": 89,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=g2-2F4uUFp8"
+    },
+    {
+      "video_id": "yYDp8ojQe-0",
+      "title": "Strategic Analytics: The Insights You Need from… by Harvard Business Review · Audiobook preview",
+      "channel": "Google Play Books",
+      "thumbnail": "https://i.ytimg.com/vi/yYDp8ojQe-0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCpYg3HPLx3n1RGigUL5U8GTsRFWw",
+      "duration_seconds": 1158,
+      "view_count": 84,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=yYDp8ojQe-0"
+    },
+    {
+      "video_id": "VGzKXqkquGk",
+      "title": "Hybrid Workplace: The Insights You Need from… by Harvard Business Review · Audiobook preview",
+      "channel": "Google Play Books",
+      "thumbnail": "https://i.ytimg.com/vi/VGzKXqkquGk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCl5oJH6WSXmW-J8t49jpUYGr8pHw",
+      "duration_seconds": 1148,
+      "view_count": 82,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=VGzKXqkquGk"
+    },
+    {
+      "video_id": "Ub7KmOGyH9g",
+      "title": "Will AI Replace Leaders? 6 Critical Shifts Shaping the Future of Work (HBR & BCG)",
+      "channel": "Cem Yasar Atolye",
+      "thumbnail": "https://i.ytimg.com/vi/Ub7KmOGyH9g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB9bDri4ZdYcHJiryx7BTw1xKu0A",
+      "duration_seconds": 447,
+      "view_count": 79,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=Ub7KmOGyH9g"
+    },
+    {
+      "video_id": "jJzqDO8462c",
+      "title": "The Year in Tech Book, 2026 Summary: Critical Insights on AI Agents  from Harvard Business Review",
+      "channel": "The Art of Prosperity",
+      "thumbnail": "https://i.ytimg.com/vi/jJzqDO8462c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB9fDuV55u5WvTwEj4XiiImUJ5bYw",
+      "duration_seconds": 928,
+      "view_count": 75,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=jJzqDO8462c"
+    },
+    {
+      "video_id": "Y7cp8ttdkEc",
+      "title": "Reskilling in the Age of A.I. - Harvard Business Review",
+      "channel": "Brenton Kotorri",
+      "thumbnail": "https://i.ytimg.com/vi/Y7cp8ttdkEc/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBHKEcwDw==&rs=AOn4CLDLylhJUREpa_taNjzFaf9P3XdkDQ",
+      "duration_seconds": 1155,
+      "view_count": 68,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=Y7cp8ttdkEc"
+    },
+    {
+      "video_id": "QKNQqZcPvKQ",
+      "title": "Future of Work 2025: 9 Trends You Must Know | AI, Inclusion, and Workforce Strategy",
+      "channel": "Learn With Dr. Hakeem-Ur-Rehman",
+      "thumbnail": "https://i.ytimg.com/vi/QKNQqZcPvKQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_DT5HEgOfkaw-TTGhtJDw5Zb6hg",
+      "duration_seconds": 858,
+      "view_count": 67,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=QKNQqZcPvKQ"
+    },
+    {
+      "video_id": "wv779vmyPVY",
+      "title": "How Stanford Teaches AI-Powered Creativity in Just 13 MinutesㅣJeremy Utley",
+      "channel": "EO",
+      "thumbnail": "https://i.ytimg.com/vi/wv779vmyPVY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoelJJbW5rA2bRtcnZ9ZyiWBZ3hg",
+      "duration_seconds": 800,
+      "view_count": 2304366,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=wv779vmyPVY"
+    },
+    {
+      "video_id": "9uEH72FMyJU",
+      "title": "How to Automate Meeting Notes in Microsoft Teams with AI!",
+      "channel": "Scott Brant",
+      "thumbnail": "https://i.ytimg.com/vi/9uEH72FMyJU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBqEwnv1tXTEw6SFhMbA64QuQqnMQ",
+      "duration_seconds": 502,
+      "view_count": 132386,
+      "upload_date": "9 months ago",
+      "url": "https://www.youtube.com/watch?v=9uEH72FMyJU"
+    },
+    {
+      "video_id": "g0IMPKcb-CU",
+      "title": "AI-Powered Project Scheduling: How to Automate Your Workflow for Maximum Efficiency",
+      "channel": "NxtChair",
+      "thumbnail": "https://i.ytimg.com/vi/g0IMPKcb-CU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkJSHIFqDYCbRquLPPxD-FFFLdRg",
+      "duration_seconds": 1050,
+      "view_count": 450,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=g0IMPKcb-CU"
+    },
+    {
+      "video_id": "Q7ck_HhI8X0",
+      "title": "How I Prepare for Play MFL Matches Using AI Team Reports",
+      "channel": "BigMrK14 - The Play MFL AI Analyst",
+      "thumbnail": "https://i.ytimg.com/vi/Q7ck_HhI8X0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBs2ICzVcP12VTu2mk3UiP-715cNg",
+      "duration_seconds": 878,
+      "view_count": 223,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=Q7ck_HhI8X0"
+    },
+    {
+      "video_id": "Y1D5qeKjfvQ",
+      "title": "AI Product Teams Lack Diversity and It Shows - A Real Example Using Canva  | E37",
+      "channel": "Adriele Parker",
+      "thumbnail": "https://i.ytimg.com/vi/Y1D5qeKjfvQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmPDTOnoA_I28Q35PevlYzRPOARQ",
+      "duration_seconds": 726,
+      "view_count": 199,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=Y1D5qeKjfvQ"
+    },
+    {
+      "video_id": "xJb3AG_tWDM",
+      "title": "Boris Borovic (Kiwi.com): Pragmatic Approach to Building AI-Powered Product Teams",
+      "channel": "Shift Conference",
+      "thumbnail": "https://i.ytimg.com/vi/xJb3AG_tWDM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCARdNlrQ_meJZL8k2xRApuiXDCHw",
+      "duration_seconds": 988,
+      "view_count": 172,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=xJb3AG_tWDM"
+    },
+    {
+      "video_id": "z3Cuo4faSkw",
+      "title": "Boost Your Productivity with Hana: Real-Life Use Cases Example Video 3",
+      "channel": "Hana AI Bot",
+      "thumbnail": "https://i.ytimg.com/vi/z3Cuo4faSkw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0INJyq1DX1XgzrSmPla8sQIAumg",
+      "duration_seconds": 495,
+      "view_count": 147,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=z3Cuo4faSkw"
+    },
+    {
+      "video_id": "cP7pjtGIywc",
+      "title": "Boost Your Productivity with Hana: Real-Life Use Cases Example Video 1",
+      "channel": "Hana AI Bot",
+      "thumbnail": "https://i.ytimg.com/vi/cP7pjtGIywc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC3lWVgzh8xye_JleId6ZgtixsJMQ",
+      "duration_seconds": 573,
+      "view_count": 139,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=cP7pjtGIywc"
+    },
+    {
+      "video_id": "y7lYaydEk00",
+      "title": "Building a 6 Figure AI sales team is too easy ( steal my method )",
+      "channel": "Misha Emanuilov ",
+      "thumbnail": "https://i.ytimg.com/vi/y7lYaydEk00/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBg1dlh33pxUfRmuanYfRtjpAJICw",
+      "duration_seconds": 547,
+      "view_count": 127,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=y7lYaydEk00"
+    },
+    {
+      "video_id": "8i6i3KBA25c",
+      "title": "360 LLM - AI-Powered Chatbot | Real Use Cases, RAG Engine, Secure Automation",
+      "channel": "360 Degree Cloud",
+      "thumbnail": "https://i.ytimg.com/vi/8i6i3KBA25c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAzpw2L4g9qQA-4sTJGRbQ0Cgcm9w",
+      "duration_seconds": 1113,
+      "view_count": 52,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=8i6i3KBA25c"
+    }
+  ],
+  "selected_videos": [
+    {
+      "video_id": "yw1J6FJfUwA",
+      "title": "Why Mid-Level Managers Are Getting Laid Off in 2025 | Career Growth, AI, and Job Security",
+      "channel": "Vishal Manocha",
+      "thumbnail": "https://i.ytimg.com/vi/yw1J6FJfUwA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEkY2LtOgTDgratu6XKc60MNcZhg",
+      "duration_seconds": 392,
+      "url": "https://www.youtube.com/watch?v=yw1J6FJfUwA",
+      "classification": "Direct",
+      "why_selected": "Provides a timely, focused analysis on the erosion of middle management roles due to AI adoption, with real-world implications for career planning and organizational restructuring.",
+      "fills_gap": "Offers a labor-market-level view from the perspective of professionals experiencing these shifts, bridging macro trends with individual consequences."
+    },
+    {
+      "video_id": "8g5img1hTes",
+      "title": "The Truth About AI And The Mass Layoffs",
+      "channel": "CNBC",
+      "thumbnail": "https://i.ytimg.com/vi/8g5img1hTes/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZcWRqXBOwaEBAuyTTHdyrrYy81Q",
+      "duration_seconds": 364,
+      "url": "https://www.youtube.com/watch?v=8g5img1hTes",
+      "classification": "Direct",
+      "why_selected": "As a major news outlet, CNBC provides investigative reporting on actual layoffs at companies like TCS and Amazon, linking them directly to AI-driven efficiency goals with data and corporate statements.",
+      "fills_gap": "Adds journalistic credibility and factual grounding—what’s actually happening now in real organizations, not speculation."
+    },
+    {
+      "video_id": "yic4ImNSE3w",
+      "title": "How AI Is Replacing Middle-Class Careers",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/yic4ImNSE3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7APHQMcJ5Lhby8T9BOb717fPJrA",
+      "duration_seconds": 533,
+      "url": "https://www.youtube.com/watch?v=yic4ImNSE3w",
+      "classification": "Direct",
+      "why_selected": "Explores how AI is automating cognitive tasks traditionally performed by middle managers, using economic data and sector-specific examples to show displacement patterns.",
+      "fills_gap": "Focuses on socioeconomic impact beyond tech sectors, showing this isn’t just about Silicon Valley but entire classes of workers."
+    },
+    {
+      "video_id": "ozVb14bNwzQ",
+      "title": "AI Is Laying Off... Senior Executives",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/ozVb14bNwzQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7HC9GwbqWpK20Kww76yr9VImswA",
+      "duration_seconds": 956,
+      "url": "https://www.youtube.com/watch?v=ozVb14bNwzQ",
+      "classification": "Contrarian",
+      "why_selected": "Challenges the assumption that only mid-level jobs are at risk by presenting evidence that even C-suite roles are being streamlined through AI tools, forcing reevaluation of hierarchy itself.",
+      "fills_gap": "Introduces a counterintuitive angle: flattening may come from the top down as much as the bottom up, reshaping power structures."
+    },
+    {
+      "video_id": "CWEWBgVwFc8",
+      "title": "Leadership in the Age of AI | Paul Hudson and Lindsay Levin | TED",
+      "channel": "TED",
+      "thumbnail": "https://i.ytimg.com/vi/CWEWBgVwFc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvLAXoUYAJ9SdQiUH-m7FyL-4_0Q",
+      "duration_seconds": 1054,
+      "url": "https://www.youtube.com/watch?v=CWEWBgVwFc8",
+      "classification": "Foundational",
+      "why_selected": "Presents a values-based framework for leadership evolution in the AI era—emphasizing human-centric skills like empathy, ethics, and strategic thinking over control or oversight.",
+      "fills_gap": "Shifts focus from job loss to role transformation, offering timeless principles for leading when automation handles routine decision-making."
+    },
+    {
+      "video_id": "FYD_YNFVjbw",
+      "title": "Managing Remote Teams Has Changed – Here’s What Works in 2025",
+      "channel": "MeetGeek",
+      "thumbnail": "https://i.ytimg.com/vi/FYD_YNFVjbw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAlmnUEzr-XnDSO-0OfWs5bUlQgA",
+      "duration_seconds": 497,
+      "url": "https://www.youtube.com/watch?v=FYD_YNFVjbw",
+      "classification": "Direct",
+      "why_selected": "Examines how team formation and coordination are evolving with AI tools that automate scheduling, performance tracking, and communication synthesis, altering managerial workflows.",
+      "fills_gap": "Highlights practical changes in team dynamics and collaboration tools driven by AI, showing how work gets done differently today."
+    },
+    {
+      "video_id": "Kcn-GkXPdyA",
+      "title": "HRBP Explains: Why Middle Managers Are Disappearing",
+      "channel": "Sanja Williams",
+      "thumbnail": "https://i.ytimg.com/vi/Kcn-GkXPdyA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBg65zYcHD2dw5lhIewwmlrN4w2gQ",
+      "duration_seconds": 481,
+      "url": "https://www.youtube.com/watch?v=Kcn-GkXPdyA",
+      "classification": "Direct",
+      "why_selected": "Offers an internal HR perspective on structural redesign—why companies are eliminating layers, consolidating reports, and using AI for performance analytics instead of human intermediaries.",
+      "fills_gap": "Brings organizational design insight from someone operating inside talent systems, explaining logic behind decisions affecting thousands."
+    },
+    {
+      "video_id": "3EBqWe3d3CI",
+      "title": "TCS, Intel, Microsoft: A Global Wave of AI-Led Mass Layoffs | Vantage with Palki Sharma | N18G",
+      "channel": "Firstpost",
+      "thumbnail": "https://i.ytimg.com/vi/3EBqWe3d3CI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-COF3X-G-hS1PXLIcqIOYIFSyEw",
+      "duration_seconds": 365,
+      "url": "https://www.youtube.com/watch?v=3EBqWe3d3CI",
+      "classification": "Direct",
+      "why_selected": "Global case studies across industries (IT services, semiconductors, software) demonstrate widespread, coordinated restructuring tied explicitly to AI integration strategies.",
+      "fills_gap": "Broadens geographic scope beyond U.S. context and shows cross-industry consistency in organizational responses to AI capabilities."
+    },
+    {
+      "video_id": "Y7cp8ttdkEc",
+      "title": "Reskilling in the Age of A.I. - Harvard Business Review",
+      "channel": "Brenton Kotorri",
+      "thumbnail": "https://i.ytimg.com/vi/Y7cp8ttdkEc/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBHKEcwDw==&rs=AOn4CLDLylhJUREpa_taNjzFaf9P3XdkDQ",
+      "duration_seconds": 1155,
+      "url": "https://www.youtube.com/watch?v=Y7cp8ttdkEc",
+      "classification": "Foundational",
+      "why_selected": "Based on HBR research, it outlines how companies can transition displaced workers into new roles through structured reskilling—a critical lever for humane organizational adaptation.",
+      "fills_gap": "Addresses the 'what should we do?' question with policy and strategy-level solutions, balancing efficiency with equity."
+    },
+    {
+      "video_id": "2ESTkhUCKmM",
+      "title": "Why Organization Design Is More Urgent Than Ever, and AI Accelerates The Need",
+      "channel": "Josh Bersin",
+      "thumbnail": "https://i.ytimg.com/vi/2ESTkhUCKmM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYRCBTKGUwDw==&rs=AOn4CLA9igMbknmhoZDZGgyHwblX7YTy7w",
+      "duration_seconds": 1183,
+      "url": "https://www.youtube.com/watch?v=2ESTkhUCKmM",
+      "classification": "Foundational",
+      "why_selected": "Josh Bersin is a leading authority on workplace transformation; his video connects AI advances to deeper shifts in organizational architecture—networked teams, dynamic roles, fluid hierarchies.",
+      "fills_gap": "Provides theoretical and structural frameworks for understanding why traditional pyramids fail in an AI-augmented environment and what might replace them."
+    }
+  ],
+  "final_summary": "**12,000 TCS Managers Cut as AI Reshapes Corporate Hierarchy**\n\nBetween **2023 and 2025**, more than **946,000 job cuts** were announced globally, with a disproportionate number targeting mid-level managers at major firms like **Tata Consultancy Services (12,000 roles)**, **Intel (24,000)**, and **Microsoft (15,000)**. These layoffs are not isolated cost-cutting moves but part of a structural transformation in how organizations operate—driven by artificial intelligence, shifting workforce expectations, and the collapse of traditional corporate pyramids. Middle management, once seen as the backbone of execution, is now being squeezed out as companies flatten hierarchies, automate coordination, and demand that employees become outcome-focused leaders rather than task supervisors.\n\nWhile executives cite \"efficiency\" and \"restructuring,\" AI tools are quietly taking over functions long owned by middle managers: scheduling, reporting, data synthesis, and project oversight. At the same time, younger workers—especially Gen Z—are rejecting managerial titles, calling them “high stress, low reward.” The result? A new organizational model emerging: leaner, faster, and less dependent on layers of human intermediaries.\n\nThis shift isn’t just about technology replacing people—it’s about redefining what leadership means, how teams form, and who gets to rise.\n\n**Strategic Takeaways:**\n- **Middle managers are most vulnerable**: Roles involving routine coordination and reporting are being automated or eliminated.\n- **AI is flattening hierarchies**: Companies are moving from pyramidal to obelisk-shaped structures—fewer juniors, fewer mid-managers, but protected senior leaders.\n- **Span of control is expanding**: With AI support, one leader can now oversee up to **15 direct reports**, reducing the need for intermediate layers.\n- **Gen Z rejects hierarchy**: **52% of Gen Z professionals do not want to be managers**, preferring individual contributor paths.\n- **Reskilling is strategic**: Firms like Amazon, Vodafone, and Ericsson are investing heavily to transform existing talent into AI-ready roles—not just training, but reinventing careers.\n\n---\n\n## 12,000 TCS Managers Cut as Skills Gap Meets AI Adoption\n\nIn early 2025, **Tata Consultancy Services (TCS)** announced it would lay off **12,000 employees**, primarily mid- and senior-level managers—the largest reduction in its history. While the CEO publicly cited a “skills mismatch,” internal analysis reveals a deeper truth: many of these managers failed to transition into AI-augmented roles despite **over 114,000 employees being trained in advanced AI competencies**.\n\nThis pattern repeats across industries. Intel cut **24,000 jobs** under “cost discipline,” Microsoft shed **15,000 roles** despite record profits, and Amazon considered eliminating **14,000 managerial positions**—a move expected to save **$3 billion annually**. These aren’t random cuts; they’re targeted eliminations of middle layers.\n\nAccording to *Vishal Manocha*, “The tasks that made mid-level managers valuable are now the easiest to automate and outsource.” Tasks like status updates, meeting coordination, budget tracking, and performance reporting—all core duties of middle management—are increasingly handled by AI tools such as **ChatGPT, Copilot, and custom enterprise systems**.\n\n> “Why do we need three layers of managers when AI can automate coordination?”  \n> — Vishal Manocha, *Why Mid-Level Managers Are Getting Laid Off in 2025*\n\nEven consulting giants like Deloitte have fallen victim to this trend. In an ironic twist, Deloitte used AI to generate a **quarter-million-dollar government report**—only for it to be exposed as containing fabricated court rulings and fake academic citations. The scandal didn’t stop their AI investment—they committed **$3 billion** to AI integration—but it revealed both the promise and peril of delegating analytical work to machines.\n\nMeanwhile, **CNBC** highlights a critical nuance: while Wall Street hypes AI-driven efficiency, many layoffs attributed to AI are actually driven by economic pressures, bloated structures, and investor demands. As one analyst noted, “There's financial fiduciary incentive... to say you're letting people go because of AI. And because Wall Street is buying anything with the letters ‘A’ and ‘I’ attached to it.”\n\nYet the evidence mounts. From **McKinsey estimating 15–30% of white-collar work hours could be automated by 2030**, to real-world reductions in managerial headcount, the message is clear: the era of the traditional middle manager is ending.\n\n---\n\n## Why Corporate Hierarchies Are Collapsing\n\n### AI Enables Flatter Organizations by Automating Coordination\n\nFor decades, corporations followed a **pyramid structure**: junior staff at the base, mid-level managers in the middle, and executives at the top. This model assumed information flowed slowly, decisions required multiple approvals, and oversight was essential.\n\nToday, AI disrupts every assumption.\n\nTools like **MeatGake** automatically transcribe, summarize, and make searchable every meeting, turning communication into a dynamic knowledge base. AI-powered platforms prioritize tasks, predict bottlenecks, and generate performance insights—functions once requiring constant managerial intervention.\n\nAs **Josh Bersin** explains, “We're moving ahead very quickly… these are living, breathing learning systems.” Unlike static software, modern AI evolves with use, learns from feedback, and improves decision-making in real time.\n\nThis technological capability enables a radical redesign: **flatter, faster, more agile organizations**.\n\n> “Do I need five layers of management for one project to get done? If I cut out 3 to 4 of those, how quickly can we actually have this project out in front of customers?”  \n> — CNBC, *The Truth About AI And The Mass Layoffs*\n\nWhen companies remove layers, they reduce delays, increase transparency, and speed up innovation. According to **Sanja Williams**, this shift is supported by a tool called **span of control**—the number of direct reports per manager.\n\n| Industry | Typical Span of Control |\n|--------|--------------------------|\n| Startups / Agile Teams | 1:10–1:12 |\n| Tech & Engineering | 1:8–1:10 |\n| Manufacturing / Healthcare | 1:6–1:8 |\n| Sales Organizations | 1:12–1:15 |\n\nWith AI handling administrative load, managers can supervise more people effectively. One senior leader can now manage multiple autonomous pods directly, bypassing mid-tier coordinators.\n\n### Gen Z Rejects Management Titles Altogether\n\nAnother force accelerating this collapse comes from within the workforce itself.\n\nA **Robert Walters survey of 3,600 Gen Z professionals** found:\n- **52% do not want to become middle managers**\n- **72% prefer individual contributor tracks over managing others**\n- **69% see middle management as high stress, low reward**\n- **Double the preference for flat over hierarchical structures**\n\nThis generational shift challenges the old ladder metaphor—where career growth meant climbing upward into management. Now, progression looks more like a road: lateral moves, skill stacking, and specialization.\n\nAs **Paul Hudson (CEO, Sanofi)** observed during his TED talk, young talent says:  \n> “I don't need to push my work up through a group of men sitting there going, ‘What do you think?’ None of whom actually know.”\n\nThey expect access to data, decision-making, and impact—without waiting years for promotion.\n\n---\n\n## Middle Managers Squeezed as New Structures Emerge\n\n### The Obelisk Model Replaces the Pyramid\n\nTraditional corporate pyramids are giving way to what experts call the **“obelisk” model**—narrow at the bottom and top, with a drastically reduced middle.\n\nAt consulting firms like **McKinsey, BCG, and Deloitte**, this transformation is already visible. Instead of armies of junior analysts feeding insights up a pyramid, AI handles data collection, synthesis, and even initial recommendations. Senior partners focus only on client strategy and relationship-building.\n\n> “Groups within these firms were changing from a pyramid structure… to today where the corporate structure is representing more of an obelisk.”  \n> — *How Money Works*, *AI Is Laying Off... Senior Executives*\n\nFewer juniors are needed because AI does legwork. Fewer mid-managers are needed because coordination is automated. Only the “rainmakers”—those bringing contracts and vision—remain indispensable.\n\nThis has profound implications:\n\n- **Career progression slows**: With fewer mid-level roles, promotions stall.\n- **Workloads increase**: Surviving managers absorb responsibilities of departed peers.\n- **Power concentrates**: Decision rights move upward or outward to AI systems.\n\n### AI May Replace Senior Leaders Too—But Not Yet\n\nIronically, the same forces threatening middle managers may eventually reach the C-suite.\n\nA **Cambridge University study published in Harvard Business Review** pitted 344 business students and executives against a large language model (LLM) in simulating CEO decisions for an auto company. The AI consistently outperformed humans on key metrics: market share, profit, and valuation.\n\n> “Over the course of the experiment, the LLM consistently outperformed the top human participants… on almost every business metric.”  \n> — *How Money Works*, *AI Is Laying Off... Senior Executives*\n\nHowever, the AI had one fatal flaw: it kept getting “fired by the board” during simulated crises like pandemics or supply chain collapses. It optimized relentlessly for short-term gains but failed to account for black swan events.\n\nThe conclusion? AI works best as an **autopilot**, not a pilot. It excels in stable conditions but lacks judgment in chaos.\n\nStill, the potential cost savings are enormous. According to the **Economic Policy Institute**, the average CEO at the top 350 U.S. firms earns **280 times more** than their typical employee. Replacing even part of that role with AI could justify entire engineering teams.\n\nYet the biggest barrier remains human: **CEOs decide who gets replaced—and they statistically rate their own jobs as hardest to automate**.\n\nAn **IBM/Oxford Economics survey of 3,000 executives** found:\n- **77% believe entry-level roles are already impacted by AI**\n- Only **22% say the same for executive roles**\n- But **97% admit procurement, risk, compliance, and finance functions** (typically senior) are being disrupted\n\nThis disconnect suggests self-preservation bias—not technical reality.\n\n---\n\n## How Workers and Organizations Should Adapt\n\n### For Individuals: Become Outcome Leaders, Not Task Supervisors\n\nThe survival strategy for current and aspiring managers is no longer about climbing—it’s about transforming.\n\n**Vishal Manocha** offers a roadmap:\n1. **Shift from manager to leader**: Focus on business outcomes, not task supervision.\n2. **Build tech leverage**: Use AI, automation, and data tools to amplify team productivity.\n3. **Own a domain**: Develop deep expertise (e.g., AI + supply chain, AI + finance).\n4. **Show executive presence**: Influence leaders, bring solutions—not problems.\n5. **Keep evolving**: Take certifications, mentor juniors, switch industries if needed.\n\nSimilarly, **Paul Hudson** emphasizes radical transparency and insight-sharing:  \n> “You get the insight at the same time as someone at the bottom of the organization… There’s lost opportunity to polish the slide deck and repackage it.”\n\nEmployees who embrace data fluency, cross-functional collaboration, and continuous learning will thrive.\n\n### For Organizations: Treat Reskilling as Strategic Imperative\n\nTop-performing firms treat reskilling not as HR policy, but as **core business strategy**.\n\nAccording to *Harvard Business Review* research:\n- **Only 24% of companies link reskilling to corporate strategy**\n- Leading firms like **Amazon, Vodafone, and Ericsson** embed reskilling into leadership KPIs\n\n#### Amazon’s Machine Learning University\n- Trained thousands of non-technical employees to become ML experts\n- Covers full costs of degrees and certifications\n- Measures success by internal placement rates\n\n#### Vodafone’s Learning Days\n- Four dedicated days per year for skill development\n- Employees fully compensated\n- Focus on future-critical skills (AI, data, cybersecurity)\n\n#### ICICI Bank’s Vocational Residency\n- 4-month simulation training + 8-month field deployment\n- Prepares diverse candidates for frontline managerial roles\n- All training hours counted as work time\n\n> “The secret to scaling up reskilling programs is to design a product your employees actually like.”  \n> — *Reskilling in the Age of A.I.*, Harvard Business Review\n\nThese programs succeed because they align with worker aspirations, reduce personal risk, and offer near-guaranteed outcomes.\n\n---\n\n## Contradictions and Unresolved Questions\n\n### Are Layoffs Really About AI—or Just Cost Cutting?\n\nDespite widespread claims, **hard evidence linking AI to mass layoffs remains limited**.\n\nAs **CNBC** notes:  \n> “There's been surveys… that found companies are attributing strategies to AI, but it could be as simple as using AI to write an email for you.”\n\nMany so-called AI-driven cuts are better explained by:\n- Economic slowdown\n- High interest rates\n- Geographic restructuring (e.g., Intel moving operations from Costa Rica to Vietnam)\n- Investor pressure to show quarterly improvement\n\nMoreover, **Meta laid off 600 workers from its AI unit**—suggesting even AI divisions can become bloated.\n\nThe term **“AI washing”** captures this phenomenon: companies label layoffs as AI-driven to gain stock boosts, even when automation plays little role.\n\n> “You say, oh, we're letting people go because of AI. No, you're letting people go because the business is hurting.”  \n> — CNBC, *The Truth About AI And The Mass Layoffs*\n\nThus, while AI enables structural change, it often serves as a convenient narrative—not the root cause.\n\n### Can Flat Structures Scale Without Losing Cohesion?\n\nFlatter organizations offer speed and agility, but risks emerge:\n\n- **Loss of mentorship**: With fewer managers, junior employees lose guidance.\n- **Burnout**: Remaining leaders face expanded spans of control and higher cognitive load.\n- **Cultural dilution**: Remote, distributed teams struggle to maintain shared values.\n\nTo counter this, **MeetGeek** recommends four pillars for remote team success:\n1. **Intelligent communication** (e.g., searchable meeting databases)\n2. **AI-powered productivity** (automated prioritization, bottleneck prediction)\n3. **Results-based performance management**\n4. **Culture and connection at scale** (e.g., virtual coffee roulette, mentorship programs)\n\nFirms that invest intentionally in culture—not just tools—avoid fragmentation.\n\n### Will We See Human-Less Leadership?\n\nTechnically, AI could run many executive functions. Practically, legal and ethical barriers remain.\n\nU.S. law under **Sarbanes-Oxley** requires public companies to appoint human **Principal Executive Officers (PEO), CFOs, and Controllers**—so someone can be held accountable.\n\n> “You can't send an AI to prison.”  \n> — *How Money Works*, *AI Is Laying Off... Senior Executives*\n\nUntil AI achieves legal personhood or failsafe governance models, full replacement is unlikely.\n\nYet hybrid models are rising: **small executive teams augmented by AI co-pilots**, making decisions faster and with greater data depth.\n\nAs **Josh Bersin** warns, AI systems are not plug-and-play:  \n> “These are living, breathing learning systems… you're steering them, tuning them.”\n\nOrganizations must prepare users, secure data, and build interpretive literacy.\n\n---\n\n## Bottom Line: The Managerial Middle Is Shrinking—But Leadership Isn’t Dead\n\nThe corporate middle layer is contracting—not because AI magically replaces humans overnight, but because a confluence of forces makes it inefficient, costly, and misaligned with modern work.\n\n- **AI automates coordination**\n- **Workers reject hierarchical advancement**\n- **Markets demand speed and adaptability**\n- **Executives seek cost discipline**\n\nYet leadership remains essential—not in supervising tasks, but in setting vision, navigating crisis, building trust, and fostering innovation.\n\nOrganizations that survive will not eliminate management entirely, but **redefine it**:\n- From **task oversight** to **outcome ownership**\n- From **information gatekeeper** to **insight amplifier**\n- From **supervisor** to **coach and strategist**\n\nFor individuals, the path forward is clear: **learn continuously, specialize deeply, lead proactively**.\n\nFor companies, the imperative is bolder: **stop cutting and start rebuilding**—with reskilling, redesigned workflows, and AI as partner, not scapegoat.\n\n> “Being in the middle zone is not a curse. It's a test. A test of whether you will plateau here or whether you will reinvent yourself for the next leap.”  \n> — Vishal Manocha",
+  "processing_stats": {
+    "total_queries_generated": 10,
+    "total_videos_searched": 65,
+    "total_videos_selected": 10,
+    "total_transcripts_fetched": 10,
+    "processing_time_seconds": 144.289,
+    "failed_transcripts_count": 0
+  },
+  "selected_videos_metadata": [
+    {
+      "video_id": "yw1J6FJfUwA",
+      "title": "Why Mid-Level Managers Are Getting Laid Off in 2025 | Career Growth, AI, and Job Security",
+      "channel": "Vishal Manocha",
+      "thumbnail": "https://i.ytimg.com/vi/yw1J6FJfUwA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEkY2LtOgTDgratu6XKc60MNcZhg",
+      "duration_seconds": 392,
+      "url": "https://www.youtube.com/watch?v=yw1J6FJfUwA",
+      "classification": "Direct",
+      "why_selected": "Provides a timely, focused analysis on the erosion of middle management roles due to AI adoption, with real-world implications for career planning and organizational restructuring.",
+      "fills_gap": "Offers a labor-market-level view from the perspective of professionals experiencing these shifts, bridging macro trends with individual consequences."
+    },
+    {
+      "video_id": "8g5img1hTes",
+      "title": "The Truth About AI And The Mass Layoffs",
+      "channel": "CNBC",
+      "thumbnail": "https://i.ytimg.com/vi/8g5img1hTes/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZcWRqXBOwaEBAuyTTHdyrrYy81Q",
+      "duration_seconds": 364,
+      "url": "https://www.youtube.com/watch?v=8g5img1hTes",
+      "classification": "Direct",
+      "why_selected": "As a major news outlet, CNBC provides investigative reporting on actual layoffs at companies like TCS and Amazon, linking them directly to AI-driven efficiency goals with data and corporate statements.",
+      "fills_gap": "Adds journalistic credibility and factual grounding—what’s actually happening now in real organizations, not speculation."
+    },
+    {
+      "video_id": "yic4ImNSE3w",
+      "title": "How AI Is Replacing Middle-Class Careers",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/yic4ImNSE3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7APHQMcJ5Lhby8T9BOb717fPJrA",
+      "duration_seconds": 533,
+      "url": "https://www.youtube.com/watch?v=yic4ImNSE3w",
+      "classification": "Direct",
+      "why_selected": "Explores how AI is automating cognitive tasks traditionally performed by middle managers, using economic data and sector-specific examples to show displacement patterns.",
+      "fills_gap": "Focuses on socioeconomic impact beyond tech sectors, showing this isn’t just about Silicon Valley but entire classes of workers."
+    },
+    {
+      "video_id": "ozVb14bNwzQ",
+      "title": "AI Is Laying Off... Senior Executives",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/ozVb14bNwzQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7HC9GwbqWpK20Kww76yr9VImswA",
+      "duration_seconds": 956,
+      "url": "https://www.youtube.com/watch?v=ozVb14bNwzQ",
+      "classification": "Contrarian",
+      "why_selected": "Challenges the assumption that only mid-level jobs are at risk by presenting evidence that even C-suite roles are being streamlined through AI tools, forcing reevaluation of hierarchy itself.",
+      "fills_gap": "Introduces a counterintuitive angle: flattening may come from the top down as much as the bottom up, reshaping power structures."
+    },
+    {
+      "video_id": "CWEWBgVwFc8",
+      "title": "Leadership in the Age of AI | Paul Hudson and Lindsay Levin | TED",
+      "channel": "TED",
+      "thumbnail": "https://i.ytimg.com/vi/CWEWBgVwFc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvLAXoUYAJ9SdQiUH-m7FyL-4_0Q",
+      "duration_seconds": 1054,
+      "url": "https://www.youtube.com/watch?v=CWEWBgVwFc8",
+      "classification": "Foundational",
+      "why_selected": "Presents a values-based framework for leadership evolution in the AI era—emphasizing human-centric skills like empathy, ethics, and strategic thinking over control or oversight.",
+      "fills_gap": "Shifts focus from job loss to role transformation, offering timeless principles for leading when automation handles routine decision-making."
+    },
+    {
+      "video_id": "FYD_YNFVjbw",
+      "title": "Managing Remote Teams Has Changed – Here’s What Works in 2025",
+      "channel": "MeetGeek",
+      "thumbnail": "https://i.ytimg.com/vi/FYD_YNFVjbw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAlmnUEzr-XnDSO-0OfWs5bUlQgA",
+      "duration_seconds": 497,
+      "url": "https://www.youtube.com/watch?v=FYD_YNFVjbw",
+      "classification": "Direct",
+      "why_selected": "Examines how team formation and coordination are evolving with AI tools that automate scheduling, performance tracking, and communication synthesis, altering managerial workflows.",
+      "fills_gap": "Highlights practical changes in team dynamics and collaboration tools driven by AI, showing how work gets done differently today."
+    },
+    {
+      "video_id": "Kcn-GkXPdyA",
+      "title": "HRBP Explains: Why Middle Managers Are Disappearing",
+      "channel": "Sanja Williams",
+      "thumbnail": "https://i.ytimg.com/vi/Kcn-GkXPdyA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBg65zYcHD2dw5lhIewwmlrN4w2gQ",
+      "duration_seconds": 481,
+      "url": "https://www.youtube.com/watch?v=Kcn-GkXPdyA",
+      "classification": "Direct",
+      "why_selected": "Offers an internal HR perspective on structural redesign—why companies are eliminating layers, consolidating reports, and using AI for performance analytics instead of human intermediaries.",
+      "fills_gap": "Brings organizational design insight from someone operating inside talent systems, explaining logic behind decisions affecting thousands."
+    },
+    {
+      "video_id": "3EBqWe3d3CI",
+      "title": "TCS, Intel, Microsoft: A Global Wave of AI-Led Mass Layoffs | Vantage with Palki Sharma | N18G",
+      "channel": "Firstpost",
+      "thumbnail": "https://i.ytimg.com/vi/3EBqWe3d3CI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-COF3X-G-hS1PXLIcqIOYIFSyEw",
+      "duration_seconds": 365,
+      "url": "https://www.youtube.com/watch?v=3EBqWe3d3CI",
+      "classification": "Direct",
+      "why_selected": "Global case studies across industries (IT services, semiconductors, software) demonstrate widespread, coordinated restructuring tied explicitly to AI integration strategies.",
+      "fills_gap": "Broadens geographic scope beyond U.S. context and shows cross-industry consistency in organizational responses to AI capabilities."
+    },
+    {
+      "video_id": "Y7cp8ttdkEc",
+      "title": "Reskilling in the Age of A.I. - Harvard Business Review",
+      "channel": "Brenton Kotorri",
+      "thumbnail": "https://i.ytimg.com/vi/Y7cp8ttdkEc/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBHKEcwDw==&rs=AOn4CLDLylhJUREpa_taNjzFaf9P3XdkDQ",
+      "duration_seconds": 1155,
+      "url": "https://www.youtube.com/watch?v=Y7cp8ttdkEc",
+      "classification": "Foundational",
+      "why_selected": "Based on HBR research, it outlines how companies can transition displaced workers into new roles through structured reskilling—a critical lever for humane organizational adaptation.",
+      "fills_gap": "Addresses the 'what should we do?' question with policy and strategy-level solutions, balancing efficiency with equity."
+    },
+    {
+      "video_id": "2ESTkhUCKmM",
+      "title": "Why Organization Design Is More Urgent Than Ever, and AI Accelerates The Need",
+      "channel": "Josh Bersin",
+      "thumbnail": "https://i.ytimg.com/vi/2ESTkhUCKmM/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYRCBTKGUwDw==&rs=AOn4CLA9igMbknmhoZDZGgyHwblX7YTy7w",
+      "duration_seconds": 1183,
+      "url": "https://www.youtube.com/watch?v=2ESTkhUCKmM",
+      "classification": "Foundational",
+      "why_selected": "Josh Bersin is a leading authority on workplace transformation; his video connects AI advances to deeper shifts in organizational architecture—networked teams, dynamic roles, fluid hierarchies.",
+      "fills_gap": "Provides theoretical and structural frameworks for understanding why traditional pyramids fail in an AI-augmented environment and what might replace them."
+    }
+  ]
+}

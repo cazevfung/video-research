@@ -1,0 +1,51 @@
+{
+  "modal": {
+    "title": "Create New Task",
+    "subtitle": "{{active}} of {{max}} task{{max, plural, one {} other {s}}} active",
+    "urlLabel": "YouTube URLs",
+    "cancel": "Cancel",
+    "create": "Create Task",
+    "creating": "Creating...",
+    "close": "Close modal"
+  },
+  "card": {
+    "processing": "Processing...",
+    "cancelTask": "Cancel task: {{title}}",
+    "progress": "Progress: {{progress}}%"
+  },
+  "list": {
+    "empty": {
+      "title": "No active tasks",
+      "description": "Create a new task using the + button to get started"
+    },
+    "allErrors": {
+      "title": "All tasks encountered errors",
+      "description": "Try creating a new task"
+    }
+  },
+  "panel": {
+    "title": "Active Tasks",
+    "count": "({{count}})",
+    "expand": "Expand task panel",
+    "collapse": "Collapse task panel",
+    "badge": {
+      "ariaLabel": "{{count}} active task{{count, plural, one {} other {s}}}. Click to {{action}} task panel",
+      "networkError": "Network connection issue"
+    },
+    "connectionIssue": "Connection issue"
+  },
+  "fab": {
+    "creating": "Creating task...",
+    "creatingWait": "Creating task, please wait",
+    "limitReached": "Task limit reached. {{tier}} users can run {{max}} task{{max, plural, one {} other {s}}} simultaneously.",
+    "cannotCreate": "Cannot create task. Task limit reached. {{tier}} users can run {{max}} task{{max, plural, one {} other {s}}} simultaneously.",
+    "createNew": "Create new task ({{active}}/{{max}})",
+    "createNewAria": "Create new task. Currently {{active}} of {{max}} task{{max, plural, one {} other {s}}} active.",
+    "upgradePrompt": "Upgrade to Premium to run up to 10 tasks simultaneously"
+  },
+  "toasts": {
+    "taskCreated": "Task created successfully",
+    "taskLimitReached": "Task limit reached. You can run {{max}} task{{max, plural, one {} other {s}}} simultaneously.",
+    "taskCreationFailed": "Failed to create task"
+  }
+}

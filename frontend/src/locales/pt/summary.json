@@ -1,0 +1,131 @@
+{
+  "header": {
+    "title": "Transforme horas de vídeo em minutos de leitura",
+    "subtitle": "Resuma vários vídeos do YouTube com IA. Obtenha insights abrangentes no seu estilo e idioma preferidos."
+  },
+  "form": {
+    "title": "Gerador de resumos do YouTube",
+    "urlLabel": "URLs do YouTube",
+    "urlPlaceholder": "Cole links do YouTube aqui (um por linha)...",
+    "promptPresets": "Predefinições de prompt",
+    "expandStyles": "Mais",
+    "collapseStyles": "Menos",
+    "expandStylesAria": "Expandir detalhes do estilo",
+    "collapseStylesAria": "Recolher detalhes do estilo",
+    "bestFor": "Ideal para",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "Pontos principais",
+      "deep_dive": "Análise profunda",
+      "tutorial": "Tutorial",
+      "detailed": "Detalhado"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "Resumo ultra-conciso que começa com a conclusão principal. Perfeito para leitura rápida e leitura móvel.",
+        "bestFor": "Visões gerais rápidas, usuários móveis, executivos, leitores com pouco tempo",
+        "characteristics": [
+          "Máximo de 100 palavras",
+          "Começa com a resposta (Princípio da Pirâmide)",
+          "Passa no Teste do Twitter (ideia central em 280 caracteres)",
+          "Título em negrito com dados concretos"
+        ]
+      },
+      "bullet_points": {
+        "name": "Pontos principais",
+        "framework": "Formato Smart Brevity",
+        "description": "Pontos principais escaneáveis em formato estruturado. Resumo principal seguido de marcadores priorizados com detalhes concretos.",
+        "bestFor": "Notas de reunião, referência rápida, pontos-chave escaneáveis, compartilhamento em equipe",
+        "characteristics": [
+          "Máximo de 500 palavras",
+          "Formato de resumo principal",
+          "Marcadores priorizados",
+          "Cada marcador passa no teste \"e daí?\""
+        ]
+      },
+      "tutorial": {
+        "name": "Tutorial",
+        "framework": "Extrato de TED Talk + Pensamento Visual",
+        "description": "Guia passo a passo com exemplos de código e analogias visuais. Extrai a \"uma técnica que vale a pena aprender\" com instruções acionáveis.",
+        "bestFor": "Conteúdo prático, tutoriais de código, guias técnicos, aprendizado de novas habilidades",
+        "characteristics": [
+          "Máximo de 1500 palavras",
+          "Ideia central com analogia",
+          "Passo a passo com trechos de código",
+          "Armadilhas comuns destacadas",
+          "Pode ser replicado sem assistir ao vídeo"
+        ]
+      },
+      "detailed": {
+        "name": "Detalhado",
+        "framework": "Método McKinsey + Princípio da Pirâmide",
+        "description": "Resumo completo estilo artigo com resumo executivo, seções estruturadas e recomendações acionáveis. Projetado para substituir assistir a todos os vídeos.",
+        "bestFor": "Análise abrangente, decisões estratégicas, substituir visualização de vídeos, pesquisa aprofundada",
+        "characteristics": [
+          "Máximo de 3000 palavras",
+          "Resumo executivo (independente)",
+          "Estrutura Situação-Complicação-Resolução",
+          "Cada seção começa com conclusão",
+          "Seção de análise separada"
+        ]
+      },
+      "deep_dive": {
+        "name": "Análise profunda",
+        "framework": "Estrutura de Artigo de Pesquisa + Método McKinsey",
+        "description": "Análise técnica profunda com análise abrangente, benchmarks de desempenho e múltiplas abordagens de implementação. Profundidade e detalhes máximos.",
+        "bestFor": "Análise técnica, avaliação de desempenho, discussões de trade-offs, detalhes em nível de pesquisa",
+        "characteristics": [
+          "Máximo de 3000 palavras",
+          "Exemplos de código extensos",
+          "Benchmarks de desempenho",
+          "Múltiplas abordagens de implementação",
+          "Discussões de trade-offs"
+        ]
+      }
+    },
+    "customPrompt": "Prompt personalizado",
+    "customPromptPlaceholder": "Adicione instruções ou requisitos específicos para o resumo...",
+    "customPromptHelper": "Opcional: Adicione instruções personalizadas para personalizar a saída do resumo",
+    "language": "Idioma",
+    "submitButton": "Gerar resumo",
+    "processing": "Processando...",
+    "starting": "Iniciando...",
+    "summarize": "Resumir"
+  },
+  "urlValidation": {
+    "validLinks": "{{count}} {{count, plural, one {link válido} other {links válidos}}} detectado(s)",
+    "invalidLinks": "{{count}} {{count, plural, one {link inválido} other {links inválidos}}}",
+    "invalidLinksWithLines": "{{count}} {{count, plural, one {link inválido} other {links inválidos}}} ({{count, plural, one {linha} other {linhas}}} {{lines}})",
+    "invalidTooltip": "{{count, plural, one {URL do YouTube inválida} other {URLs do YouTube inválidas}}} detectada(s). Por favor, verifique o formato.",
+    "ariaLabel": "Entrada de URLs do YouTube"
+  },
+  "language": {
+    "default": "Padrão (Sua preferência)",
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "french": "Francês",
+    "german": "Alemão",
+    "chineseSimplified": "Chinês (Simplificado)",
+    "chineseTraditional": "Chinês (Tradicional)",
+    "japanese": "Japonês",
+    "korean": "Coreano",
+    "portuguese": "Português",
+    "italian": "Italiano",
+    "russian": "Russo",
+    "arabic": "Árabe"
+  },
+  "messages": {
+    "pasteUrl": "Cole pelo menos uma URL do YouTube para continuar",
+    "selectPreset": "Por favor, selecione uma predefinição de prompt para continuar"
+  },
+  "tooltips": {
+    "urlInput": "Cole um ou mais URLs do YouTube aqui, um por linha. O sistema validará cada URL automaticamente.",
+    "controlPanel": "Selecione uma predefinição de prompt para personalizar como o resumo é gerado. Você também pode adicionar instruções personalizadas para requisitos específicos."
+  },
+  "errors": {
+    "configLoadFailed": "Falha ao carregar configuração",
+    "retry": "Tentar novamente"
+  }
+}

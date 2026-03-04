@@ -1,0 +1,87 @@
+{
+  "title": "Configuración",
+  "sections": {
+    "general": {
+      "title": "General",
+      "description": "Preferencias de apariencia e idioma"
+    },
+    "notifications": {
+      "title": "Notificaciones",
+      "description": "Administra tus preferencias de notificación"
+    },
+    "privacy": {
+      "title": "Privacidad",
+      "description": "Controla tus preferencias de compartir datos y análisis"
+    },
+    "account": {
+      "title": "Cuenta",
+      "description": "Gestión de cuenta y configuración de seguridad"
+    },
+    "preferences": {
+      "title": "Preferencias",
+      "description": "Configuración predeterminada para la generación de resúmenes"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "Tema",
+      "description": "Elige tu tema de color preferido",
+      "options": {
+        "light": "Claro",
+        "dark": "Oscuro",
+        "system": "Sistema"
+      }
+    },
+    "language": {
+      "label": "Idioma",
+      "description": "Selecciona tu idioma preferido"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "Notificaciones por correo electrónico",
+      "description": "Recibe notificaciones por correo sobre tu cuenta"
+    },
+    "creditLowThreshold": {
+      "label": "Umbral de advertencia de créditos bajos",
+      "description": "Recibe una notificación cuando tus créditos caigan por debajo de esta cantidad"
+    },
+    "summaryComplete": {
+      "label": "Notificaciones de resumen completado",
+      "description": "Recibe una notificación cuando se completen tus resúmenes"
+    },
+    "tierUpgrade": {
+      "label": "Notificaciones de actualización de nivel",
+      "description": "Recibe notificaciones sobre oportunidades de actualización de nivel"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "Compartir datos",
+      "description": "Permitir compartir datos de uso anonimizados para mejorar el servicio"
+    },
+    "analytics": {
+      "label": "Análisis",
+      "description": "Habilitar análisis para ayudarnos a mejorar la aplicación"
+    }
+  },
+  "account": {
+    "comingSoon": "Las funciones de gestión de cuenta estarán disponibles próximamente. Puedes gestionar tu cuenta desde la página de Cuenta.",
+    "goToAccount": "Ir a la página de cuenta"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "Idioma predeterminado",
+      "description": "Idioma predeterminado para los resúmenes generados"
+    },
+    "autoSave": {
+      "label": "Autoguardado",
+      "description": "Guarda automáticamente tu trabajo mientras avanzas"
+    }
+  },
+  "buttons": {
+    "save": "Guardar cambios",
+    "saving": "Guardando...",
+    "back": "Atrás"
+  }
+}

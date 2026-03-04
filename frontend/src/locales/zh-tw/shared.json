@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "正在載入共享研究...",
+    "error": "無法載入共享研究",
+    "errorMessage": "載入此共享研究時發生錯誤。",
+    "shareIdRequired": "需要共享ID"
+  },
+  "metadata": {
+    "sharedOn": "分享於 {{date}}",
+    "viewed": "已查看 {{count}} {{count, plural, one {次} other {次}}}"
+  },
+  "footer": {
+    "createResearch": "建立您自己的研究",
+    "poweredBy": "由 <brand>Video Research</brand> 提供支援"
+  }
+}

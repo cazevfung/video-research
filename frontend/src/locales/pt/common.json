@@ -1,0 +1,49 @@
+{
+    "actions":  {
+                    "save":  "Salvar",
+                    "cancel":  "Cancelar",
+                    "delete":  "Excluir",
+                    "edit":  "Editar",
+                    "back":  "Voltar",
+                    "next":  "Próximo",
+                    "previous":  "Anterior",
+                    "close":  "Fechar",
+                    "confirm":  "Confirmar",
+                    "submit":  "Enviar",
+                    "retry":  "Tentar novamente",
+                    "loading":  "Carregando...",
+                    "refresh":  "Atualizar"
+                },
+    "status":  {
+                   "success":  "Sucesso",
+                   "error":  "Erro",
+                   "warning":  "Aviso",
+                   "info":  "Informação",
+                   "loading":  "Carregando"
+               },
+    "time":  {
+                 "justNow":  "Agora mesmo",
+                 "minutesAgo":  "há {{count}} minutos",
+                 "hoursAgo":  "há {{count}} horas",
+                 "daysAgo":  "há {{count}} dias",
+                 "weeksAgo":  "há {{count}} semanas",
+                 "monthsAgo":  "há {{count}} meses",
+                 "yearsAgo":  "há {{count}} anos"
+             },
+    "validation":  {
+                       "required":  "Este campo é obrigatório",
+                       "invalid":  "Valor inválido",
+                       "tooShort":  "Muito curto",
+                       "tooLong":  "Muito longo"
+                   },
+    "devMode":  {
+                    "storage":  "Storage",
+                    "files":  "({{count}} {{count, plural, one {file} other {files}}})",
+                    "userId":  "User ID",
+                    "title":  "DEV MODE",
+                    "disabled":  "Disabled",
+                    "auth":  "Auth",
+                    "enabled":  "Enabled",
+                    "noLocalFiles":  "No local files found"
+                }
+}

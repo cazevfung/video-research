@@ -1,0 +1,209 @@
+{
+  "job_id": "2c8b1642-993c-4aca-b2c5-dc136c3993a7",
+  "timestamp": "2026-01-22T09:03:57.634Z",
+  "request": {
+    "research_query": "ai impact on organizational structures and middle management roles",
+    "language": "English"
+  },
+  "supadata_metadata": [],
+  "status_updates": [
+    {
+      "timestamp": "2026-01-22T09:01:17.166Z",
+      "status": "processing",
+      "progress": 10,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:22.181Z",
+      "status": "processing",
+      "progress": 20,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:27.197Z",
+      "status": "processing",
+      "progress": 20,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:32.210Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:37.227Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:42.245Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:47.266Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:52.278Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:01:57.295Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:02.311Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:07.325Z",
+      "status": "fetching",
+      "progress": 55,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:12.335Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:17.348Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:22.361Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:27.370Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:32.393Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:37.402Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:42.418Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:47.428Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:52.446Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:02:57.467Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:02.481Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:07.495Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:12.515Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:17.522Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:22.534Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:27.547Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:32.562Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:37.577Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:42.590Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:47.608Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:52.622Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:03:57.633Z",
+      "status": "completed",
+      "progress": 100,
+      "message": "Research completed successfully"
+    }
+  ]
+}

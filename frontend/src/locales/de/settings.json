@@ -1,0 +1,87 @@
+{
+  "title": "Einstellungen",
+  "sections": {
+    "general": {
+      "title": "Allgemein",
+      "description": "Darstellungs- und Spracheinstellungen"
+    },
+    "notifications": {
+      "title": "Benachrichtigungen",
+      "description": "Verwalten Sie Ihre Benachrichtigungseinstellungen"
+    },
+    "privacy": {
+      "title": "Datenschutz",
+      "description": "Steuern Sie Ihre Datenfreigabe- und Analyseeinstellungen"
+    },
+    "account": {
+      "title": "Konto",
+      "description": "Kontoverwaltung und Sicherheitseinstellungen"
+    },
+    "preferences": {
+      "title": "Einstellungen",
+      "description": "Standardeinstellungen für die Zusammenfassungserstellung"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "Design",
+      "description": "Wählen Sie Ihr bevorzugtes Farbdesign",
+      "options": {
+        "light": "Hell",
+        "dark": "Dunkel",
+        "system": "System"
+      }
+    },
+    "language": {
+      "label": "Sprache",
+      "description": "Wählen Sie Ihre bevorzugte Sprache"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "E-Mail-Benachrichtigungen",
+      "description": "Erhalten Sie E-Mail-Benachrichtigungen über Ihr Konto"
+    },
+    "creditLowThreshold": {
+      "label": "Schwellenwert für niedrige Credits-Warnung",
+      "description": "Erhalten Sie eine Benachrichtigung, wenn Ihre Credits unter diesen Betrag fallen"
+    },
+    "summaryComplete": {
+      "label": "Benachrichtigungen über abgeschlossene Zusammenfassungen",
+      "description": "Erhalten Sie eine Benachrichtigung, wenn Ihre Zusammenfassungen fertig sind"
+    },
+    "tierUpgrade": {
+      "label": "Benachrichtigungen über Stufen-Upgrades",
+      "description": "Erhalten Sie Benachrichtigungen über Möglichkeiten zum Stufen-Upgrade"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "Datenfreigabe",
+      "description": "Erlauben Sie die Freigabe anonymisierter Nutzungsdaten zur Verbesserung des Dienstes"
+    },
+    "analytics": {
+      "label": "Analyse",
+      "description": "Aktivieren Sie die Analyse, um uns bei der Verbesserung der Anwendung zu helfen"
+    }
+  },
+  "account": {
+    "comingSoon": "Kontoverwaltungsfunktionen werden bald verfügbar sein. Sie können Ihr Konto über die Kontoseite verwalten.",
+    "goToAccount": "Zur Kontoseite gehen"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "Standardsprache",
+      "description": "Standardsprache für generierte Zusammenfassungen"
+    },
+    "autoSave": {
+      "label": "Automatisches Speichern",
+      "description": "Speichern Sie Ihre Arbeit automatisch während der Arbeit"
+    }
+  },
+  "buttons": {
+    "save": "Änderungen speichern",
+    "saving": "Speichern...",
+    "back": "Zurück"
+  }
+}

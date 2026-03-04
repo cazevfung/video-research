@@ -1,0 +1,39 @@
+{
+  "actions": {
+    "save": "저장",
+    "cancel": "취소",
+    "delete": "삭제",
+    "edit": "편집",
+    "back": "뒤로",
+    "next": "다음",
+    "previous": "이전",
+    "close": "닫기",
+    "confirm": "확인",
+    "submit": "제출",
+    "retry": "다시 시도",
+    "loading": "로딩 중...",
+    "refresh": "새로고침"
+  },
+  "status": {
+    "success": "성공",
+    "error": "오류",
+    "warning": "경고",
+    "info": "정보",
+    "loading": "로딩 중"
+  },
+  "time": {
+    "justNow": "방금",
+    "minutesAgo": "{{count}}분 전",
+    "hoursAgo": "{{count}}시간 전",
+    "daysAgo": "{{count}}일 전",
+    "weeksAgo": "{{count}}주 전",
+    "monthsAgo": "{{count}}개월 전",
+    "yearsAgo": "{{count}}년 전"
+  },
+  "validation": {
+    "required": "이 필드는 필수입니다",
+    "invalid": "유효하지 않은 값",
+    "tooShort": "너무 짧음",
+    "tooLong": "너무 김"
+  }
+}

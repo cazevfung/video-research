@@ -1,0 +1,30 @@
+{
+  "id": "1768463627309-v89ht3m",
+  "user_uid": "dev-user-id",
+  "user_id": "dev-user-id",
+  "job_id": "ed34fee1-58e2-4762-9af4-dcb2bc1e7ade",
+  "batch_title": "Trump's Venezuela Move Boosts China's Global Influence",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Ljje62uP5YA",
+      "title": "Why Trump's Venezuela War is a Gift to China",
+      "channel": "Cyrus Janssen",
+      "thumbnail": "https://i.ytimg.com/vi/Ljje62uP5YA/maxresdefault.jpg",
+      "duration_seconds": 798,
+      "word_count": 2432,
+      "was_pre_condensed": false,
+      "video_id": "Ljje62uP5YA"
+    }
+  ],
+  "preset_style": "tldr",
+  "final_summary_text": "tldr: Trump's invasion of Venezuela is portrayed as a power move to reassert American dominance, but it may ultimately benefit China by pushing more countries to view China as a more rational and peaceful power. The US's aggressive actions, including regime change and resource seizures, contrast with China's focus on infrastructure and trade, making China appear more stable and reliable. This shift could lead to long-term geopolitical advantages for China, as the US's actions alienate allies and create global instability (Video: Why Trump's Venezuela War is a Gift to China).",
+  "language": "English",
+  "processing_stats": {
+    "total_videos": 1,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 12
+  },
+  "created_at": "2026-01-15T07:53:47.309Z",
+  "updated_at": "2026-01-15T07:53:47.311Z"
+}

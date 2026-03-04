@@ -1,0 +1,145 @@
+{
+  "connection": {
+    "lost": "Connection lost. Please try again.",
+    "lostReconnecting": "Connection lost. Reconnecting...",
+    "failed": "Failed to connect to server. Please check your connection.",
+    "failedAfterRetries": "Failed to connect after multiple attempts",
+    "timeout": "Connection timeout. The server may be slow to respond."
+  },
+  "job": {
+    "startFailed": "Failed to start job",
+    "invalidResponse": "Invalid response from server",
+    "reconnectFailed": "Failed to reconnect. Please try starting a new job.",
+    "unknownError": "Unknown error occurred"
+  },
+  "api": {
+    "networkError": "Failed to connect to server. Please check your connection.",
+    "rateLimit": "Rate limit exceeded. Please try again later.",
+    "quotaExceeded": "Daily quota exceeded. Please try again tomorrow.",
+    "httpError": "Request failed with status {{status}}",
+    "unknownError": "An unknown error occurred",
+    "unauthorized": "You are not authorized to perform this action.",
+    "forbidden": "Access forbidden.",
+    "notFound": "Resource not found."
+  },
+  "form": {
+    "noUrls": "Please provide at least one valid YouTube URL",
+    "noPreset": "Please select a prompt preset to continue",
+    "invalidUrls": "Invalid YouTube URL(s) detected. Please check the format."
+  },
+  "history": {
+    "loadFailed": "Failed to load history",
+    "summaryLoadFailed": "Failed to load summary details"
+  },
+  "config": {
+    "loadFailed": "Failed to load configuration"
+  },
+  "clipboard": {
+    "copyFailed": "Failed to copy to clipboard"
+  },
+  "streaming": {
+    "parsingError": "The streaming data couldn't be processed correctly. The system will try a different approach.",
+    "connectionError": "Connection lost during streaming. Reconnecting...",
+    "timeoutError": "Streaming timeout. The server may be slow to respond.",
+    "fallbackError": "Streaming mode encountered an issue. The system has switched to standard mode and will continue processing.",
+    "serverError": "The server encountered an issue. Please try again later.",
+    "quotaError": "Rate limit reached. Please try again later.",
+    "authError": "Authentication failed. Please sign in again.",
+    "unknownError": "An unexpected error occurred"
+  },
+  "streamingErrors": {
+    "connection": {
+      "title": "Connection Error",
+      "message": "Connection lost. Please try again.",
+      "guidance": "Check your internet connection and try again."
+    },
+    "timeout": {
+      "title": "Connection Timeout",
+      "message": "Connection timeout. The server may be slow to respond.",
+      "guidance": "The server may be slow to respond. Try again in a moment."
+    },
+    "server": {
+      "title": "Server Error",
+      "message": "The server encountered an issue. Please try again later.",
+      "guidance": "The server may be temporarily unavailable. Try again later."
+    },
+    "quota": {
+      "title": "Rate Limit",
+      "message": "Rate limit reached. Please try again later.",
+      "guidance": "Wait a moment before trying again."
+    },
+    "auth": {
+      "title": "Authentication Error",
+      "message": "Authentication failed. Please sign in again.",
+      "guidance": "Sign in again to continue."
+    },
+    "stream_parsing": {
+      "title": "Stream Processing Error",
+      "message": "The streaming data couldn't be processed correctly. The system will try a different approach.",
+      "guidance": "The summary will continue in standard mode. No action needed."
+    },
+    "fallback": {
+      "title": "Streaming Unavailable",
+      "message": "Streaming mode encountered an issue. The system has switched to standard mode and will continue processing.",
+      "guidance": "Processing will continue normally. This may take slightly longer."
+    },
+    "unknown": {
+      "title": "Error",
+      "message": "Something went wrong",
+      "guidance": null
+    },
+    "errorCode": "Error Code: {{code}}",
+    "tryAgain": "Try Again",
+    "ok": "OK"
+  },
+  "generic": {
+    "somethingWentWrong": "Something went wrong",
+    "unexpectedError": "An unexpected error occurred"
+  },
+  "auth": {
+    "emailAlreadyInUse": "An account with this email already exists.",
+    "invalidEmail": "Invalid email address.",
+    "operationNotAllowed": "Email/password authentication is not enabled.",
+    "weakPassword": "Password is too weak. Please use a stronger password.",
+    "userDisabled": "This account has been disabled.",
+    "userNotFound": "No account found with this email address.",
+    "wrongPassword": "Incorrect password. Please try again.",
+    "tooManyRequests": "Too many failed attempts. Please try again later.",
+    "networkRequestFailed": "Network error. Please check your connection.",
+    "invalidCredential": "Invalid email or password.",
+    "defaultError": "An error occurred during authentication.",
+    "notEnabled": "Firebase Auth is not enabled.",
+    "disabled": "Authentication is not enabled on this server. Please contact the administrator.",
+    "requiresRecentLogin": "This operation requires recent authentication. Please sign in again.",
+    "credentialAlreadyInUse": "This credential is already associated with a different account.",
+    "invalidActionCode": "The action code is invalid or has expired.",
+    "expiredActionCode": "The action code has expired.",
+    "invalidVerificationCode": "The verification code is invalid.",
+    "invalidVerificationId": "The verification ID is invalid.",
+    "missingVerificationCode": "The verification code is missing.",
+    "missingVerificationId": "The verification ID is missing.",
+    "codeExpired": "The verification code has expired.",
+    "quotaExceeded": "The quota for this operation has been exceeded.",
+    "unauthorizedDomain": "This domain is not authorized for OAuth operations.",
+    "accountExistsWithDifferentCredential": "An account already exists with the same email but different sign-in credentials.",
+    "popupBlocked": "The popup was blocked by the browser.",
+    "popupClosedByUser": "The popup was closed by the user before completing the sign-in.",
+    "cancelledPopupRequest": "Only one popup request is allowed at one time.",
+    "appDeleted": "This instance of FirebaseApp has been deleted.",
+    "appNotAuthorized": "This app is not authorized to use Firebase Authentication.",
+    "argumentError": "An invalid argument was provided to the authentication method.",
+    "invalidApiKey": "The provided API key is invalid.",
+    "invalidUserToken": "The user's credential is no longer valid. The user must sign in again.",
+    "invalidTenantId": "The tenant ID provided is invalid.",
+    "tenantIdMismatch": "The provided tenant ID does not match the Auth instance's tenant ID.",
+    "operationNotSupported": "This operation is not supported in the environment this application is running on.",
+    "timeout": "The operation timed out.",
+    "unimplemented": "The requested operation is not implemented.",
+    "userMismatch": "The supplied credentials do not correspond to the previously signed in user.",
+    "userTokenExpired": "The user's credential has expired. The user must sign in again.",
+    "webStorageUnsupported": "This browser is not supported or 3rd party cookies and data may be disabled."
+  },
+  "guest": {
+    "limitReached": "You've reached your guest limit. Please login to create more summaries."
+  }
+}

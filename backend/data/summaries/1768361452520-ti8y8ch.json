@@ -1,0 +1,30 @@
+{
+  "id": "1768361452520-ti8y8ch",
+  "user_uid": "dev-user-id",
+  "user_id": "dev-user-id",
+  "job_id": "b653da27-734b-4908-8b35-3256b9f9b7ae",
+  "batch_title": "Apple Integrates Gemini AI to Boost Siri",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=be-hvAgT2Ac",
+      "title": "Apple Picks Gemini AI in Win for Google’s Tensor Chip",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/be-hvAgT2Ac/maxresdefault.jpg",
+      "duration_seconds": 288,
+      "word_count": 875,
+      "was_pre_condensed": false,
+      "video_id": "be-hvAgT2Ac"
+    }
+  ],
+  "preset_style": "tldr",
+  "final_summary_text": "Apple's integration of Google's Gemini AI into its foundational models, including Siri, marks a significant step forward in its AI strategy. This move, facilitated by Google's win in the DOJ suit, is expected to enhance Siri's functionality and contribute to Apple's valuation. While Apple will initially rely on Google, it aims to develop its own capabilities over time, leveraging its massive install base to drive the consumer revolution (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip).",
+  "language": "English",
+  "processing_stats": {
+    "total_videos": 1,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 12
+  },
+  "created_at": "2026-01-14T03:30:52.520Z",
+  "updated_at": "2026-01-14T03:30:52.522Z"
+}

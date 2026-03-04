@@ -1,0 +1,204 @@
+/**
+ * Design System CSS Variables
+ * Based on style_update_prd.md
+ * 
+ * This file defines all CSS custom properties for the design system,
+ * including base colors, text hierarchy, backgrounds, borders, and status colors.
+ * Supports both light and dark modes with automatic theme switching.
+ */
+
+:root {
+  /* Base Colors - Light Mode (Refined) */
+  --color-theme-bg: #FAFAF8;
+  --color-theme-fg: #1F1E18;
+  --color-theme-fg-02: #36352E;
+  --color-theme-bg-card: #F5F4F0;
+  --color-theme-bg-card-hover: #EFEDE8;
+  
+  /* Text Colors - Light Mode */
+  --color-theme-text-primary: var(--color-theme-fg);
+  --color-theme-text-secondary: color-mix(in oklab, var(--color-theme-fg) 60%, transparent);
+  --color-theme-text-secondary-opaque: color-mix(in oklab, var(--color-theme-fg) 60%, var(--color-theme-bg-card));
+  --color-theme-text-tertiary: color-mix(in oklab, var(--color-theme-fg) 40%, transparent);
+  --color-theme-text-tertiary-opaque: color-mix(in oklab, var(--color-theme-fg) 40%, var(--color-theme-bg-card));
+  --color-theme-text-quaternary: color-mix(in oklab, var(--color-theme-fg) 20%, transparent);
+  --color-theme-text-inverted: var(--color-theme-bg);
+  
+  /* Background Colors - Light Mode */
+  --color-theme-bg-primary: var(--color-theme-fg);
+  --color-theme-bg-secondary: color-mix(in oklab, var(--color-theme-fg) 8%, transparent);
+  --color-theme-bg-secondary-opaque: color-mix(in oklab, var(--color-theme-fg) 8%, var(--color-theme-bg-card));
+  --color-theme-bg-tertiary: color-mix(in oklab, var(--color-theme-fg) 6%, transparent);
+  --color-theme-bg-tertiary-opaque: color-mix(in oklab, var(--color-theme-fg) 6%, var(--color-theme-bg-card));
+  --color-theme-bg-quaternary: color-mix(in oklab, var(--color-theme-fg) 2.5%, transparent);
+  
+  /* Border Colors - Light Mode */
+  --color-theme-border-strong: color-mix(in oklab, var(--color-theme-fg) 80%, transparent);
+  --color-theme-border-primary: color-mix(in oklab, var(--color-theme-fg) 12%, transparent);
+  --color-theme-border-primary-opaque: color-mix(in oklab, var(--color-theme-border-primary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-secondary: color-mix(in oklab, var(--color-theme-fg) 8%, transparent);
+  --color-theme-border-secondary-opaque: color-mix(in oklab, var(--color-theme-border-secondary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-tertiary: color-mix(in oklab, var(--color-theme-fg) 4%, transparent);
+  --color-theme-border-tertiary-opaque: color-mix(in oklab, var(--color-theme-border-tertiary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-quaternary: color-mix(in oklab, var(--color-theme-fg) 2.5%, transparent);
+  --color-theme-border-quaternary-opaque: color-mix(in oklab, var(--color-theme-border-quaternary) 100%, var(--color-theme-bg-card));
+  
+  /* Status Colors - Terminal ANSI */
+  --terminal-ansi-green: #96C2AC;
+  --terminal-ansi-yellow: #ebcb8b;
+  --terminal-ansi-red: #bf616a;
+  --terminal-ansi-blue: #81a1c1;
+  
+  /* Dashboard Status Colors - Text */
+  --dashboard-text-success-primary: var(--terminal-ansi-green);
+  --dashboard-text-success-secondary: color-mix(in srgb, var(--terminal-ansi-green) 68%, transparent);
+  --dashboard-text-warning-primary: var(--terminal-ansi-yellow);
+  --dashboard-text-warning-secondary: color-mix(in srgb, var(--terminal-ansi-yellow) 68%, transparent);
+  --dashboard-text-error-primary: var(--terminal-ansi-red);
+  --dashboard-text-error-secondary: color-mix(in srgb, var(--terminal-ansi-red) 68%, transparent);
+  
+  /* Dashboard Status Colors - Backgrounds */
+  --dashboard-bg-success-secondary: color-mix(in srgb, var(--terminal-ansi-green) 10%, transparent);
+  --dashboard-bg-warning-secondary: color-mix(in srgb, var(--terminal-ansi-yellow) 10%, transparent);
+  --dashboard-bg-error-secondary: color-mix(in srgb, var(--terminal-ansi-red) 10%, transparent);
+  
+  /* Dashboard Status Colors - Strokes/Borders */
+  --dashboard-stroke-success-primary: color-mix(in srgb, var(--terminal-ansi-green) 56%, transparent);
+  --dashboard-stroke-success-secondary: color-mix(in srgb, var(--terminal-ansi-green) 32%, transparent);
+  --dashboard-stroke-success-tertiary: color-mix(in srgb, var(--terminal-ansi-green) 8%, transparent);
+  --dashboard-stroke-warning-primary: color-mix(in srgb, var(--terminal-ansi-yellow) 56%, transparent);
+  --dashboard-stroke-warning-secondary: color-mix(in srgb, var(--terminal-ansi-yellow) 32%, transparent);
+  --dashboard-stroke-warning-tertiary: color-mix(in srgb, var(--terminal-ansi-yellow) 8%, transparent);
+  --dashboard-stroke-error-primary: color-mix(in srgb, var(--terminal-ansi-red) 56%, transparent);
+  --dashboard-stroke-error-secondary: color-mix(in srgb, var(--terminal-ansi-red) 32%, transparent);
+  --dashboard-stroke-error-tertiary: color-mix(in srgb, var(--terminal-ansi-red) 8%, transparent);
+  
+  /* Dashboard Icon Colors */
+  --dashboard-icon-primary: color-mix(in srgb, var(--color-theme-fg) 92%, transparent);
+  --dashboard-icon-secondary: color-mix(in srgb, var(--color-theme-fg) 60%, transparent);
+  --dashboard-icon-tertiary: color-mix(in srgb, var(--color-theme-fg) 36%, transparent);
+  --dashboard-icon-quaternary: color-mix(in srgb, var(--color-theme-fg) 12%, transparent);
+  --dashboard-icon-success-primary: color-mix(in srgb, var(--terminal-ansi-green) 92%, transparent);
+  --dashboard-icon-warning-primary: color-mix(in srgb, var(--terminal-ansi-yellow) 92%, transparent);
+  --dashboard-icon-error-primary: color-mix(in srgb, var(--terminal-ansi-red) 92%, transparent);
+  
+  /* Dashboard Background Colors */
+  --dashboard-bg-primary: color-mix(in srgb, var(--color-theme-fg) 24%, transparent);
+  --dashboard-bg-inactive-selection: rgba(255, 255, 255, 0.06);
+  
+  /* UI Element Colors - Light Mode */
+  --color-theme-accent: #F54E00;
+  /* Button colors - ensure proper contrast */
+  --color-theme-bg-button: var(--color-theme-fg); /* Use foreground color as button background */
+  --color-theme-button-text: var(--color-theme-bg); /* Use background color as button text for contrast */
+  --color-theme-bg-button-hover: var(--color-theme-fg-02);
+  --color-theme-bg-button-disabled: color-mix(in oklab, var(--color-theme-fg) 20%, transparent);
+  --color-theme-text-button-disabled: var(--color-theme-text-secondary-opaque);
+  --color-theme-bg-chat-input: var(--color-theme-bg-card);
+  --color-theme-tooltip-bg: rgb(255, 255, 255);
+  
+  /* Icon Colors - Light Mode */
+  --color-theme-status-icon: #777;
+  --color-theme-action-icon: #666;
+  --color-theme-action-icon-disabled: #AAA;
+  
+  /* Typography */
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  
+  /* Spacing */
+  --navbar-height: 2.75rem;
+  
+  /* Legacy support - keep for backward compatibility */
+  --background: var(--color-theme-bg);
+  --foreground: var(--color-theme-text-primary);
+}
+
+:root.dark {
+  /* Base Colors - Dark Mode */
+  --color-theme-bg: #14120B;
+  --color-theme-fg: #EDECEC;
+  --color-theme-fg-02: #D7D6D5;
+  --color-theme-bg-card: #1b1a15;
+  --color-theme-bg-card-hover: #262622;
+  
+  /* Text Colors - Dark Mode (automatically adjust via color-mix) */
+  --color-theme-text-primary: var(--color-theme-fg);
+  --color-theme-text-secondary: color-mix(in oklab, var(--color-theme-fg) 60%, transparent);
+  --color-theme-text-secondary-opaque: color-mix(in oklab, var(--color-theme-fg) 60%, var(--color-theme-bg-card));
+  --color-theme-text-tertiary: color-mix(in oklab, var(--color-theme-fg) 40%, transparent);
+  --color-theme-text-tertiary-opaque: color-mix(in oklab, var(--color-theme-fg) 40%, var(--color-theme-bg-card));
+  --color-theme-text-quaternary: color-mix(in oklab, var(--color-theme-fg) 20%, transparent);
+  --color-theme-text-inverted: var(--color-theme-bg);
+  
+  /* Background Colors - Dark Mode */
+  --color-theme-bg-primary: var(--color-theme-fg);
+  --color-theme-bg-secondary: color-mix(in oklab, var(--color-theme-fg) 8%, transparent);
+  --color-theme-bg-secondary-opaque: color-mix(in oklab, var(--color-theme-fg) 8%, var(--color-theme-bg-card));
+  --color-theme-bg-tertiary: color-mix(in oklab, var(--color-theme-fg) 6%, transparent);
+  --color-theme-bg-tertiary-opaque: color-mix(in oklab, var(--color-theme-fg) 6%, var(--color-theme-bg-card));
+  --color-theme-bg-quaternary: color-mix(in oklab, var(--color-theme-fg) 2.5%, transparent);
+  
+  /* Border Colors - Dark Mode */
+  --color-theme-border-strong: color-mix(in oklab, var(--color-theme-fg) 80%, transparent);
+  --color-theme-border-primary: color-mix(in oklab, var(--color-theme-fg) 12%, transparent);
+  --color-theme-border-primary-opaque: color-mix(in oklab, var(--color-theme-border-primary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-secondary: color-mix(in oklab, var(--color-theme-fg) 8%, transparent);
+  --color-theme-border-secondary-opaque: color-mix(in oklab, var(--color-theme-border-secondary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-tertiary: color-mix(in oklab, var(--color-theme-fg) 4%, transparent);
+  --color-theme-border-tertiary-opaque: color-mix(in oklab, var(--color-theme-border-tertiary) 100%, var(--color-theme-bg-card));
+  --color-theme-border-quaternary: color-mix(in oklab, var(--color-theme-fg) 2.5%, transparent);
+  --color-theme-border-quaternary-opaque: color-mix(in oklab, var(--color-theme-border-quaternary) 100%, var(--color-theme-bg-card));
+  
+  /* UI Element Colors - Dark Mode */
+  /* Button colors - ensure proper contrast in dark mode */
+  --color-theme-bg-button: var(--color-theme-fg); /* Light beige background */
+  --color-theme-button-text: var(--color-theme-bg); /* Dark brown text for contrast */
+  --color-theme-bg-button-hover: var(--color-theme-fg-02);
+  --color-theme-tooltip-bg: rgb(18, 18, 17);
+  --color-theme-status-icon: #DDD;
+  --color-theme-action-icon: #999;
+  --color-theme-action-icon-disabled: #555;
+  
+  /* Dashboard Background Colors - Dark Mode */
+  --dashboard-bg-inactive-selection: rgba(255, 255, 255, 0.06);
+  
+  /* Legacy support */
+  --background: var(--color-theme-bg);
+  --foreground: var(--color-theme-text-primary);
+}
+
+/* Fallback for browsers without color-mix support */
+@supports not (color: color-mix(in oklab, red, blue)) {
+  :root {
+    /* Updated fallback colors to match refined light mode base colors */
+    /* Base foreground: #1F1E18 = rgb(31, 30, 24) */
+    --color-theme-text-secondary: rgba(31, 30, 24, 0.6);
+    --color-theme-text-tertiary: rgba(31, 30, 24, 0.4);
+    --color-theme-text-quaternary: rgba(31, 30, 24, 0.2);
+    --color-theme-bg-secondary: rgba(31, 30, 24, 0.08);
+    --color-theme-bg-tertiary: rgba(31, 30, 24, 0.06);
+    --color-theme-bg-quaternary: rgba(31, 30, 24, 0.025);
+    --color-theme-border-strong: rgba(31, 30, 24, 0.8);
+    --color-theme-border-primary: rgba(31, 30, 24, 0.12);
+    --color-theme-border-secondary: rgba(31, 30, 24, 0.08);
+    --color-theme-border-tertiary: rgba(31, 30, 24, 0.04);
+    --color-theme-border-quaternary: rgba(31, 30, 24, 0.025);
+  }
+  
+  :root.dark {
+    --color-theme-text-secondary: rgba(237, 236, 236, 0.6);
+    --color-theme-text-tertiary: rgba(237, 236, 236, 0.4);
+    --color-theme-text-quaternary: rgba(237, 236, 236, 0.2);
+    --color-theme-bg-secondary: rgba(237, 236, 236, 0.08);
+    --color-theme-bg-tertiary: rgba(237, 236, 236, 0.06);
+    --color-theme-bg-quaternary: rgba(237, 236, 236, 0.025);
+    --color-theme-border-strong: rgba(237, 236, 236, 0.8);
+    --color-theme-border-primary: rgba(237, 236, 236, 0.12);
+    --color-theme-border-secondary: rgba(237, 236, 236, 0.08);
+    --color-theme-border-tertiary: rgba(237, 236, 236, 0.04);
+    --color-theme-border-quaternary: rgba(237, 236, 236, 0.025);
+  }
+}
+

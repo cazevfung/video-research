@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "Carregando pesquisa compartilhada...",
+    "error": "Não foi possível carregar a pesquisa compartilhada",
+    "errorMessage": "Ocorreu um erro ao carregar esta pesquisa compartilhada.",
+    "shareIdRequired": "ID de compartilhamento é obrigatório"
+  },
+  "metadata": {
+    "sharedOn": "Compartilhado em {{date}}",
+    "viewed": "Visualizado {{count}} {{count, plural, one {vez} other {vezes}}}"
+  },
+  "footer": {
+    "createResearch": "Crie sua própria pesquisa",
+    "poweredBy": "Desenvolvido por <brand>Video Research</brand>"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "actions": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ",
+    "close": "閉じる",
+    "confirm": "確認",
+    "submit": "送信",
+    "retry": "再試行",
+    "loading": "読み込み中...",
+    "refresh": "更新"
+  },
+  "status": {
+    "success": "成功",
+    "error": "エラー",
+    "warning": "警告",
+    "info": "情報",
+    "loading": "読み込み中"
+  },
+  "time": {
+    "justNow": "たった今",
+    "minutesAgo": "{{count}}分前",
+    "hoursAgo": "{{count}}時間前",
+    "daysAgo": "{{count}}日前",
+    "weeksAgo": "{{count}}週間前",
+    "monthsAgo": "{{count}}ヶ月前",
+    "yearsAgo": "{{count}}年前"
+  },
+  "validation": {
+    "required": "この項目は必須です",
+    "invalid": "無効な値です",
+    "tooShort": "短すぎます",
+    "tooLong": "長すぎます"
+  }
+}

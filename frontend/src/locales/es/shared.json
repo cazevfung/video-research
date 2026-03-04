@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "Cargando investigación compartida...",
+    "error": "No se pudo cargar la investigación compartida",
+    "errorMessage": "Ocurrió un error al cargar esta investigación compartida.",
+    "shareIdRequired": "Se requiere el ID de compartir"
+  },
+  "metadata": {
+    "sharedOn": "Compartido el {{date}}",
+    "viewed": "Visto {{count}} {{count, plural, one {vez} other {veces}}}"
+  },
+  "footer": {
+    "createResearch": "Crea tu propia investigación",
+    "poweredBy": "Desarrollado por <brand>Video Research</brand>"
+  }
+}

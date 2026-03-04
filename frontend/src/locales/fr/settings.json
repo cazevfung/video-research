@@ -1,0 +1,87 @@
+{
+  "title": "Paramètres",
+  "sections": {
+    "general": {
+      "title": "Général",
+      "description": "Préférences d'apparence et de langue"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Gérez vos préférences de notification"
+    },
+    "privacy": {
+      "title": "Confidentialité",
+      "description": "Contrôlez vos préférences de partage de données et d'analyse"
+    },
+    "account": {
+      "title": "Compte",
+      "description": "Gestion du compte et paramètres de sécurité"
+    },
+    "preferences": {
+      "title": "Préférences",
+      "description": "Paramètres par défaut pour la génération de résumés"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "Thème",
+      "description": "Choisissez votre thème de couleur préféré",
+      "options": {
+        "light": "Clair",
+        "dark": "Sombre",
+        "system": "Système"
+      }
+    },
+    "language": {
+      "label": "Langue",
+      "description": "Sélectionnez votre langue préférée"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "Notifications par e-mail",
+      "description": "Recevez des notifications par e-mail concernant votre compte"
+    },
+    "creditLowThreshold": {
+      "label": "Seuil d'avertissement de crédits faibles",
+      "description": "Recevez une notification lorsque vos crédits tombent en dessous de ce montant"
+    },
+    "summaryComplete": {
+      "label": "Notifications de résumé terminé",
+      "description": "Recevez une notification lorsque vos résumés sont terminés"
+    },
+    "tierUpgrade": {
+      "label": "Notifications de mise à niveau de niveau",
+      "description": "Recevez des notifications sur les opportunités de mise à niveau de niveau"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "Partage de données",
+      "description": "Autoriser le partage de données d'utilisation anonymisées pour améliorer le service"
+    },
+    "analytics": {
+      "label": "Analyse",
+      "description": "Activer l'analyse pour nous aider à améliorer l'application"
+    }
+  },
+  "account": {
+    "comingSoon": "Les fonctionnalités de gestion de compte seront bientôt disponibles. Vous pouvez gérer votre compte depuis la page Compte.",
+    "goToAccount": "Aller à la page du compte"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "Langue par défaut",
+      "description": "Langue par défaut pour les résumés générés"
+    },
+    "autoSave": {
+      "label": "Sauvegarde automatique",
+      "description": "Enregistrez automatiquement votre travail au fur et à mesure"
+    }
+  },
+  "buttons": {
+    "save": "Enregistrer les modifications",
+    "saving": "Enregistrement...",
+    "back": "Retour"
+  }
+}

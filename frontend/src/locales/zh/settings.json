@@ -1,0 +1,87 @@
+{
+  "title": "设置",
+  "sections": {
+    "general": {
+      "title": "常规",
+      "description": "外观和语言偏好"
+    },
+    "notifications": {
+      "title": "通知",
+      "description": "管理您的通知偏好"
+    },
+    "privacy": {
+      "title": "隐私",
+      "description": "控制您的数据共享和分析偏好"
+    },
+    "account": {
+      "title": "账户",
+      "description": "账户管理和安全设置"
+    },
+    "preferences": {
+      "title": "偏好设置",
+      "description": "摘要生成的默认设置"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "主题",
+      "description": "选择您喜欢的颜色主题",
+      "options": {
+        "light": "浅色",
+        "dark": "深色",
+        "system": "系统"
+      }
+    },
+    "language": {
+      "label": "语言",
+      "description": "选择您的首选语言"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "电子邮件通知",
+      "description": "接收有关您账户的电子邮件通知"
+    },
+    "creditLowThreshold": {
+      "label": "积分不足警告阈值",
+      "description": "当您的积分低于此数量时收到通知"
+    },
+    "summaryComplete": {
+      "label": "摘要完成通知",
+      "description": "当您的摘要完成时收到通知"
+    },
+    "tierUpgrade": {
+      "label": "等级升级通知",
+      "description": "接收有关等级升级机会的通知"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "数据共享",
+      "description": "允许共享匿名使用数据以改进服务"
+    },
+    "analytics": {
+      "label": "分析",
+      "description": "启用分析以帮助我们改进应用程序"
+    }
+  },
+  "account": {
+    "comingSoon": "账户管理功能即将推出。您可以从账户页面管理您的账户。",
+    "goToAccount": "前往账户页面"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "默认语言",
+      "description": "生成摘要的默认语言"
+    },
+    "autoSave": {
+      "label": "自动保存",
+      "description": "自动保存您的工作"
+    }
+  },
+  "buttons": {
+    "save": "保存更改",
+    "saving": "保存中...",
+    "back": "返回"
+  }
+}

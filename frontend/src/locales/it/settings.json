@@ -1,0 +1,87 @@
+{
+  "title": "Impostazioni",
+  "sections": {
+    "general": {
+      "title": "Generale",
+      "description": "Preferenze di aspetto e lingua"
+    },
+    "notifications": {
+      "title": "Notifiche",
+      "description": "Gestisci le tue preferenze di notifica"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "description": "Controlla le tue preferenze di condivisione dati e analisi"
+    },
+    "account": {
+      "title": "Account",
+      "description": "Gestione account e impostazioni di sicurezza"
+    },
+    "preferences": {
+      "title": "Preferenze",
+      "description": "Impostazioni predefinite per la generazione di riassunti"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "Tema",
+      "description": "Scegli il tuo tema di colore preferito",
+      "options": {
+        "light": "Chiaro",
+        "dark": "Scuro",
+        "system": "Sistema"
+      }
+    },
+    "language": {
+      "label": "Lingua",
+      "description": "Seleziona la tua lingua preferita"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "Notifiche via email",
+      "description": "Ricevi notifiche via email sul tuo account"
+    },
+    "creditLowThreshold": {
+      "label": "Soglia di avviso crediti bassi",
+      "description": "Ricevi una notifica quando i tuoi crediti scendono sotto questo importo"
+    },
+    "summaryComplete": {
+      "label": "Notifiche di riassunto completato",
+      "description": "Ricevi una notifica quando i tuoi riassunti sono completati"
+    },
+    "tierUpgrade": {
+      "label": "Notifiche di aggiornamento livello",
+      "description": "Ricevi notifiche sulle opportunità di aggiornamento livello"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "Condivisione dati",
+      "description": "Consenti la condivisione di dati di utilizzo anonimizzati per migliorare il servizio"
+    },
+    "analytics": {
+      "label": "Analisi",
+      "description": "Abilita l'analisi per aiutarci a migliorare l'applicazione"
+    }
+  },
+  "account": {
+    "comingSoon": "Le funzionalità di gestione account saranno presto disponibili. Puoi gestire il tuo account dalla pagina Account.",
+    "goToAccount": "Vai alla pagina dell'account"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "Lingua predefinita",
+      "description": "Lingua predefinita per i riassunti generati"
+    },
+    "autoSave": {
+      "label": "Salvataggio automatico",
+      "description": "Salva automaticamente il tuo lavoro mentre procedi"
+    }
+  },
+  "buttons": {
+    "save": "Salva modifiche",
+    "saving": "Salvataggio...",
+    "back": "Indietro"
+  }
+}

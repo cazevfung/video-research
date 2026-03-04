@@ -1,0 +1,30 @@
+{
+  "id": "dev-user-id",
+  "email": "dev@example.com",
+  "name": "Development User",
+  "tier": "premium",
+  "credits_remaining": 50,
+  "password": "dev12345",
+  "created_at": "2026-01-13T10:38:58.497Z",
+  "last_reset": "2026-01-13T10:38:58.497Z",
+  "language_preference": "zh",
+  "settings": {
+    "theme": "system",
+    "notifications": {
+      "email": true,
+      "creditLowThreshold": 5,
+      "summaryComplete": true,
+      "tierUpgrade": true
+    },
+    "privacy": {
+      "dataSharing": false,
+      "analytics": true
+    },
+    "preferences": {
+      "defaultPreset": "",
+      "autoSave": true,
+      "defaultLanguage": "ja"
+    },
+    "language": "ja"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "header": {
+    "title": "Transformez des heures de vidéo en minutes de lecture",
+    "subtitle": "Résumez plusieurs vidéos YouTube avec l'IA. Obtenez des informations complètes dans votre style et langue préférés."
+  },
+  "form": {
+    "title": "Générateur de résumés YouTube",
+    "urlLabel": "URLs YouTube",
+    "urlPlaceholder": "Collez les liens YouTube ici (un par ligne)...",
+    "promptPresets": "Préréglages d'invite",
+    "expandStyles": "Plus",
+    "collapseStyles": "Moins",
+    "expandStylesAria": "Développer les détails du style",
+    "collapseStylesAria": "Réduire les détails du style",
+    "bestFor": "Idéal pour",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "Points clés",
+      "deep_dive": "Analyse approfondie",
+      "tutorial": "Tutoriel",
+      "detailed": "Détaillé"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "Résumé ultra-concis qui commence par la conclusion principale. Parfait pour un balayage rapide et la lecture mobile.",
+        "bestFor": "Aperçus rapides, utilisateurs mobiles, cadres, lecteurs pressés",
+        "characteristics": [
+          "Maximum 100 mots",
+          "Commence par la réponse (Principe de la Pyramide)",
+          "Passe le Test Twitter (idée centrale en 280 caractères)",
+          "Titre en gras avec données concrètes"
+        ]
+      },
+      "bullet_points": {
+        "name": "Points clés",
+        "framework": "Format Smart Brevity",
+        "description": "Points clés scannables en format structuré. Résumé principal suivi de puces priorisées avec détails concrets.",
+        "bestFor": "Notes de réunion, référence rapide, points à retenir scannables, partage d'équipe",
+        "characteristics": [
+          "Maximum 500 mots",
+          "Format de résumé principal",
+          "Puces priorisées",
+          "Chaque puce passe le test \"et alors ?\""
+        ]
+      },
+      "tutorial": {
+        "name": "Tutoriel",
+        "framework": "Extrait de TED Talk + Pensée Visuelle",
+        "description": "Guide étape par étape avec exemples de code et analogies visuelles. Extrait la \"une technique qui vaut la peine d'être apprise\" avec des instructions actionnables.",
+        "bestFor": "Contenu pratique, tutoriels de code, guides techniques, apprentissage de nouvelles compétences",
+        "characteristics": [
+          "Maximum 1500 mots",
+          "Idée centrale avec analogie",
+          "Étape par étape avec extraits de code",
+          "Pièges courants mis en évidence",
+          "Peut être reproduit sans regarder la vidéo"
+        ]
+      },
+      "detailed": {
+        "name": "Détaillé",
+        "framework": "Méthode McKinsey + Principe de la Pyramide",
+        "description": "Résumé complet style article avec résumé exécutif, sections structurées et recommandations actionnables. Conçu pour remplacer le visionnage de toutes les vidéos.",
+        "bestFor": "Analyse complète, décisions stratégiques, remplacer le visionnage de vidéos, recherche approfondie",
+        "characteristics": [
+          "Maximum 3000 mots",
+          "Résumé exécutif (autonome)",
+          "Structure Situation-Complication-Résolution",
+          "Chaque section commence par une conclusion",
+          "Section d'analyse séparée"
+        ]
+      },
+      "deep_dive": {
+        "name": "Analyse approfondie",
+        "framework": "Structure d'Article de Recherche + Méthode McKinsey",
+        "description": "Plongée technique approfondie avec analyse complète, benchmarks de performance et multiples approches d'implémentation. Profondeur et détails maximums.",
+        "bestFor": "Analyse technique, évaluation de performance, discussions de compromis, détails au niveau recherche",
+        "characteristics": [
+          "Maximum 3000 mots",
+          "Exemples de code étendus",
+          "Benchmarks de performance",
+          "Multiples approches d'implémentation",
+          "Discussions de compromis"
+        ]
+      }
+    },
+    "customPrompt": "Invite personnalisée",
+    "customPromptPlaceholder": "Ajoutez des instructions ou exigences spécifiques pour le résumé...",
+    "customPromptHelper": "Optionnel : Ajoutez des instructions personnalisées pour personnaliser la sortie du résumé",
+    "language": "Langue",
+    "submitButton": "Générer le résumé",
+    "processing": "Traitement en cours...",
+    "starting": "Démarrage...",
+    "summarize": "Résumer"
+  },
+  "urlValidation": {
+    "validLinks": "{{count}} {{count, plural, one {lien valide} other {liens valides}}} détecté(s)",
+    "invalidLinks": "{{count}} {{count, plural, one {lien invalide} other {liens invalides}}}",
+    "invalidLinksWithLines": "{{count}} {{count, plural, one {lien invalide} other {liens invalides}}} ({{count, plural, one {ligne} other {lignes}}} {{lines}})",
+    "invalidTooltip": "{{count, plural, one {URL YouTube invalide} other {URLs YouTube invalides}}} détectée(s). Veuillez vérifier le format.",
+    "ariaLabel": "Saisie d'URLs YouTube"
+  },
+  "language": {
+    "default": "Par défaut (Votre préférence)",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "french": "Français",
+    "german": "Allemand",
+    "chineseSimplified": "Chinois (Simplifié)",
+    "chineseTraditional": "Chinois (Traditionnel)",
+    "japanese": "Japonais",
+    "korean": "Coréen",
+    "portuguese": "Portugais",
+    "italian": "Italien",
+    "russian": "Russe",
+    "arabic": "Arabe"
+  },
+  "messages": {
+    "pasteUrl": "Collez au moins une URL YouTube pour continuer",
+    "selectPreset": "Veuillez sélectionner un préréglage d'invite pour continuer"
+  },
+  "tooltips": {
+    "urlInput": "Collez un ou plusieurs URLs YouTube ici, un par ligne. Le système validera automatiquement chaque URL.",
+    "controlPanel": "Sélectionnez un préréglage d'invite pour personnaliser la génération du résumé. Vous pouvez également ajouter des instructions personnalisées pour des exigences spécifiques."
+  },
+  "errors": {
+    "configLoadFailed": "Échec du chargement de la configuration",
+    "retry": "Réessayer"
+  },
+  "result": {
+    "sourceVideos": "Vidéos sources",
+    "viewOnYouTube": "Voir sur YouTube",
+    "noImage": "Aucune image",
+    "showLess": "Afficher moins",
+    "showMore": "{{count}} de plus",
+    "videoAnalyzed": "{{count, plural, one {# Vidéo} other {# Vidéos}}} analysée(s)",
+    "summary": "Résumé"
+  },
+  "buttons": {
+    "copy": "Copier",
+    "copied": "Copié",
+    "copiedExclamation": "Copié !",
+    "save": "Enregistrer",
+    "saving": "Enregistrement...",
+    "newBatch": "Nouveau lot",
+    "export": "Exporter",
+    "exporting": "Exportation...",
+    "delete": "Supprimer",
+    "deleting": "Suppression..."
+  },
+  "tooltips": {
+    "waitForCompletion": "Attendez que le résumé soit terminé",
+    "summaryNotAvailable": "Résumé non disponible",
+    "saving": "Enregistrement...",
+    "saveToLibrary": "Enregistrer dans la bibliothèque",
+    "collapseVideos": "Réduire les vidéos",
+    "showMoreVideos": "Afficher {{count}} vidéos de plus"
+  },
+  "toasts": {
+    "copiedToClipboard": "Copié dans le presse-papiers !",
+    "failedToCopy": "Échec de la copie dans le presse-papiers",
+    "cannotSaveNotAvailable": "Impossible d'enregistrer : Résumé non disponible",
+    "waitForCompletion": "Veuillez attendre que le résumé soit terminé avant d'enregistrer",
+    "cannotSaveMissingContent": "Impossible d'enregistrer : Contenu du résumé manquant",
+    "savedToLibrary": "Enregistré dans la bibliothèque",
+    "failedToSave": "Échec de l'enregistrement du résumé",
+    "summaryDeleted": "Résumé supprimé",
+    "failedToDelete": "Échec de la suppression du résumé",
+    "summaryExported": "Résumé exporté !",
+    "failedToExport": "Échec de l'exportation du résumé"
+  },
+  "metadata": {
+    "processedIn": "Traité en {{seconds}}s",
+    "video": "vidéo",
+    "videos": "vidéos"
+  },
+  "deleteDialog": {
+    "title": "Supprimer le résumé",
+    "description": "Êtes-vous sûr de vouloir supprimer ce résumé ? Cette action ne peut pas être annulée.",
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  }
+}

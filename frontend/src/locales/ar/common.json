@@ -1,0 +1,49 @@
+{
+    "actions":  {
+                    "save":  "حفظ",
+                    "cancel":  "إلغاء",
+                    "delete":  "حذف",
+                    "edit":  "تحرير",
+                    "back":  "رجوع",
+                    "next":  "التالي",
+                    "previous":  "السابق",
+                    "close":  "إغلاق",
+                    "confirm":  "تأكيد",
+                    "submit":  "إرسال",
+                    "retry":  "إعادة المحاولة",
+                    "loading":  "جاري التحميل...",
+                    "refresh":  "تحديث"
+                },
+    "status":  {
+                   "success":  "نجح",
+                   "error":  "خطأ",
+                   "warning":  "تحذير",
+                   "info":  "معلومات",
+                   "loading":  "جاري التحميل"
+               },
+    "time":  {
+                 "justNow":  "الآن",
+                 "minutesAgo":  "منذ {{count}} دقيقة",
+                 "hoursAgo":  "منذ {{count}} ساعة",
+                 "daysAgo":  "منذ {{count}} يوم",
+                 "weeksAgo":  "منذ {{count}} أسبوع",
+                 "monthsAgo":  "منذ {{count}} شهر",
+                 "yearsAgo":  "منذ {{count}} سنة"
+             },
+    "validation":  {
+                       "required":  "هذا الحقل مطلوب",
+                       "invalid":  "قيمة غير صالحة",
+                       "tooShort":  "قصير جدًا",
+                       "tooLong":  "طويل جدًا"
+                   },
+    "devMode":  {
+                    "storage":  "Storage",
+                    "files":  "({{count}} {{count, plural, one {file} other {files}}})",
+                    "userId":  "User ID",
+                    "title":  "DEV MODE",
+                    "disabled":  "Disabled",
+                    "auth":  "Auth",
+                    "enabled":  "Enabled",
+                    "noLocalFiles":  "No local files found"
+                }
+}

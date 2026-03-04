@@ -1,0 +1,154 @@
+{
+  "header": {
+    "title": "AI驱动的视频研究",
+    "subtitle": "通过精选的YouTube视频和全面摘要探索任何主题"
+  },
+  "form": {
+    "queryLabel": "研究查询",
+    "queryPlaceholder": "您想研究什么？（例如：'AI对医疗保健的影响'）",
+    "queryHint": "描述您想了解的内容（最少{{min}}个字符）",
+    "characterCount_one": "{{count}}个字符",
+    "characterCount_other": "{{count}}个字符",
+    "languageLabel": "输出语言",
+    "startResearch": "开始研究",
+    "starting": "正在开始研究...",
+    "processing": "处理中..."
+  },
+  "progress": {
+    "researchJobCreated": "研究任务已创建",
+    "generatingQueries": "正在生成搜索查询...",
+    "generatingQuestions": "正在生成研究问题...",
+    "awaitingQuestionApproval": "请审查并批准研究问题",
+    "regeneratingQuestions": "根据您的反馈正在重新生成研究问题...",
+    "generatingSearchTerms": "根据批准的问题正在生成搜索词...",
+    "awaitingSearchTermApproval": "请审查并批准搜索词",
+    "regeneratingSearchTerms": "根据您的反馈正在重新生成搜索词...",
+    "generatedQueriesSearching": "已生成{{count}}个搜索查询。正在搜索视频...",
+    "generatedQuestionsReview": "已生成{{count}}个研究问题。请审查并批准。",
+    "searchingVideos": "正在搜索视频...",
+    "filteringVideos": "正在筛选最佳视频...",
+    "foundVideosFiltering": "已找到{{found}}个视频。正在筛选以选择最佳的{{target}}个...",
+    "awaitingVideoApproval": "请审查并批准选定的视频",
+    "refilteringVideos": "根据您的反馈正在重新选择视频...",
+    "selectedVideosFetching": "已选择{{count}}个视频。正在获取转录...",
+    "fetchingTranscripts": "正在获取转录...",
+    "generatingSummary": "正在生成全面摘要...",
+    "generatingQuestionsProgress": "正在生成问题... ({{current}}/{{total}})",
+    "generatingSearchTermsProgress": "正在生成搜索词... ({{current}}/{{total}})",
+    "generatingResearchSummary": "正在生成研究摘要...",
+    "generatingSummaryUnavailable": "正在生成摘要（流式传输不可用）...",
+    "researchCompleted": "研究已成功完成",
+    "researchFailed": "研究失败",
+    "cancel": "取消"
+  },
+  "workflow": {
+    "querySubmitted": "查询已提交",
+    "questions": "问题",
+    "searchTerms": "搜索词",
+    "videos": "视频",
+    "transcripts": "转录",
+    "summary": "摘要",
+    "awaitingApproval": "等待您的批准"
+  },
+  "messages": {
+    "enterQuery": "请输入研究查询",
+    "queryTooShort": "查询必须至少{{min}}个字符"
+  },
+  "toasts": {
+    "researchStarted": "研究已成功开始",
+    "researchCompleted": "研究完成！",
+    "researchFailed": "研究失败。请重试。",
+    "copiedToClipboard": "已复制到剪贴板",
+    "savedToLibrary": "已保存到库",
+    "failedToCopy": "复制失败"
+  },
+  "share": {
+    "button": {
+      "share": "分享",
+      "copied": "已复制"
+    },
+    "success": {
+      "copied": "链接已复制到剪贴板！",
+      "message": "分享链接已准备好分享"
+    },
+    "info": {
+      "copyFailed": "复制失败"
+    },
+    "errors": {
+      "noResearchId": "需要研究ID",
+      "failed": "创建分享链接失败",
+      "noData": "未收到分享数据",
+      "unknown": "发生未知错误"
+    }
+  },
+  "approval": {
+    "regenerationsRemaining": "还剩{{count}}次重新生成",
+    "noRegenerationsLeft": "没有剩余重新生成次数",
+    "feedbackLabel": "反馈",
+    "characters": "字符",
+    "minLength": "至少需要{{min}}个字符",
+    "maxLength": "最多允许{{max}}个字符",
+    "noItemsAvailable": "没有可用项目",
+    "cancel": "取消",
+    "submitting": "提交中...",
+    "submitFeedback": "提交反馈",
+    "requestChanges": "请求更改",
+    "approving": "批准中...",
+    "approveContinue": "批准并继续",
+    "processing": "处理中...",
+    "approveError": "批准失败。请重试。",
+    "regenerateError": "重新生成失败。请重试。",
+    "errors": {
+      "noJobId": "未找到研究任务",
+      "approveFailed": "批准失败。请重试。",
+      "regenerateFailed": "重新生成失败。请重试。",
+      "invalidFeedbackLength": "反馈必须在{{min}}到{{max}}个字符之间",
+      "maxLength": "反馈不能超过{{max}}个字符",
+      "maxFeedbackExceeded": "此阶段已达到最大反馈尝试次数"
+    },
+    "questions": {
+      "title": "审查生成的问题",
+      "subtitle": "这些问题将指导AI研究过程",
+      "originalQuery": "原始研究查询",
+      "feedbackPlaceholder": "描述您希望如何调整问题（例如：'更多关注2026年的最新发展'）",
+      "approved": "问题已成功批准",
+      "regenerating": "正在重新生成问题...",
+      "streaming": "正在生成问题..."
+    },
+    "searchTerms": {
+      "title": "审查生成的搜索词",
+      "subtitle": "这些搜索词将用于查找相关视频",
+      "relatedQuestions": "相关研究问题",
+      "feedbackPlaceholder": "描述您希望如何调整搜索词（例如：'更多关注学术来源'）",
+      "approved": "搜索词已成功批准",
+      "regenerating": "正在重新生成搜索词...",
+      "streaming": "正在生成搜索词..."
+    },
+    "streaming": "生成中...",
+    "videos": {
+      "title": "审查选定的视频",
+      "subtitle": "AI已选择{{count}}个最能回答您研究问题的视频",
+      "researchQuestions": "研究问题",
+      "whySelected": "选择原因",
+      "fillsGap": "填补空白",
+      "viewOnYouTube": "在YouTube上观看",
+      "feedbackPlaceholder": "描述您希望如何调整视频选择（例如：'包含更多2026年的最新视频'）",
+      "approved": "视频已成功批准",
+      "regenerating": "正在重新筛选视频..."
+    }
+  },
+  "citations": {
+    "sources": "来源",
+    "watchVideo": "观看视频"
+  },
+  "result": {
+    "copy": "复制",
+    "copied": "已复制",
+    "researchSummary": "研究摘要",
+    "createdAt": "创建时间：{{date}}",
+    "waitingForContent": "等待内容...",
+    "selectedVideos": "选定的视频",
+    "classification": "分类",
+    "viewOnYouTube": "在 YouTube 上观看"
+  }
+}

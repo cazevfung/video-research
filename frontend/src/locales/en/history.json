@@ -1,0 +1,70 @@
+{
+  "title": "History",
+  "description": "View and manage your past summaries",
+  "search": {
+    "placeholder": "Search summaries...",
+    "label": "Search summaries",
+    "clear": "Clear search"
+  },
+  "sort": {
+    "label": "Sort",
+    "sortBy": "Sort by",
+    "dateNewest": "Created (Newest)",
+    "dateOldest": "Created (Oldest)",
+    "titleAZ": "Title (A-Z)",
+    "titleZA": "Title (Z-A)",
+    "videosMost": "Videos (Most)",
+    "videosLeast": "Videos (Least)"
+  },
+  "selection": {
+    "select": "Select",
+    "cancelSelection": "Cancel Selection",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "itemsSelected": "{{count}} {{count, plural, one {item} other {items}}} selected",
+    "clear": "Clear"
+  },
+  "actions": {
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "retry": "Retry",
+    "retrying": "Retrying...",
+    "refreshPage": "Refresh Page",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "pagination": {
+    "page": "Page {{current}} of {{total}}",
+    "total": "{{count}} total"
+  },
+  "empty": {
+    "noSummaries": "No summaries yet",
+    "noSummariesFound": "No summaries found",
+    "tryAdjusting": "Try adjusting your search query.",
+    "createFirst": "Create your first batch summary to see it here.",
+    "availableButFiltered": "{{count}} {{count, plural, one {summary} other {summaries}}} available, but none match your search."
+  },
+  "errors": {
+    "loadFailed": "Failed to load history",
+    "loadSummaryFailed": "Failed to load summary details",
+    "deleteFailed": "Failed to delete summary",
+    "deleteSuccess": "Summary deleted",
+    "bulkDeleteSuccess": "Deleted {{count}} {{count, plural, one {summary} other {summaries}}}",
+    "bulkDeleteFailed": "Failed to delete summaries",
+    "networkError": "Unable to connect to the server. Please check your internet connection and try again.",
+    "timeoutError": "The request took too long to complete. Please try again.",
+    "validationError": "Received invalid data from the server. Please try refreshing the page.",
+    "authError": "Authentication error. Please sign in again.",
+    "unexpectedError": "An unexpected error occurred. Please try again.",
+    "retryAttempt": "Retry attempt {{count}}",
+    "suggestions": "Suggestions:",
+    "errorCode": "Error Code: {{code}}",
+    "showTechnicalDetails": "Show technical details"
+  },
+  "deleteDialog": {
+    "title": "Delete Summaries",
+    "description": "Are you sure you want to delete {{count}} {{count, plural, one {summary} other {summaries}}}? This action cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Delete"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "retry": "Retry",
+    "newBatch": "New Batch",
+    "summarize": "Summarize",
+    "saveChanges": "Save Changes",
+    "goBack": "Go Back"
+  },
+  "labels": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "theme": "Theme",
+    "language": "Language"
+  },
+  "status": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "starting": "Starting...",
+    "processing": "Processing...",
+    "completed": "Completed",
+    "error": "Error",
+    "idle": "Idle"
+  },
+  "messages": {
+    "settingsSaved": "Settings saved successfully",
+    "summaryCompleted": "Summary completed!",
+    "pleaseProvideUrl": "Please provide at least one valid YouTube URL",
+    "configLoadFailed": "Failed to load configuration",
+    "validationRequired": "Please complete all required fields"
+  },
+  "tooltips": {
+    "pasteUrls": "Paste one or more YouTube URLs here, one per line. The system will validate each URL automatically.",
+    "selectPreset": "Select a prompt preset to customize how the summary is generated. You can also add custom instructions for specific requirements.",
+    "optional": "Optional"
+  },
+  "keyboardShortcuts": {
+    "title": "Keyboard Shortcuts",
+    "description": "Use these shortcuts to navigate faster",
+    "shortcuts": {
+      "submitForm": "Submit form",
+      "newBatch": "New batch"
+    },
+    "button": "Shortcuts"
+  },
+  "devMode": {
+    "title": "DEV MODE",
+    "storage": "Storage",
+    "auth": "Auth",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "userId": "User ID",
+    "files": "({{count}} {{count, plural, one {file} other {files}}})",
+    "noLocalFiles": "No local files found"
+  }
+}
+

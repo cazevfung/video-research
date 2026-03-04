@@ -1,0 +1,38 @@
+{
+  "title": "Turn hours of video into minutes of reading",
+  "subtitle": "Batch summarize multiple YouTube videos with AI. Get comprehensive insights in your preferred style and language.",
+  "form": {
+    "urlLabel": "YouTube URLs",
+    "urlPlaceholder": "Paste YouTube URLs here, one per line",
+    "promptPresets": "Prompt Presets",
+    "customPrompt": "Custom Prompt",
+    "customPromptPlaceholder": "Add specific instructions (e.g., 'Focus on code examples' or 'Emphasize key takeaways')...",
+    "customPromptHelper": "Optional: Add specific instructions for the summary",
+    "language": "Language",
+    "submitButton": "Summarize",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "Bullet Points",
+      "deep_dive": "Deep Dive",
+      "tutorial": "Tutorial",
+      "detailed": "Detailed"
+    }
+  },
+  "validation": {
+    "atLeastOneUrl": "Paste at least one YouTube URL to continue",
+    "selectPreset": "Please select a prompt preset to continue"
+  },
+  "buttons": {
+    "summarize": "Summarize",
+    "starting": "Starting...",
+    "processing": "Processing...",
+    "newBatch": "New Batch",
+    "retry": "Retry",
+    "cancel": "Cancel"
+  },
+  "errors": {
+    "configLoadFailed": "Failed to load configuration",
+    "jobStartFailed": "Failed to start job"
+  }
+}
+

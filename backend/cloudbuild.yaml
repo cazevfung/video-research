@@ -1,0 +1,9 @@
+steps:
+  # Build the Docker image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/video-research-40c4b/video-research:latest', '.']
+
+# Cloud Build will automatically push this image
+images:
+  - 'gcr.io/video-research-40c4b/video-research:latest'
+

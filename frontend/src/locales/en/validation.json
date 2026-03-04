@@ -1,0 +1,18 @@
+{
+  "email": {
+    "invalid": "Invalid email address",
+    "required": "Email is required"
+  },
+  "password": {
+    "minLength": "Password must be at least 8 characters",
+    "requiresLetter": "Password must contain at least one letter",
+    "requiresNumber": "Password must contain at least one number",
+    "required": "Password is required",
+    "dontMatch": "Passwords don't match"
+  },
+  "name": {
+    "minLength": "Name must be at least 2 characters",
+    "maxLength": "Name must be less than 50 characters",
+    "required": "Name is required"
+  }
+}

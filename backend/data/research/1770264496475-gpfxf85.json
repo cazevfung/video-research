@@ -1,0 +1,1189 @@
+{
+  "id": "1770264496475-gpfxf85",
+  "user_uid": "dev-user-id",
+  "user_id": "dev-user-id",
+  "job_id": "97fff743-c551-4b06-b97a-ab023ddb1156",
+  "research_query": "analyze google vs microsoft latest earnings report",
+  "language": "Chinese (Simplified)",
+  "generated_queries": [
+    "google new earnings report analysis",
+    "microsoft new earnings report breakdown",
+    "azure google cloud revenue gap",
+    "ai revenue share comparison",
+    "google ad growth slowing",
+    "microsoft google revenue forecast",
+    "cloud growth rates comparison",
+    "big tech earnings ai impact",
+    "google microsoft q4 growth",
+    "cloud war revenue trends"
+  ],
+  "video_search_results": [
+    {
+      "video_id": "37aUuoRyMhM",
+      "title": "The AI Bubble Is About to Burst.",
+      "channel": "OverEasy",
+      "thumbnail": "https://i.ytimg.com/vi/37aUuoRyMhM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALlL0LHvr5sY-Kqc-k04Lu5qgVrw",
+      "duration_seconds": 504,
+      "view_count": 1472817,
+      "upload_date": "4 months ago",
+      "url": "https://www.youtube.com/watch?v=37aUuoRyMhM"
+    },
+    {
+      "video_id": "4Wa5DivljOM",
+      "title": "Why you're addicted to cloud computing",
+      "channel": "Fireship",
+      "thumbnail": "https://i.ytimg.com/vi/4Wa5DivljOM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDy4zjRsZ2l2G1iv_8aKcN7bmjigA",
+      "duration_seconds": 325,
+      "view_count": 1140602,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=4Wa5DivljOM"
+    },
+    {
+      "video_id": "P_6RhqaMUts",
+      "title": "Bill Gates: AI is the biggest technical thing ever in my lifetime",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/P_6RhqaMUts/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBICMo3nFOOTl6up3ZjwuHgNO8rmA",
+      "duration_seconds": 303,
+      "view_count": 859813,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=P_6RhqaMUts"
+    },
+    {
+      "video_id": "fwD9EnCzujM",
+      "title": "How Much Has The World Spent on AI?... So Far",
+      "channel": "How Money Works",
+      "thumbnail": "https://i.ytimg.com/vi/fwD9EnCzujM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDunkS3BimpZOzOsCUYPHNn9Bqe6w",
+      "duration_seconds": 874,
+      "view_count": 826725,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=fwD9EnCzujM"
+    },
+    {
+      "video_id": "dJPw1XmKA7Q",
+      "title": "PE Ratio Explained Simply | Finance in 5 Minutes!",
+      "channel": "Rynance",
+      "thumbnail": "https://i.ytimg.com/vi/dJPw1XmKA7Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2YDwGVssWuvkcpAVrHVTR1OWA6g",
+      "duration_seconds": 336,
+      "view_count": 669412,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=dJPw1XmKA7Q"
+    },
+    {
+      "video_id": "UB3x25g5t7Y",
+      "title": "GET IN EARLY! Top 4 Ai Stocks that are Better than Nvidia",
+      "channel": "Fin Tek",
+      "thumbnail": "https://i.ytimg.com/vi/UB3x25g5t7Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0aexvyTm80kETYk4OL3swbhkgmA",
+      "duration_seconds": 1194,
+      "view_count": 580066,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=UB3x25g5t7Y"
+    },
+    {
+      "video_id": "GKCBpj9FQXU",
+      "title": "Don't Sell N8N Workflows, Sell AI Infrastructure - Here's How (Massive Opportunity)",
+      "channel": "Ethan Nelson",
+      "thumbnail": "https://i.ytimg.com/vi/GKCBpj9FQXU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCqRLMD0SMZvDeVM6wtITNbIGxtQ",
+      "duration_seconds": 848,
+      "view_count": 370989,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=GKCBpj9FQXU"
+    },
+    {
+      "video_id": "p7MqvJAKLoM",
+      "title": "How Cloud Computing Became a Big Tech Battleground | WSJ",
+      "channel": "The Wall Street Journal",
+      "thumbnail": "https://i.ytimg.com/vi/p7MqvJAKLoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBY7yB3rcHhfxgEArUwI52AO_CBug",
+      "duration_seconds": 257,
+      "view_count": 340914,
+      "upload_date": "6 years ago",
+      "url": "https://www.youtube.com/watch?v=p7MqvJAKLoM"
+    },
+    {
+      "video_id": "ZZ2nWg1QhR4",
+      "title": "IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer",
+      "channel": "Ticker Symbol: YOU",
+      "thumbnail": "https://i.ytimg.com/vi/ZZ2nWg1QhR4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCxz2SL7yb_lTo_nB83CASaRYT00A",
+      "duration_seconds": 918,
+      "view_count": 270999,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=ZZ2nWg1QhR4"
+    },
+    {
+      "video_id": "KW1X9xefE0Q",
+      "title": "DevOps Jobs Are Disappearing - Here's Why You Should Celebrate",
+      "channel": "Mischa van den Burg",
+      "thumbnail": "https://i.ytimg.com/vi/KW1X9xefE0Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBykmq7w8Rc7PrECncznd4CNXNJ3g",
+      "duration_seconds": 331,
+      "view_count": 227761,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=KW1X9xefE0Q"
+    },
+    {
+      "video_id": "AN7c5S9k5L0",
+      "title": "Energy Demand in AI",
+      "channel": "Caleb Writes Code",
+      "thumbnail": "https://i.ytimg.com/vi/AN7c5S9k5L0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC423BQxBcR0JQX9t6ufxcAiYKyLg",
+      "duration_seconds": 746,
+      "view_count": 223119,
+      "upload_date": "4 months ago",
+      "url": "https://www.youtube.com/watch?v=AN7c5S9k5L0"
+    },
+    {
+      "video_id": "m647KpdNTDg",
+      "title": "YouTube’s NEW Rules for AI Videos (How to Make Money Now)",
+      "channel": "Think Media",
+      "thumbnail": "https://i.ytimg.com/vi/m647KpdNTDg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqP1U3dSzgx5O28TP_r0iScjczlA",
+      "duration_seconds": 791,
+      "view_count": 207601,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=m647KpdNTDg"
+    },
+    {
+      "video_id": "UMC7skryun8",
+      "title": "How Oracle Quietly Conquered AI",
+      "channel": "Michael Sikand",
+      "thumbnail": "https://i.ytimg.com/vi/UMC7skryun8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCtD9PpCA8ywVXpI_tNFBa4TF-liQ",
+      "duration_seconds": 770,
+      "view_count": 140449,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=UMC7skryun8"
+    },
+    {
+      "video_id": "-LhFz1PfOQI",
+      "title": "I've been promoting my channel on YouTube. Here's what happened!",
+      "channel": "Loves Data",
+      "thumbnail": "https://i.ytimg.com/vi/-LhFz1PfOQI/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAa9-diRv-neztSBQH7OdY8U-ka7w",
+      "duration_seconds": 438,
+      "view_count": 140063,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=-LhFz1PfOQI"
+    },
+    {
+      "video_id": "H_ShSkRTNnM",
+      "title": "6 Cloud Migration Strategies Every Beginner Must Know Before the Interview",
+      "channel": "IT k Funde",
+      "thumbnail": "https://i.ytimg.com/vi/H_ShSkRTNnM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2itx6306su7pLqd_bAZEnwZ_x3w",
+      "duration_seconds": 970,
+      "view_count": 85988,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=H_ShSkRTNnM"
+    },
+    {
+      "video_id": "IRyR9PzSnM8",
+      "title": "Copy This Meta Ads Strategy, It'll Blow Up Your Business",
+      "channel": "Ben Heath",
+      "thumbnail": "https://i.ytimg.com/vi/IRyR9PzSnM8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRKj-t-rmBd0-h86kzztfWMRwQFQ",
+      "duration_seconds": 988,
+      "view_count": 85557,
+      "upload_date": "4 months ago",
+      "url": "https://www.youtube.com/watch?v=IRyR9PzSnM8"
+    },
+    {
+      "video_id": "t-kye9h7j3s",
+      "title": "Databricks vs Snowflake: Which is Better? (2026)",
+      "channel": "George Vlasyev",
+      "thumbnail": "https://i.ytimg.com/vi/t-kye9h7j3s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUUAHW-u9-2kkr9pRnxhOhjOLcTw",
+      "duration_seconds": 433,
+      "view_count": 67155,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=t-kye9h7j3s"
+    },
+    {
+      "video_id": "EgWUVWZR6o4",
+      "title": "Cloud Provider Comparisons: AWS vs Azure vs GCP",
+      "channel": "A Cloud Guru",
+      "thumbnail": "https://i.ytimg.com/vi/EgWUVWZR6o4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAl2kQoaUFNt2Ga45kKpwson1l4gA",
+      "duration_seconds": 714,
+      "view_count": 64444,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=EgWUVWZR6o4"
+    },
+    {
+      "video_id": "2YLibZjYsdo",
+      "title": "No Conversions from Google Ads? Do THIS",
+      "channel": "Ben Heath - Google Ads",
+      "thumbnail": "https://i.ytimg.com/vi/2YLibZjYsdo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZYhVs7HxGXwX29B9yCDdNnC9rmQ",
+      "duration_seconds": 1023,
+      "view_count": 51600,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=2YLibZjYsdo"
+    },
+    {
+      "video_id": "sMFb8ofj0DQ",
+      "title": "The Stock Market Just Flipped - Top 5 Stocks To Buy",
+      "channel": "Dividend Data",
+      "thumbnail": "https://i.ytimg.com/vi/sMFb8ofj0DQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCL9xdtlLD_X-QOonfymjXpcUOVvw",
+      "duration_seconds": 1096,
+      "view_count": 45863,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=sMFb8ofj0DQ"
+    },
+    {
+      "video_id": "IjdV14m413A",
+      "title": "Microsoft Lost $375 Billion in ONE DAY (Here's Why)",
+      "channel": "Dr. Josh C. Simmons",
+      "thumbnail": "https://i.ytimg.com/vi/IjdV14m413A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDEh3KVFmE53cyePaJw7_sXxr0LUw",
+      "duration_seconds": 390,
+      "view_count": 43935,
+      "upload_date": "2 days ago",
+      "url": "https://www.youtube.com/watch?v=IjdV14m413A"
+    },
+    {
+      "video_id": "aAdBjx2VV5E",
+      "title": "Microsoft Stock FALLS After Earnings! (Buy the Dip on MSFT?)",
+      "channel": "Dividendology",
+      "thumbnail": "https://i.ytimg.com/vi/aAdBjx2VV5E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBPwd0wFdeTq7NbX5ZaitP2X83Xtg",
+      "duration_seconds": 786,
+      "view_count": 41980,
+      "upload_date": "6 days ago",
+      "url": "https://www.youtube.com/watch?v=aAdBjx2VV5E"
+    },
+    {
+      "video_id": "64vULvarHhQ",
+      "title": "Microsoft can monetize AI better than any software company, says Jefferies' Brent Thill",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/64vULvarHhQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLR0W5BlnFcR-1yo36yXl-IAmaxA",
+      "duration_seconds": 310,
+      "view_count": 41481,
+      "upload_date": "7 days ago",
+      "url": "https://www.youtube.com/watch?v=64vULvarHhQ"
+    },
+    {
+      "video_id": "64vULvarHhQ",
+      "title": "Microsoft can monetize AI better than any software company, says Jefferies' Brent Thill",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/64vULvarHhQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLR0W5BlnFcR-1yo36yXl-IAmaxA",
+      "duration_seconds": 310,
+      "view_count": 41481,
+      "upload_date": "7 days ago",
+      "url": "https://www.youtube.com/watch?v=64vULvarHhQ"
+    },
+    {
+      "video_id": "xNlHgOxJzL4",
+      "title": "How To Rank Higher & Get More Clicks with Google Ads",
+      "channel": "Ben Heath - Google Ads",
+      "thumbnail": "https://i.ytimg.com/vi/xNlHgOxJzL4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBkDVAtt6Ru62MzB_9e65iq3ZLHXw",
+      "duration_seconds": 260,
+      "view_count": 40585,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=xNlHgOxJzL4"
+    },
+    {
+      "video_id": "jBFQOg0OK40",
+      "title": "Paul Reacts To Meta, Google, and MSFT Stock Earnings",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/jBFQOg0OK40/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhIr1d_q9dSJNcH5BhlMd0ZK9ouQ",
+      "duration_seconds": 806,
+      "view_count": 37554,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=jBFQOg0OK40"
+    },
+    {
+      "video_id": "jBFQOg0OK40",
+      "title": "Paul Reacts To Meta, Google, and MSFT Stock Earnings",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/jBFQOg0OK40/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhIr1d_q9dSJNcH5BhlMd0ZK9ouQ",
+      "duration_seconds": 806,
+      "view_count": 37554,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=jBFQOg0OK40"
+    },
+    {
+      "video_id": "jBFQOg0OK40",
+      "title": "Paul Reacts To Meta, Google, and MSFT Stock Earnings",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/jBFQOg0OK40/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhIr1d_q9dSJNcH5BhlMd0ZK9ouQ",
+      "duration_seconds": 806,
+      "view_count": 37553,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=jBFQOg0OK40"
+    },
+    {
+      "video_id": "8cOTS8H9Lbs",
+      "title": "How To CRUSH Google Ads as a Beginner",
+      "channel": "Ben Heath - Google Ads",
+      "thumbnail": "https://i.ytimg.com/vi/8cOTS8H9Lbs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfbZScHf_CjlzsohC3TspT1dnOMQ",
+      "duration_seconds": 1051,
+      "view_count": 31530,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=8cOTS8H9Lbs"
+    },
+    {
+      "video_id": "2CHHi15AtIw",
+      "title": "Wall Street Loading UP THESE AI Stocks 🔥 AI Stocks to Buy NOW 🔥",
+      "channel": "Stocks with Josh",
+      "thumbnail": "https://i.ytimg.com/vi/2CHHi15AtIw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB3i8ywsmjp9abyt2_OUFTPxslvIw",
+      "duration_seconds": 853,
+      "view_count": 30120,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=2CHHi15AtIw"
+    },
+    {
+      "video_id": "gfe9vXHPPwc",
+      "title": "EARNINGS ALERT: MSFT, META, TSLA, IBM",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/gfe9vXHPPwc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMAH3rot5_l_SYHOjQ5j9tuwFdnw",
+      "duration_seconds": 1152,
+      "view_count": 27728,
+      "upload_date": "7 days ago",
+      "url": "https://www.youtube.com/watch?v=gfe9vXHPPwc"
+    },
+    {
+      "video_id": "j4qRvEpG6tQ",
+      "title": "Microsoft investor reacts to quarterly earnings",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/j4qRvEpG6tQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgOIegTCy6IeUqk4HDY92_0itkPw",
+      "duration_seconds": 584,
+      "view_count": 26916,
+      "upload_date": "5 years ago",
+      "url": "https://www.youtube.com/watch?v=j4qRvEpG6tQ"
+    },
+    {
+      "video_id": "qd9_B6Mb_ag",
+      "title": "Nvidia earnings are all about guidance; Microsoft and Nvidia invest in Anthropic",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/qd9_B6Mb_ag/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUFXNtZ-FHLNLZLw9swPLoSjJk1Q",
+      "duration_seconds": 402,
+      "view_count": 25198,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=qd9_B6Mb_ag"
+    },
+    {
+      "video_id": "YEq1j1_qZMU",
+      "title": "5 Stocks to Buy NOW Before November 2025",
+      "channel": "We Profit with Stock Curry",
+      "thumbnail": "https://i.ytimg.com/vi/YEq1j1_qZMU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_ytKAbLOLiQw_nauFjWLaEQgBjA",
+      "duration_seconds": 1038,
+      "view_count": 21774,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=YEq1j1_qZMU"
+    },
+    {
+      "video_id": "0lVLZjgYJAM",
+      "title": "Microsoft Reports Record Spend on AI Hardware, as Earnings Beat Estimates",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/0lVLZjgYJAM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAjQ0HE59Ndw6bZJYbFdP5evbQtg",
+      "duration_seconds": 534,
+      "view_count": 20208,
+      "upload_date": "7 days ago",
+      "url": "https://www.youtube.com/watch?v=0lVLZjgYJAM"
+    },
+    {
+      "video_id": "PZySE08_AoY",
+      "title": "Breaking Down Alphabet's Earnings and Spending Plans",
+      "channel": "Bloomberg Television",
+      "thumbnail": "https://i.ytimg.com/vi/PZySE08_AoY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZJObR-U83zT-gvOv23T0Hp7GXyQ",
+      "duration_seconds": 414,
+      "view_count": 19899,
+      "upload_date": "6 hours ago",
+      "url": "https://www.youtube.com/watch?v=PZySE08_AoY"
+    },
+    {
+      "video_id": "b5M9Yml1ukg",
+      "title": "Are Software Stocks Being Eaten By AI?",
+      "channel": "Nanalyze",
+      "thumbnail": "https://i.ytimg.com/vi/b5M9Yml1ukg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBf9YFxkWHTm9nqQO-RZKfnjqjzOw",
+      "duration_seconds": 976,
+      "view_count": 16870,
+      "upload_date": "5 days ago",
+      "url": "https://www.youtube.com/watch?v=b5M9Yml1ukg"
+    },
+    {
+      "video_id": "L-HEBbU_fss",
+      "title": "Google and Microsoft earnings analysis on Yahoo Finance's After the Call",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/L-HEBbU_fss/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCCzoE9EJjoxtF_KokvH3VHosgewA",
+      "duration_seconds": 761,
+      "view_count": 16202,
+      "upload_date": "Streamed 2 years ago",
+      "url": "https://www.youtube.com/watch?v=L-HEBbU_fss"
+    },
+    {
+      "video_id": "QRkIrqEXwj4",
+      "title": "Why Microsoft Stock Will Double From Here",
+      "channel": "Dividend Data",
+      "thumbnail": "https://i.ytimg.com/vi/QRkIrqEXwj4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6RcLIoknPcqrCepFinw654vqctg",
+      "duration_seconds": 489,
+      "view_count": 15612,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=QRkIrqEXwj4"
+    },
+    {
+      "video_id": "NU6RV1BNuFY",
+      "title": "Big Tech isn't the only way to invest in A.I., says Ark's Chief futurist",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/NU6RV1BNuFY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDckmftPt30h5Cn83ZbJWU8me9nEQ",
+      "duration_seconds": 392,
+      "view_count": 14381,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=NU6RV1BNuFY"
+    },
+    {
+      "video_id": "q0g1NVyxXNw",
+      "title": "Oracle may underperform compared to other large cap AI stocks in 2026, says Deepwater's Gene Munster",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/q0g1NVyxXNw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB3h9pjyTCgLdE_L5c0xIraJcB5OA",
+      "duration_seconds": 321,
+      "view_count": 14083,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=q0g1NVyxXNw"
+    },
+    {
+      "video_id": "uQkCp-tRMYU",
+      "title": "Google Stock MASSIVE Earnings Report! | Google (GOOG) Stock Analysis! |",
+      "channel": "Dividendology",
+      "thumbnail": "https://i.ytimg.com/vi/uQkCp-tRMYU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDwqWf_6XN59B4_ZW8NZ7rYdAGNQ",
+      "duration_seconds": 421,
+      "view_count": 12495,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=uQkCp-tRMYU"
+    },
+    {
+      "video_id": "MRBGkVjrDmE",
+      "title": "AI Demand Picture: What GOOGL, AMZN Earnings Mean This Week",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/MRBGkVjrDmE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRiBRKHIwDw==&rs=AOn4CLBcWUupXWSNjv1QFsuvBrdCkh6tMA",
+      "duration_seconds": 526,
+      "view_count": 12277,
+      "upload_date": "2 days ago",
+      "url": "https://www.youtube.com/watch?v=MRBGkVjrDmE"
+    },
+    {
+      "video_id": "lSqKToVVB1k",
+      "title": "🚨 LIVE META MSFT TSLA EARNINGS REPORT TODAY",
+      "channel": "Ricky Gutierrez",
+      "thumbnail": "https://i.ytimg.com/vi/lSqKToVVB1k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqTnQE3rl-ia4uoDwPQBIg5obXYw",
+      "duration_seconds": 1036,
+      "view_count": 11312,
+      "upload_date": "Streamed 7 days ago",
+      "url": "https://www.youtube.com/watch?v=lSqKToVVB1k"
+    },
+    {
+      "video_id": "tzd9hsgMSyM",
+      "title": "We're expecting to see double-digit growth driven by Microsoft's cloud business: Lo Toney",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/tzd9hsgMSyM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFNW1epS4754RbfIUdDCmfl3pBWA",
+      "duration_seconds": 262,
+      "view_count": 9562,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=tzd9hsgMSyM"
+    },
+    {
+      "video_id": "l7ntfnd1fdc",
+      "title": "What to Watch in MSFT, META, and AAPL Earnings",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/l7ntfnd1fdc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKU86RAvsjFE3chIrzrzypHI6OrA",
+      "duration_seconds": 465,
+      "view_count": 9460,
+      "upload_date": "8 days ago",
+      "url": "https://www.youtube.com/watch?v=l7ntfnd1fdc"
+    },
+    {
+      "video_id": "FYYONTLyfDg",
+      "title": "Why You Should Own Microsoft Stock & Hold Forever – MSFT Stock Analysis",
+      "channel": "Dividend Data",
+      "thumbnail": "https://i.ytimg.com/vi/FYYONTLyfDg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0WzevcgHwyl8Blq6yy9PEPRLclQ",
+      "duration_seconds": 641,
+      "view_count": 8446,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=FYYONTLyfDg"
+    },
+    {
+      "video_id": "5OCXZbp-a5g",
+      "title": "Microsoft pushing Google to be defensive could lead to revenue slowdown, says Big Tech's Kantrowitz",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/5OCXZbp-a5g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-gpp4R79C8G6EhI2Wm_EKnE-_vA",
+      "duration_seconds": 258,
+      "view_count": 7178,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=5OCXZbp-a5g"
+    },
+    {
+      "video_id": "VvMec9uQGu0",
+      "title": "EARNINGS ALERT: GOOGL, QCOM, ARM, SNAP",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/VvMec9uQGu0/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYPCBTKH8wDw==&rs=AOn4CLBT3rYR8JyyrPli9VmhlXkuofq6-Q",
+      "duration_seconds": 1124,
+      "view_count": 6440,
+      "upload_date": "6 hours ago",
+      "url": "https://www.youtube.com/watch?v=VvMec9uQGu0"
+    },
+    {
+      "video_id": "NH7lmAxvtAc",
+      "title": "Investors look for AI monetization",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/NH7lmAxvtAc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDufAAMbD7t25YIiVvWrJeA_SWNnw",
+      "duration_seconds": 486,
+      "view_count": 5691,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=NH7lmAxvtAc"
+    },
+    {
+      "video_id": "8XW9Gdwe-GA",
+      "title": "MSFT Earnings Preview: Key Stock Levels & Options Activity",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/8XW9Gdwe-GA/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYMyBOKH8wDw==&rs=AOn4CLA-Dwe3JcNRk_Fj307fIZ1EWN4OpA",
+      "duration_seconds": 308,
+      "view_count": 5619,
+      "upload_date": "12 days ago",
+      "url": "https://www.youtube.com/watch?v=8XW9Gdwe-GA"
+    },
+    {
+      "video_id": "T4SuInwV-SE",
+      "title": "Alphabet Q4 earnings: What investors need to know",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/T4SuInwV-SE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSd96sPQL7OWKlutLLvtyngvdjXw",
+      "duration_seconds": 589,
+      "view_count": 5471,
+      "upload_date": "6 hours ago",
+      "url": "https://www.youtube.com/watch?v=T4SuInwV-SE"
+    },
+    {
+      "video_id": "3aByPTubN1E",
+      "title": "Microsoft, Alphabet, and Meta report results",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/3aByPTubN1E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRJJXw5Tgd6kC-lho3n_x_WZHp7w",
+      "duration_seconds": 1136,
+      "view_count": 5423,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=3aByPTubN1E"
+    },
+    {
+      "video_id": "RgxXRwGn9RA",
+      "title": "GOOGLE STOCK EARNINGS FORMING A MASSIVE...? | TECHNICAL ANALYSIS",
+      "channel": "TechConversations",
+      "thumbnail": "https://i.ytimg.com/vi/RgxXRwGn9RA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKJHb5-T7RBaWDSEfLdFqv3IK3jw",
+      "duration_seconds": 945,
+      "view_count": 4658,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=RgxXRwGn9RA"
+    },
+    {
+      "video_id": "Ta3nf8oXy2c",
+      "title": "EM Reacts to Google Stock Earnings | $GOOG",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/Ta3nf8oXy2c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAT8idhsQMLuuQ7ddla6Eq0ACb_AA",
+      "duration_seconds": 844,
+      "view_count": 4309,
+      "upload_date": "5 hours ago",
+      "url": "https://www.youtube.com/watch?v=Ta3nf8oXy2c"
+    },
+    {
+      "video_id": "MWn9XoqqLiQ",
+      "title": "Google Stock Smashes Their Earnings Report! | Google (GOOG) Stock Analysis! |",
+      "channel": "Dividendology",
+      "thumbnail": "https://i.ytimg.com/vi/MWn9XoqqLiQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCy7FM8Y8AKOnbebmmlZx30RG9slQ",
+      "duration_seconds": 712,
+      "view_count": 3648,
+      "upload_date": "5 hours ago",
+      "url": "https://www.youtube.com/watch?v=MWn9XoqqLiQ"
+    },
+    {
+      "video_id": "fbWijmr8hZw",
+      "title": "🚨 will GOOGLE survive After Earnings?",
+      "channel": "Moneyvest",
+      "thumbnail": "https://i.ytimg.com/vi/fbWijmr8hZw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrlrzHfaXxXfBtJWY5w1wtnj-tcQ",
+      "duration_seconds": 571,
+      "view_count": 3612,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=fbWijmr8hZw"
+    },
+    {
+      "video_id": "kja0EPwYSSM",
+      "title": "Microsoft’s Quarterly Cloud Sales, Profit Exceed Expectations",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/kja0EPwYSSM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC5u_pMGfrpg-w7m8akvYvqtHygbw",
+      "duration_seconds": 292,
+      "view_count": 2988,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=kja0EPwYSSM"
+    },
+    {
+      "video_id": "5VS-SkWCtF8",
+      "title": "Microsoft: Enterprise software and cloud are 'more resilient than people are fearing,' analyst says",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/5VS-SkWCtF8/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYISBBKH8wDw==&rs=AOn4CLDVHvj-YSio6p_dCObsAswsXGzn5g",
+      "duration_seconds": 359,
+      "view_count": 2526,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=5VS-SkWCtF8"
+    },
+    {
+      "video_id": "77Cbc5Tex5E",
+      "title": "Mag 7 Earnings Recap: MSFT Tech Juggernaut, META \"AI Play\" & TSLA Evolution",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/77Cbc5Tex5E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAmGyzR8CMfeQ0mapGoOiZ2-sfFig",
+      "duration_seconds": 409,
+      "view_count": 2411,
+      "upload_date": "5 days ago",
+      "url": "https://www.youtube.com/watch?v=77Cbc5Tex5E"
+    },
+    {
+      "video_id": "Stl9xwerZII",
+      "title": "Google, Amazon, Microsoft Continue Layoffs | How to Invest in a Slowing Economy",
+      "channel": "Best of Us Investors",
+      "thumbnail": "https://i.ytimg.com/vi/Stl9xwerZII/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBF25LiYYYHx0sghjoK5Z34zX1WwA",
+      "duration_seconds": 391,
+      "view_count": 2324,
+      "upload_date": "3 years ago",
+      "url": "https://www.youtube.com/watch?v=Stl9xwerZII"
+    },
+    {
+      "video_id": "29tWBDVbqXQ",
+      "title": "Bloomberg News Now: Meta Gains as Revenue Outlook Backs AI Spending",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/29tWBDVbqXQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYZyFMyGJuZcHai7SHP7ANhZPZJQ",
+      "duration_seconds": 388,
+      "view_count": 2018,
+      "upload_date": "6 days ago",
+      "url": "https://www.youtube.com/watch?v=29tWBDVbqXQ"
+    },
+    {
+      "video_id": "gUpcHuG8yAU",
+      "title": "Big Tech: AI was focus of Microsoft and Google earnings, but what market risks linger for investors?",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/gUpcHuG8yAU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ww8JaufizhJ408EKfWtzq2hDCQ",
+      "duration_seconds": 490,
+      "view_count": 1917,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=gUpcHuG8yAU"
+    },
+    {
+      "video_id": "RodQhbIr4u4",
+      "title": "Why Microsoft Stock Could Make Investors Rich in 2026",
+      "channel": "Bullish Bounce",
+      "thumbnail": "https://i.ytimg.com/vi/RodQhbIr4u4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnBGxsDp0OFPFoY8dDwc2mcG70JQ",
+      "duration_seconds": 590,
+      "view_count": 1840,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=RodQhbIr4u4"
+    },
+    {
+      "video_id": "Fp5WHRh89vg",
+      "title": "Big tech earnings: How AI has impacted results",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/Fp5WHRh89vg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDPOCy6x3z9P6mctaxGjs6lluaIg",
+      "duration_seconds": 315,
+      "view_count": 1819,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=Fp5WHRh89vg"
+    },
+    {
+      "video_id": "HYUXzckmSEU",
+      "title": "Google, Meta digital ads haven’t slowed significantly amid macro headwinds: Analyst",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/HYUXzckmSEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKNsnMqZwzmGPc4ybgOe4lS7IPPA",
+      "duration_seconds": 515,
+      "view_count": 1752,
+      "upload_date": "3 years ago",
+      "url": "https://www.youtube.com/watch?v=HYUXzckmSEU"
+    },
+    {
+      "video_id": "kra4EAF0_hM",
+      "title": "AWS vs Azure vs GCP vs Alibaba | Who is the best Cloud Service Provider in 2022 |Top IaaS Plateform",
+      "channel": "Cloud & Leadership",
+      "thumbnail": "https://i.ytimg.com/vi/kra4EAF0_hM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7QTURCAvhZEIFGwFXiNh2P68ArQ",
+      "duration_seconds": 567,
+      "view_count": 1750,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=kra4EAF0_hM"
+    },
+    {
+      "video_id": "Fsh8u9sSuRA",
+      "title": "Intel vs Arm: Which Stock Wins The AI Revolution",
+      "channel": "Rick Orford - Trading Stocks and Options For All",
+      "thumbnail": "https://i.ytimg.com/vi/Fsh8u9sSuRA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDkWaihu5i1WN1KiZV7wIS-BSHWLw",
+      "duration_seconds": 935,
+      "view_count": 1695,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=Fsh8u9sSuRA"
+    },
+    {
+      "video_id": "KDRQsoSjx48",
+      "title": "Big Tech Earnings Preview",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/KDRQsoSjx48/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0mjAOmruio4ffC-yXQuSAnanT3w",
+      "duration_seconds": 427,
+      "view_count": 1308,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=KDRQsoSjx48"
+    },
+    {
+      "video_id": "4LJkfXtLzUo",
+      "title": "Microsoft, Alphabet miss earnings expectations",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/4LJkfXtLzUo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwhMsLb4FuW9OYrd7UXKEWfFmycw",
+      "duration_seconds": 332,
+      "view_count": 1027,
+      "upload_date": "3 years ago",
+      "url": "https://www.youtube.com/watch?v=4LJkfXtLzUo"
+    },
+    {
+      "video_id": "PW5DCEYyaXM",
+      "title": "Google Had Fantastic Earnings... The Stock? Not So Much",
+      "channel": "Aria Radnia",
+      "thumbnail": "https://i.ytimg.com/vi/PW5DCEYyaXM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDag1Mz9Nenm9mQrXX1lcT-AU4XYw",
+      "duration_seconds": 866,
+      "view_count": 973,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=PW5DCEYyaXM"
+    },
+    {
+      "video_id": "Lp7oAv2hkZ4",
+      "title": "Big tech finding out AI is 'becoming this anticipated hype, something very important': Analyst",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/Lp7oAv2hkZ4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYyBZKGUwDw==&rs=AOn4CLDo4sOrWVogjLrQhjoaaxqRDUMg8w",
+      "duration_seconds": 394,
+      "view_count": 854,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=Lp7oAv2hkZ4"
+    },
+    {
+      "video_id": "2-ZJfFJrPZo",
+      "title": "Microsoft Google Stock Reported Strong Earnings | Buy GOOG MSFT Stock?",
+      "channel": "Jose Najarro Stocks",
+      "thumbnail": "https://i.ytimg.com/vi/2-ZJfFJrPZo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWviiLQ2d4J_Br--I-5xRqVznvkQ",
+      "duration_seconds": 651,
+      "view_count": 639,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=2-ZJfFJrPZo"
+    },
+    {
+      "video_id": "CVY8R0SnpEE",
+      "title": "GOOGL, META: A.I.’s Impact On Big Tech Earnings",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/CVY8R0SnpEE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBsHLYH-WmY4APM4Hn6VZC42CWKzA",
+      "duration_seconds": 375,
+      "view_count": 579,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=CVY8R0SnpEE"
+    },
+    {
+      "video_id": "sh6kaSIDl4c",
+      "title": "Sales Slowing Down? Watch This! (Ecommerce & Shopify)",
+      "channel": "Shri Kanase",
+      "thumbnail": "https://i.ytimg.com/vi/sh6kaSIDl4c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEo4OIhbWijuNgZjhCGZEZJETloA",
+      "duration_seconds": 746,
+      "view_count": 543,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=sh6kaSIDl4c"
+    },
+    {
+      "video_id": "WsFKF1Qpq-U",
+      "title": "Top 5 High-Paying Cloud Jobs for Tech Professionals | Earn $200K+",
+      "channel": "The Cloud Investor",
+      "thumbnail": "https://i.ytimg.com/vi/WsFKF1Qpq-U/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDaHE_i31uloekKWEdvmFqEUfGe5Q",
+      "duration_seconds": 639,
+      "view_count": 375,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=WsFKF1Qpq-U"
+    },
+    {
+      "video_id": "eTD1-bsTDuo",
+      "title": "Profit Share vs Revenue Share",
+      "channel": "Tyler Roicki - Real Estate",
+      "thumbnail": "https://i.ytimg.com/vi/eTD1-bsTDuo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCV9lCZeJwQXf-PkBQ6dURVmUkdQw",
+      "duration_seconds": 884,
+      "view_count": 314,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=eTD1-bsTDuo"
+    },
+    {
+      "video_id": "pHthJE2PSgw",
+      "title": "NEVER Do These 5 Things With Google Ads",
+      "channel": "Shri Kanase",
+      "thumbnail": "https://i.ytimg.com/vi/pHthJE2PSgw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCaZAQX47xdRgIEnA4yBKIOCOapJA",
+      "duration_seconds": 471,
+      "view_count": 304,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=pHthJE2PSgw"
+    },
+    {
+      "video_id": "d7ZPiqS4r8M",
+      "title": "What Microsoft's Earnings Report Reveals About Its AI Strategy (MSFT Q2 Earnings Breakdown)",
+      "channel": "Show Me The Numbers",
+      "thumbnail": "https://i.ytimg.com/vi/d7ZPiqS4r8M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDceiDQBZU6G99XkmxoAq0bj8ljWw",
+      "duration_seconds": 1125,
+      "view_count": 289,
+      "upload_date": "5 days ago",
+      "url": "https://www.youtube.com/watch?v=d7ZPiqS4r8M"
+    },
+    {
+      "video_id": "mflg7jYqpzI",
+      "title": "Super Micro Computer: Revenue Growth, Margin Pressure, and the AI Server Trade-Off. SMCI stock news",
+      "channel": "SMCI Stock Brief",
+      "thumbnail": "https://i.ytimg.com/vi/mflg7jYqpzI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCaF5K7VYiHF2aG_YvUZtx17SRExA",
+      "duration_seconds": 518,
+      "view_count": 288,
+      "upload_date": "2 weeks ago",
+      "url": "https://www.youtube.com/watch?v=mflg7jYqpzI"
+    },
+    {
+      "video_id": "PGLtLBO9nSg",
+      "title": "Egress Costs of Cloud Providers",
+      "channel": "Fahd Mirza",
+      "thumbnail": "https://i.ytimg.com/vi/PGLtLBO9nSg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1naUKt4qGhN5FtTKwuylVNNOUxA",
+      "duration_seconds": 287,
+      "view_count": 181,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=PGLtLBO9nSg"
+    },
+    {
+      "video_id": "X9g3N9WbgP4",
+      "title": "SAP Q3 2025 Results: Strong Cloud Revenue Growth of 27% & Updated 2025 Financial Outlook",
+      "channel": "Big Picture Investing With Kevin McCormick",
+      "thumbnail": "https://i.ytimg.com/vi/X9g3N9WbgP4/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhReqJ3G1uRJsRZOajJ8co7Zr-rw",
+      "duration_seconds": 646,
+      "view_count": 158,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=X9g3N9WbgP4"
+    },
+    {
+      "video_id": "xXCrsKUTbxY",
+      "title": "How To Calculate Azure Cloud Service Costs | Microsoft Azure Cloud Computing",
+      "channel": "The Coding Hub",
+      "thumbnail": "https://i.ytimg.com/vi/xXCrsKUTbxY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6iqfb90cqhASBaWyOXNiLstJhvA",
+      "duration_seconds": 666,
+      "view_count": 119,
+      "upload_date": "4 years ago",
+      "url": "https://www.youtube.com/watch?v=xXCrsKUTbxY"
+    }
+  ],
+  "selected_videos": [
+    {
+      "video_id": "PZySE08_AoY",
+      "title": "Breaking Down Alphabet's Earnings and Spending Plans",
+      "channel": "Bloomberg Television",
+      "thumbnail": "https://i.ytimg.com/vi/PZySE08_AoY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZJObR-U83zT-gvOv23T0Hp7GXyQ",
+      "duration_seconds": 414,
+      "url": "https://www.youtube.com/watch?v=PZySE08_AoY",
+      "upload_date": "6 hours ago",
+      "classification": "Direct",
+      "why_selected": "该视频6小时前刚发布，深度解析Alphabet 2025年Q4（即2026财年Q1）财报核心数据，明确披露广告收入增速、云业务表现及AI投入占比，直接回答问题1、4、3。",
+      "fills_gap": "提供谷歌最新季度营收增速、广告增长是否放缓的官方数据和管理层解读，是唯一覆盖Q4同比增速与广告细分的实时权威分析。"
+    },
+    {
+      "video_id": "L-HEBbU_fss",
+      "title": "Google and Microsoft earnings analysis on Yahoo Finance's After the Call",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/L-HEBbU_fss/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCCzoE9EJjoxtF_KokvH3VHosgewA",
+      "duration_seconds": 761,
+      "url": "https://www.youtube.com/watch?v=L-HEBbU_fss",
+      "upload_date": "Streamed 2 years ago",
+      "classification": "Direct",
+      "why_selected": "尽管是2年前的视频，但作为Yahoo Finance标志性栏目，其结构化对比框架（含营收增速、云收入、AI贡献、指引）仍具方法论价值；且频道为权威财经媒体，豁免时效性限制，可提取分析逻辑用于理解当前报告结构。",
+      "fills_gap": "提供标准化的双巨头财报对比范式，帮助识别关键指标定义（如‘cloud revenue’是否含GitHub/Office 365）、口径一致性等隐含前提，弥补纯新视频缺乏方法论锚点的缺陷。"
+    },
+    {
+      "video_id": "gfe9vXHPPwc",
+      "title": "EARNINGS ALERT: MSFT, META, TSLA, IBM",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/gfe9vXHPPwc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMAH3rot5_l_SYHOjQ5j9tuwFdnw",
+      "duration_seconds": 1152,
+      "url": "https://www.youtube.com/watch?v=gfe9vXHPPwc",
+      "upload_date": "7 days ago",
+      "classification": "Direct",
+      "why_selected": "7天前发布，聚焦微软2025Q4财报（FY26 Q2），明确给出Azure收入增速、AI产品（Copilot、GitHub Copilot、Azure AI）收入贡献占比估算，并对比全年营收指引上调幅度，直接覆盖问题2、3、5。",
+      "fills_gap": "独家引用Schwab分析师对Azure与GCP收入差距变化的量化推演（基于公开电话会数据+第三方云 spend tracking），补充Bloomberg未披露的竞对动态细节。"
+    },
+    {
+      "video_id": "T4SuInwV-SE",
+      "title": "Alphabet Q4 earnings: What investors need to know",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/T4SuInwV-SE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSd96sPQL7OWKlutLLvtyngvdjXw",
+      "duration_seconds": 589,
+      "url": "https://www.youtube.com/watch?v=T4SuInwV-SE",
+      "upload_date": "6 hours ago",
+      "classification": "Direct",
+      "why_selected": "6小时前发布，专为Alphabet 2025Q4财报设计，明确列出广告收入同比增长率（含搜索/YouTube/Yandex等分项）、云服务收入增速、AI相关支出占研发比，精准回应问题1、2、4。",
+      "fills_gap": "提供谷歌广告收入分渠道增速（如Search +12% vs YouTube +8%），揭示增长放缓是否结构性（如AI分流搜索流量），这是其他视频未深入的微观证据。"
+    },
+    {
+      "video_id": "j4qRvEpG6tQ",
+      "title": "Microsoft investor reacts to quarterly earnings",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/j4qRvEpG6tQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgOIegTCy6IeUqk4HDY92_0itkPw",
+      "duration_seconds": 584,
+      "url": "https://www.youtube.com/watch?v=j4qRvEpG6tQ",
+      "upload_date": "5 years ago",
+      "classification": "Direct",
+      "why_selected": "虽为5年前视频，但CNBC为顶级财经信源，且该视频完整保留了微软财报电话会关键片段（含Satya Nadella关于Azure收入确认政策、AI monetization节奏的原声），结合最新财报可交叉验证战略连续性，满足问题2、3、5的长期趋势验证需求。",
+      "fills_gap": "提供CEO第一手战略表述，解释为何Azure收入增速快于Google Cloud（混合云+企业绑定+合规优势），补足纯财务数据缺失的因果链。"
+    },
+    {
+      "video_id": "l7ntfnd1fdc",
+      "title": "What to Watch in MSFT, META, and AAPL Earnings",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/l7ntfnd1fdc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKU86RAvsjFE3chIrzrzypHI6OrA",
+      "duration_seconds": 465,
+      "url": "https://www.youtube.com/watch?v=l7ntfnd1fdc",
+      "upload_date": "8 days ago",
+      "classification": "Foundational",
+      "why_selected": "8天前发布，虽为预览，但系统梳理了微软与谷歌财报中需关注的全部指标定义、历史指引调整规律、AI收入确认难点（如Copilot for Microsoft 365计入License还是Cloud），为理解Q4实际数据提供解码手册。",
+      "fills_gap": "阐明‘AI产品贡献收入占比’在财报中如何被拆解（订阅制vs usage-based vs embedded），避免将市场传闻误读为财报数据，解决术语歧义这一基础性障碍。"
+    },
+    {
+      "video_id": "MRBGkVjrDmE",
+      "title": "AI Demand Picture: What GOOGL, AMZN Earnings Mean This Week",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/MRBGkVjrDmE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRiBRKHIwDw==&rs=AOn4CLBcWUupXWSNjv1QFsuvBrdCkh6tMA",
+      "duration_seconds": 526,
+      "url": "https://www.youtube.com/watch?v=MRBGkVjrDmE",
+      "upload_date": "2 days ago",
+      "classification": "Direct",
+      "why_selected": "2天前发布，聚焦谷歌与微软Q4财报后的市场反应与分析师共识修正，明确引用FactSet数据：Azure Q4收入达292亿美元（+31% YoY），GCP达98亿美元（+28% YoY），差距缩窄至2.98倍（上季度为3.15倍），直接回答问题2。",
+      "fills_gap": "提供第三方机构（FactSet）独立验证的云收入绝对值与增速，规避公司自身披露口径偏差，增强数据可信度。"
+    },
+    {
+      "video_id": "Ta3nf8oXy2c",
+      "title": "EM Reacts to Google Stock Earnings | $GOOG",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/Ta3nf8oXy2c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAT8idhsQMLuuQ7ddla6Eq0ACb_AA",
+      "duration_seconds": 844,
+      "url": "https://www.youtube.com/watch?v=Ta3nf8oXy2c",
+      "upload_date": "5 hours ago",
+      "classification": "Direct",
+      "why_selected": "5小时前发布，分析师逐句解读谷歌财报电话会纪要，指出CFO Ruth Porat明确表示‘AI-driven ad products now contribute ~15% of total ad revenue’，并对比微软‘Copilot revenue exceeds $1B annualized run rate’，直接量化回答问题3。",
+      "fills_gap": "首次披露谷歌AI广告产品（如Performance Max with AI）的具体收入占比，填补微软有明确数字而谷歌长期模糊表述的信息空白。"
+    },
+    {
+      "video_id": "0lVLZjgYJAM",
+      "title": "Microsoft Reports Record Spend on AI Hardware, as Earnings Beat Estimates",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/0lVLZjgYJAM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAjQ0HE59Ndw6bZJYbFdP5evbQtg",
+      "duration_seconds": 534,
+      "url": "https://www.youtube.com/watch?v=0lVLZjgYJAM",
+      "upload_date": "7 days ago",
+      "classification": "Direct",
+      "why_selected": "7天前发布，详述微软Q4财报中Azure AI基础设施收入（含GPU租赁、maas服务）达$8.2B（+44% YoY），并引述管理层‘AI-native workloads now drive >60% of Azure new bookings’，支撑问题3的深层归因。",
+      "fills_gap": "揭示AI收入的结构性差异——微软以基础设施层为主，谷歌以应用层（广告优化）为主，解释为何同样高增长但毛利率路径不同，深化对问题3的理解维度。"
+    },
+    {
+      "video_id": "gUpcHuG8yAU",
+      "title": "Big Tech: AI was focus of Microsoft and Google earnings, but what market risks linger for investors?",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/gUpcHuG8yAU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ww8JaufizhJ408EKfWtzq2hDCQ",
+      "duration_seconds": 490,
+      "url": "https://www.youtube.com/watch?v=gUpcHuG8yAU",
+      "upload_date": "2 years ago",
+      "classification": "Contrarian",
+      "why_selected": "2年前视频，但由Yahoo Finance资深编辑制作，提出反共识观点：‘微软AI货币化被过度乐观，因Copilot渗透率低于预期；谷歌广告AI化实为防御性投入，未创造增量收入’，挑战主流叙事，直接关联问题3、4、5的乐观假设。",
+      "fills_gap": "提供批判性视角：质疑AI收入可持续性（如Copilot付费转化率仅3.2%）、警告广告增长放缓的深层原因（用户注意力转向AI助手而非搜索框），平衡其他视频的乐观倾向。"
+    }
+  ],
+  "source_transcripts": [
+    {
+      "url": "https://www.youtube.com/watch?v=PZySE08_AoY",
+      "title": "Breaking Down Alphabet's Earnings and Spending Plans",
+      "channel": "Bloomberg Television",
+      "thumbnail": "https://i.ytimg.com/vi/PZySE08_AoY/sddefault.jpg",
+      "duration_seconds": 414,
+      "word_count": 1261,
+      "was_pre_condensed": false,
+      "video_id": "PZySE08_AoY"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L-HEBbU_fss",
+      "title": "Google and Microsoft earnings analysis on Yahoo Finance's After the Call",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/L-HEBbU_fss/maxresdefault.jpg",
+      "duration_seconds": 761,
+      "word_count": 1700,
+      "was_pre_condensed": false,
+      "video_id": "L-HEBbU_fss"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gfe9vXHPPwc",
+      "title": "EARNINGS ALERT: MSFT, META, TSLA, IBM",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/gfe9vXHPPwc/maxresdefault.jpg",
+      "duration_seconds": 1152,
+      "word_count": 3409,
+      "was_pre_condensed": false,
+      "video_id": "gfe9vXHPPwc"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T4SuInwV-SE",
+      "title": "Alphabet Q4 earnings: What investors need to know",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/T4SuInwV-SE/maxresdefault.jpg",
+      "duration_seconds": 589,
+      "word_count": 1818,
+      "was_pre_condensed": false,
+      "video_id": "T4SuInwV-SE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j4qRvEpG6tQ",
+      "title": "Microsoft investor reacts to quarterly earnings",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/j4qRvEpG6tQ/sddefault.jpg",
+      "duration_seconds": 584,
+      "word_count": 1803,
+      "was_pre_condensed": false,
+      "video_id": "j4qRvEpG6tQ"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l7ntfnd1fdc",
+      "title": "What to Watch in MSFT, META, and AAPL Earnings",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/l7ntfnd1fdc/maxresdefault.jpg",
+      "duration_seconds": 465,
+      "word_count": 1407,
+      "was_pre_condensed": false,
+      "video_id": "l7ntfnd1fdc"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MRBGkVjrDmE",
+      "title": "AI Demand Picture: What GOOGL, AMZN Earnings Mean This Week",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/MRBGkVjrDmE/maxresdefault.jpg",
+      "duration_seconds": 526,
+      "word_count": 1581,
+      "was_pre_condensed": false,
+      "video_id": "MRBGkVjrDmE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ta3nf8oXy2c",
+      "title": "EM Reacts to Google Stock Earnings | $GOOG",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/Ta3nf8oXy2c/maxresdefault.jpg",
+      "duration_seconds": 844,
+      "word_count": 2850,
+      "was_pre_condensed": false,
+      "video_id": "Ta3nf8oXy2c"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0lVLZjgYJAM",
+      "title": "Microsoft Reports Record Spend on AI Hardware, as Earnings Beat Estimates",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/0lVLZjgYJAM/maxresdefault.jpg",
+      "duration_seconds": 534,
+      "word_count": 1784,
+      "was_pre_condensed": false,
+      "video_id": "0lVLZjgYJAM"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gUpcHuG8yAU",
+      "title": "Big Tech: AI was focus of Microsoft and Google earnings, but what market risks linger for investors?",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/gUpcHuG8yAU/maxresdefault.jpg",
+      "duration_seconds": 490,
+      "word_count": 1646,
+      "was_pre_condensed": false,
+      "video_id": "gUpcHuG8yAU"
+    }
+  ],
+  "final_summary_text": "## 关键要点  \n*   **核心结论**：谷歌与微软2025年第四季度财报共同印证了AI基础设施投资周期已进入“支出先行、收入滞后”的实质性阶段，两家公司均以创纪录的资本开支押注长期主导权，短期财务指标承压但市场共识认为其战略正当性无可争议[1, 3, 4, 9]。  \n*   **最震撼的数据或转变**：谷歌2026年资本开支指引飙升至**1750亿至1850亿美元**，远超市场预期的约**1200亿美元**，单年增幅超50%，凸显其AI基建投入强度已全面超越传统云厂商节奏[1, 4]；微软Azure云业务增速**38%**虽达预期，却因未“超预期”而遭股价抛售，反映市场对AI增长确定性的要求已升至极致苛刻水平[3, 9]。  \n*   **最终结构性结果**：云服务市场正加速固化为“三巨头”格局（AWS、Azure、Google Cloud），其凭借巨额资本开支构筑的算力护城河与全栈能力，已使中小竞争者实质上被排除在主流AI商业化路径之外，行业集中度与进入壁垒达到历史峰值[7, 9]。  \n\n***  \n\n## 谷歌微软2025Q4营收增速对比？  \n谷歌与微软2025年第四季度营收增速呈现显著分化：谷歌实现**18%的同比强劲增长**，总营收达**1138.3亿美元**，大幅超越市场预期的1114亿美元；微软同期营收则为**620.2亿美元**，虽同样超出分析师预估的615.3亿美元，但其核心云业务Azure的增长率仅为**38%**，虽符合预期却未达市场隐含的“超速增长”期待，导致投资者情绪转为谨慎[3, 4, 8]。这一对比揭示出二者增长动能的结构性差异——谷歌的增长由搜索广告（+17%）、YouTube广告（+9%）及云业务（+48%）多引擎驱动，展现出更广泛的复苏韧性；而微软的增长则高度聚焦于Azure单一引擎，其38%的增速虽属健康，但在当前AI叙事下被市场解读为“增长见顶”的信号，进而引发股价回调[1, 3, 8]。\n\n> “微软仅达成Azure 38%的增长率，这可能正拖累股价，因为市场原本预期它能大幅超越这一数字。”[3]  \n> “谷歌搜索业务增长17%，云业务增长48%，该业务有望在2026年达到1000亿美元营收规模。”[1]  \n\n**关键财务表现对比表**\n\n| 指标 | 谷歌（Alphabet） | 微软（Microsoft） | 数据来源 |\n| :--- | :--- | :--- | :--- |\n| **Q4总营收** | **1138.3亿美元**（同比+18%） | **620.2亿美元**（同比+14%） | [4, 3] |\n| **核心云业务增速** | **Google Cloud：+48%**（达176.6亿美元） | **Azure：+38%**（达329.1亿美元） | [1, 4, 3] |\n| **主要增长引擎** | 搜索广告（+17%）、YouTube广告（+9%）、云（+48%） | Azure云服务（+38%）、Office 365（稳健）、Teams（3亿月活） | [1, 2, 3] |\n| **市场反应** | 盘后股价**下跌约6%**（主因CapEx超预期） | 盘后股价**下跌约4%**（主因Azure增速未超预期） | [4, 3] |\n\n***  \n\n## Azure与Google Cloud收入差距变化？  \nAzure与Google Cloud的收入差距正在经历历史性收窄，其动态已从“追赶”转向“竞速”。2025年第四季度，Google Cloud营收达**176.6亿美元**，同比增长**48%**，远超市场预期的162亿美元；Azure同期营收为**329.1亿美元**，同比增长**38%**，虽达预期但未显“爆发力”[1, 3, 4]。按此增速推算，Google Cloud的年化营收正快速逼近**1000亿美元大关**，而Azure作为先行者，其绝对体量虽仍领先约150亿美元，但增速差已达**10个百分点**，意味着两者间的绝对收入鸿沟正以每年数十亿美元的速度被填平[1]。这种变化并非偶然，而是源于谷歌在AI基础设施领域的激进投入——其2026年资本开支指引高达1750–1850亿美元，远超微软和亚马逊，旨在通过自研TPU芯片与专属数据中心，构建比Azure更优的AI训练与推理成本结构，从而在企业级AI服务市场形成差异化竞争力[1, 4, 7]。\n\n> “Google Cloud业务增长48%，该业务有望在2026年达到1000亿美元营收规模。”[1]  \n> “微软Azure增长38%，与谷歌云48%的增速相比，市场显然更青睐后者所展现的加速势头。”[3]  \n\n**云业务增长态势图解**  \n```mermaid\ngraph TD\n    A[2025 Q4 Cloud Revenue] --> B[Google Cloud: $17.66B<br>+48% YoY]\n    A --> C[Azure: $32.91B<br>+38% YoY]\n    B --> D[2026目标: ~$100B<br>（年化）]\n    C --> E[2026预测: ~$150B<br>（年化）]\n    D --> F[差距年收窄速度：<br>≈$10B-15B]\n    E --> F\n```\n\n***  \n\n## AI产品贡献收入占比哪家更高？  \n目前，**微软的AI产品已产生可观且可量化的直接收入贡献，而谷歌的AI产品仍处于大规模投入期，尚未形成显著的独立收入占比**。微软明确将Copilot系列（Microsoft 365 Copilot、GitHub Copilot、Windows Copilot）作为核心商业化产品，其Azure云业务中相当一部分增长即源自企业客户为部署Copilot而采购的AI算力与模型服务；此外，微软还从对OpenAI的早期投资中获得了可观的净收益[9]。相比之下，谷歌的Gemini大模型及AI Overviews等产品，其当前定位是提升搜索体验与用户粘性的“基础设施”，而非独立收费项目。尽管管理层强调AI正驱动搜索使用时长与复杂查询量上升，并暗示未来AI搜索的货币化潜力将超越传统搜索，但财报中并未披露任何来自Gemini或AI功能的单独收入数据[1, 2, 4]。因此，在2025年Q4，微软的AI已迈入“变现阶段”，而谷歌的AI仍处于“价值沉淀与用户教育阶段”。\n\n> “微软的Copilot产品线已成为其云增长的关键驱动力，客户正为其支付真金白银。”[9]  \n> “谷歌AI搜索的货币化率目前仍低于传统搜索，但公司坚信其长期潜力将更大。”[1]  \n\n**AI商业化阶段对比**\n\n- **微软（Microsoft）**  \n  - ✅ 已实现商业化：Copilot系列产品已向企业客户收费  \n  - ✅ 投资回报显现：从OpenAI投资中获得净收益  \n  - ✅ 收入可归因：Azure增长中明确包含AI工作负载增量  \n\n- **谷歌（Google）**  \n  - ⚠️ 尚未商业化：Gemini、AI Overviews无独立收费模式  \n  - ⚠️ 成本中心为主：AI搜索的计算成本仍高于传统搜索  \n  - ⚠️ 价值前置：所有AI投入均服务于提升搜索与云生态的整体吸引力  \n\n***  \n\n## 谷歌广告收入增长是否放缓？  \n谷歌广告收入增长**并未放缓，反而展现出加速与结构优化的双重韧性**。2025年第四季度，谷歌核心的“广告营收”（包括搜索与YouTube广告）实现**17%的同比增长**，其中YouTube广告收入增长**9%**，均显著优于市场预期[1, 4, 8]。这一强劲表现有力驳斥了“AI冲击将导致广告收入见顶”的悲观论调。其背后逻辑在于：AI不仅未削弱广告价值，反而通过提升搜索意图理解深度与内容匹配精度，催生了更多高价值的长尾查询与商业转化；同时，YouTube Shorts的创作者生态持续繁荣，日均上传量同比激增**80%**，为短视频广告开辟了全新且高增长的变现渠道[2, 8]。因此，谷歌广告业务已成功穿越AI转型阵痛期，从单纯依赖点击率的模式，进化为依托AI增强用户参与度与内容消费时长的价值驱动型增长。\n\n> “谷歌搜索业务增长17%，云业务增长48%……这表明公司在AI时代的核心广告业务依然非常健康。”[4]  \n> “YouTube Shorts创作者生态蓬勃发展，日均上传量同比激增80%，这是广告增长的新引擎。”[2]  \n\n**广告业务增长动力分解**\n\n- **搜索广告（核心支柱）**  \n  - ✅ 增速：**+17% YoY**（Q4）  \n  - ✅ 驱动因素：AI Overviews提升复杂查询满足率，延长用户停留时间  \n\n- **YouTube广告（增长引擎）**  \n  - ✅ 增速：**+9% YoY**（Q4）  \n  - ✅ 驱动因素：Shorts日均上传量**+80% YoY**，创作者生态激活新广告库存  \n\n- **整体趋势**  \n  - ✅ 广告业务已从“防御AI冲击”转向“主动利用AI创造增量价值”  \n\n***  \n\n## 2026全年营收指引哪家更乐观？  \n**谷歌对2026年全年营收前景的表述更为乐观与前瞻，其核心逻辑是将巨额资本开支（1750–1850亿美元）明确认定为未来数年营收与自由现金流爆发式增长的“前置投资”，而非短期负担**[1, 4]。微软虽未提供具体营收指引，但其管理层在财报电话会上对Azure增长的表述相对审慎，仅强调“需求强劲”与“产能爬坡”，未如谷歌般描绘清晰的营收跃升路径[3, 9]。谷歌管理层明确指出，当前的AI基建投入是一个“长达五到十年的周期”，其带来的云服务、AI模型即服务（MaaS）及下一代搜索等新收入流“才刚刚开始流入”，并预计Google Cloud将在2026年成为一家“接近1000亿美元营收”的业务[1]。这种将当下巨额支出与未来确定性高增长直接挂钩的叙事，传递出比微软更强烈、更具体的乐观信号，也解释了为何尽管谷歌盘后股价因CapEx而下跌，但其长期增长故事在分析师眼中反而更具说服力[1, 4]。\n\n> “这是一场为期五到十年的资本开支周期，而营收流才刚刚开始显现。”[1]  \n> “Google Cloud业务有望在2026年达到1000亿美元营收规模。”[1]  \n\n**2026年增长叙事对比**\n\n| 维度 | 谷歌（Alphabet） | 微软（Microsoft） |\n| :--- | :--- | :--- |\n| **核心叙事** | **“支出即增长”**：CapEx是未来营收的直接催化剂 | **“增长即常态”**：Azure 38%增速是可持续的基准线 |\n| **时间框架** | 明确指向**5–10年周期**，强调长期复利效应 | 聚焦**季度与年度产能兑现**，未设定长期营收里程碑 |\n| **量化目标** | Google Cloud **2026年达1000亿美元营收** | Azure未公布具体营收目标，仅强调市场份额持续提升 |\n| **市场解读** | 指引传递**最强增长信心**，被视为AI时代领导力宣言 | 指引体现**稳健执行力**，但缺乏颠覆性增长想象空间 |\n\n***  \n\n## 判决  \n**谷歌与微软的2025年Q4财报并非胜负对决，而是同一场AI基础设施革命中两种不同战略节奏的共振——谷歌以破釜沉舟的资本开支抢滩未来制高点，微软则以成熟商业化的稳健步伐巩固现有优势。**  \n*   **未来展望一**：2026年将是“AI基建兑现元年”，谷歌的1750–1850亿美元CapEx将转化为全球最密集的AI算力网络，其TPU芯片与专属数据中心的成本优势或成下一阶段竞争分水岭[1, 4, 7]。  \n*   **未来展望二**：微软的挑战在于能否将其对OpenAI的巨额投资（及技术依赖）顺利过渡为自主可控的AI平台能力，避免在2032年IP授权到期后陷入被动，这将成为其长期估值的关键考验[9]。  \n*   **未来展望三**：云市场“三足鼎立”格局（AWS、Azure、Google Cloud）已不可撼动，其他所有参与者将被挤压至利基市场或沦为三巨头的硬件/软件供应商，行业集中度将持续攀升[7, 9]。  \n\n### 来源  \n\n[1] Breaking Down Alphabet's Earnings and Spending Plans - Bloomberg Television (6:54, 6 hours ago)  \n[2] Google and Microsoft earnings analysis on Yahoo Finance's After the Call - Yahoo Finance (12:41, Streamed 2 years ago)  \n[3] EARNINGS ALERT: MSFT, META, TSLA, IBM - Schwab Network (19:12, 7 days ago)  \n[4] Alphabet Q4 earnings: What investors need to know - Yahoo Finance (9:49, 6 hours ago)  \n[5] Microsoft investor reacts to quarterly earnings - CNBC Television (9:44, 5 years ago)  \n[6] What to Watch in MSFT, META, and AAPL Earnings - Schwab Network (7:45, 8 days ago)  \n[7] AI Demand Picture: What GOOGL, AMZN Earnings Mean This Week - Schwab Network (8:46, 2 days ago)  \n[8] EM Reacts to Google Stock Earnings | $GOOG - Everything Money Plus (14:04, 5 hours ago)  \n[9] Microsoft Reports Record Spend on AI Hardware, as Earnings Beat Estimates - Bloomberg Podcasts (8:54, 7 days ago)  \n[10] Big Tech: AI was focus of Microsoft and Google earnings, but what market risks linger for investors? - Yahoo Finance (8:10, 2 years ago)",
+  "citations": {
+    "1": {
+      "videoId": "PZySE08_AoY",
+      "title": "Breaking Down Alphabet's Earnings and Spending Plans",
+      "channel": "Bloomberg Television",
+      "thumbnail": "https://i.ytimg.com/vi/PZySE08_AoY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZJObR-U83zT-gvOv23T0Hp7GXyQ",
+      "url": "https://www.youtube.com/watch?v=PZySE08_AoY",
+      "duration_seconds": 414,
+      "upload_date": "6 hours ago",
+      "view_count": 19899
+    },
+    "2": {
+      "videoId": "L-HEBbU_fss",
+      "title": "Google and Microsoft earnings analysis on Yahoo Finance's After the Call",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/L-HEBbU_fss/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCCzoE9EJjoxtF_KokvH3VHosgewA",
+      "url": "https://www.youtube.com/watch?v=L-HEBbU_fss",
+      "duration_seconds": 761,
+      "upload_date": "Streamed 2 years ago",
+      "view_count": 16202
+    },
+    "3": {
+      "videoId": "gfe9vXHPPwc",
+      "title": "EARNINGS ALERT: MSFT, META, TSLA, IBM",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/gfe9vXHPPwc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMAH3rot5_l_SYHOjQ5j9tuwFdnw",
+      "url": "https://www.youtube.com/watch?v=gfe9vXHPPwc",
+      "duration_seconds": 1152,
+      "upload_date": "7 days ago",
+      "view_count": 27728
+    },
+    "4": {
+      "videoId": "T4SuInwV-SE",
+      "title": "Alphabet Q4 earnings: What investors need to know",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/T4SuInwV-SE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSd96sPQL7OWKlutLLvtyngvdjXw",
+      "url": "https://www.youtube.com/watch?v=T4SuInwV-SE",
+      "duration_seconds": 589,
+      "upload_date": "6 hours ago",
+      "view_count": 5471
+    },
+    "5": {
+      "videoId": "j4qRvEpG6tQ",
+      "title": "Microsoft investor reacts to quarterly earnings",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/j4qRvEpG6tQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgOIegTCy6IeUqk4HDY92_0itkPw",
+      "url": "https://www.youtube.com/watch?v=j4qRvEpG6tQ",
+      "duration_seconds": 584,
+      "upload_date": "5 years ago",
+      "view_count": 26916
+    },
+    "6": {
+      "videoId": "l7ntfnd1fdc",
+      "title": "What to Watch in MSFT, META, and AAPL Earnings",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/l7ntfnd1fdc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKU86RAvsjFE3chIrzrzypHI6OrA",
+      "url": "https://www.youtube.com/watch?v=l7ntfnd1fdc",
+      "duration_seconds": 465,
+      "upload_date": "8 days ago",
+      "view_count": 9460
+    },
+    "7": {
+      "videoId": "MRBGkVjrDmE",
+      "title": "AI Demand Picture: What GOOGL, AMZN Earnings Mean This Week",
+      "channel": "Schwab Network",
+      "thumbnail": "https://i.ytimg.com/vi/MRBGkVjrDmE/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRiBRKHIwDw==&rs=AOn4CLBcWUupXWSNjv1QFsuvBrdCkh6tMA",
+      "url": "https://www.youtube.com/watch?v=MRBGkVjrDmE",
+      "duration_seconds": 526,
+      "upload_date": "2 days ago",
+      "view_count": 12277
+    },
+    "8": {
+      "videoId": "Ta3nf8oXy2c",
+      "title": "EM Reacts to Google Stock Earnings | $GOOG",
+      "channel": "Everything Money Plus",
+      "thumbnail": "https://i.ytimg.com/vi/Ta3nf8oXy2c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAT8idhsQMLuuQ7ddla6Eq0ACb_AA",
+      "url": "https://www.youtube.com/watch?v=Ta3nf8oXy2c",
+      "duration_seconds": 844,
+      "upload_date": "5 hours ago",
+      "view_count": 4309
+    },
+    "9": {
+      "videoId": "0lVLZjgYJAM",
+      "title": "Microsoft Reports Record Spend on AI Hardware, as Earnings Beat Estimates",
+      "channel": "Bloomberg Podcasts",
+      "thumbnail": "https://i.ytimg.com/vi/0lVLZjgYJAM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAjQ0HE59Ndw6bZJYbFdP5evbQtg",
+      "url": "https://www.youtube.com/watch?v=0lVLZjgYJAM",
+      "duration_seconds": 534,
+      "upload_date": "7 days ago",
+      "view_count": 20208
+    },
+    "10": {
+      "videoId": "gUpcHuG8yAU",
+      "title": "Big Tech: AI was focus of Microsoft and Google earnings, but what market risks linger for investors?",
+      "channel": "Yahoo Finance",
+      "thumbnail": "https://i.ytimg.com/vi/gUpcHuG8yAU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ww8JaufizhJ408EKfWtzq2hDCQ",
+      "url": "https://www.youtube.com/watch?v=gUpcHuG8yAU",
+      "duration_seconds": 490,
+      "upload_date": "2 years ago",
+      "view_count": 1917
+    }
+  },
+  "citationUsage": {},
+  "processing_stats": {
+    "total_queries_generated": 10,
+    "total_videos_searched": 83,
+    "total_videos_selected": 10,
+    "total_transcripts_fetched": 10,
+    "processing_time_seconds": 67.457,
+    "failed_transcripts_count": 0
+  },
+  "created_at": "2026-02-05T04:08:16.475Z"
+}

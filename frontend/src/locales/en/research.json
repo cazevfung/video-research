@@ -1,0 +1,152 @@
+{
+  "header": {
+    "title": "AI-Powered Video Research",
+    "subtitle": "Explore any topic through curated YouTube videos and comprehensive summaries"
+  },
+  "form": {
+    "queryLabel": "Research Query",
+    "queryPlaceholder": "What would you like to research? (e.g., 'impact of AI on healthcare')",
+    "queryHint": "Describe what you want to learn about (minimum {{min}} characters)",
+    "characterCount_one": "{{count}} character",
+    "characterCount_other": "{{count}} characters",
+    "languageLabel": "Output Language",
+    "startResearch": "Start Research",
+    "starting": "Starting research...",
+    "processing": "Processing..."
+  },
+  "progress": {
+    "researchJobCreated": "Research job created",
+    "generatingQueries": "Generating search queries...",
+    "generatingQuestions": "Generating research questions...",
+    "awaitingQuestionApproval": "Please review and approve the research questions",
+    "regeneratingQuestions": "Regenerating research questions based on your feedback...",
+    "generatingSearchTerms": "Generating search terms from approved questions...",
+    "awaitingSearchTermApproval": "Please review and approve the search terms",
+    "regeneratingSearchTerms": "Regenerating search terms based on your feedback...",
+    "generatedQueriesSearching": "Generated {{count}} search {{count, plural, one {query} other {queries}}}. Searching for videos...",
+    "generatedQuestionsReview": "Generated {{count}} research {{count, plural, one {question} other {questions}}}. Please review and approve.",
+    "searchingVideos": "Searching for videos...",
+    "filteringVideos": "Filtering best videos...",
+    "foundVideosFiltering": "Found {{found}} {{found, plural, one {video} other {videos}}}. Filtering to select the best {{target}}...",
+    "awaitingVideoApproval": "Please review and approve the selected videos",
+    "refilteringVideos": "Reselecting videos based on your feedback...",
+    "selectedVideosFetching": "Selected {{count}} {{count, plural, one {video} other {videos}}}. Fetching transcripts...",
+    "fetchingTranscripts": "Fetching transcripts...",
+    "generatingSummary": "Generating comprehensive summary...",
+    "generatingQuestionsProgress": "Generating questions... ({{current}}/{{total}})",
+    "generatingSearchTermsProgress": "Generating search terms... ({{current}}/{{total}})",
+    "generatingResearchSummary": "Generating research summary...",
+    "generatingSummaryUnavailable": "Generating summary (streaming unavailable)...",
+    "researchCompleted": "Research completed successfully",
+    "researchFailed": "Research failed"
+  },
+  "workflow": {
+    "querySubmitted": "Query Submitted",
+    "questions": "Questions",
+    "searchTerms": "Search Terms",
+    "videos": "Videos",
+    "transcripts": "Transcripts",
+    "summary": "Summary",
+    "awaitingApproval": "Awaiting your approval"
+  },
+  "messages": {
+    "enterQuery": "Please enter a research query",
+    "queryTooShort": "Query must be at least {{min}} characters"
+  },
+  "toasts": {
+    "researchStarted": "Research started successfully",
+    "researchCompleted": "Research completed!",
+    "researchFailed": "Research failed. Please try again.",
+    "copiedToClipboard": "Copied to clipboard",
+    "savedToLibrary": "Saved to library"
+  },
+  "share": {
+    "button": {
+      "share": "Share",
+      "copied": "Copied"
+    },
+    "success": {
+      "copied": "Link copied to clipboard!",
+      "message": "Share link is ready to share"
+    },
+    "info": {
+      "copyFailed": "Copy failed"
+    },
+    "errors": {
+      "noResearchId": "Research ID is required",
+      "failed": "Failed to create share link",
+      "noData": "No share data received",
+      "unknown": "An unknown error occurred"
+    }
+  },
+  "approval": {
+    "regenerationsRemaining": "{{count}} regeneration remaining",
+    "noRegenerationsLeft": "No regenerations remaining",
+    "feedbackLabel": "Feedback",
+    "characters": "characters",
+    "minLength": "Minimum {{min}} characters required",
+    "maxLength": "Maximum {{max}} characters allowed",
+    "noItemsAvailable": "No items available",
+    "cancel": "Cancel",
+    "submitting": "Submitting...",
+    "submitFeedback": "Submit Feedback",
+    "requestChanges": "Request Changes",
+    "approving": "Approving...",
+    "approveContinue": "Approve & Continue",
+    "processing": "Processing...",
+    "approveError": "Failed to approve. Please try again.",
+    "regenerateError": "Failed to regenerate. Please try again.",
+    "errors": {
+      "noJobId": "No research job found",
+      "approveFailed": "Failed to approve. Please try again.",
+      "regenerateFailed": "Failed to regenerate. Please try again.",
+      "invalidFeedbackLength": "Feedback must be between {{min}} and {{max}} characters",
+      "maxLength": "Feedback must not exceed {{max}} characters",
+      "maxFeedbackExceeded": "Maximum feedback attempts reached for this stage"
+    },
+    "questions": {
+      "title": "Review Generated Questions",
+      "subtitle": "These questions will guide the AI research process",
+      "originalQuery": "Original Research Query",
+      "feedbackPlaceholder": "Describe how you'd like the questions adjusted (e.g., 'Focus more on recent 2026 developments')",
+      "approved": "Questions approved successfully",
+      "regenerating": "Regenerating questions...",
+      "streaming": "Generating questions..."
+    },
+    "searchTerms": {
+      "title": "Review Generated Search Terms",
+      "subtitle": "These search terms will be used to find relevant videos",
+      "relatedQuestions": "Related Research Questions",
+      "feedbackPlaceholder": "Describe how you'd like the search terms adjusted (e.g., 'Focus more on academic sources')",
+      "approved": "Search terms approved successfully",
+      "regenerating": "Regenerating search terms...",
+      "streaming": "Generating search terms..."
+    },
+    "streaming": "Generating...",
+    "videos": {
+      "title": "Review Selected Videos",
+      "subtitle": "AI has selected {{count}} videos that best answer your research questions",
+      "researchQuestions": "Research Questions",
+      "whySelected": "Why Selected",
+      "fillsGap": "Fills Gap",
+      "viewOnYouTube": "View on YouTube",
+      "feedbackPlaceholder": "Describe how you'd like the video selection adjusted (e.g., 'Include more recent videos from 2026')",
+      "approved": "Videos approved successfully",
+      "regenerating": "Refiltering videos..."
+    }
+  },
+  "citations": {
+    "sources": "Sources",
+    "watchVideo": "Watch Video"
+  },
+  "result": {
+    "copy": "Copy",
+    "copied": "Copied",
+    "researchSummary": "Research Summary",
+    "createdAt": "Created: {{date}}",
+    "waitingForContent": "Waiting for content...",
+    "selectedVideos": "Selected Videos",
+    "classification": "Classification",
+    "viewOnYouTube": "View on YouTube"
+  }
+}

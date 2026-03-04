@@ -1,0 +1,49 @@
+{
+    "actions":  {
+                    "save":  "Enregistrer",
+                    "cancel":  "Annuler",
+                    "delete":  "Supprimer",
+                    "edit":  "Modifier",
+                    "back":  "Retour",
+                    "next":  "Suivant",
+                    "previous":  "Précédent",
+                    "close":  "Fermer",
+                    "confirm":  "Confirmer",
+                    "submit":  "Soumettre",
+                    "retry":  "Réessayer",
+                    "loading":  "Chargement...",
+                    "refresh":  "Actualiser"
+                },
+    "status":  {
+                   "success":  "Succès",
+                   "error":  "Erreur",
+                   "warning":  "Avertissement",
+                   "info":  "Information",
+                   "loading":  "Chargement"
+               },
+    "time":  {
+                 "justNow":  "À l\u0027instant",
+                 "minutesAgo":  "il y a {{count}} minutes",
+                 "hoursAgo":  "il y a {{count}} heures",
+                 "daysAgo":  "il y a {{count}} jours",
+                 "weeksAgo":  "il y a {{count}} semaines",
+                 "monthsAgo":  "il y a {{count}} mois",
+                 "yearsAgo":  "il y a {{count}} ans"
+             },
+    "validation":  {
+                       "required":  "Ce champ est obligatoire",
+                       "invalid":  "Valeur non valide",
+                       "tooShort":  "Trop court",
+                       "tooLong":  "Trop long"
+                   },
+    "devMode":  {
+                    "storage":  "Storage",
+                    "files":  "({{count}} {{count, plural, one {file} other {files}}})",
+                    "userId":  "User ID",
+                    "title":  "DEV MODE",
+                    "disabled":  "Disabled",
+                    "auth":  "Auth",
+                    "enabled":  "Enabled",
+                    "noLocalFiles":  "No local files found"
+                }
+}

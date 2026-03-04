@@ -1,0 +1,256 @@
+@import './variables.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-theme-border-secondary;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    background-color: var(--color-theme-bg);
+    color: var(--color-theme-text-primary);
+    font-family: var(--font-cursor-gothic-beta), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  
+  body {
+    margin: 0;
+    line-height: 1.5;
+    overscroll-behavior: none;
+    background-color: var(--color-theme-bg);
+    color: var(--color-theme-text-primary);
+  }
+}
+
+/* Phase 5: Blink animation for typing cursor */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+/* Modern Scrollbar Styles */
+/* Webkit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-theme-bg-secondary);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+  border-radius: 6px;
+  transition: background-color 0.2s ease, opacity 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-theme-bg-tertiary);
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: var(--color-theme-border-primary);
+  background-clip: padding-box;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-theme-bg-secondary) transparent;
+}
+
+/* Smooth scrollbar fade-in effect */
+@supports selector(::-webkit-scrollbar) {
+  /* For containers that should have auto-hide scrollbars */
+  .scrollbar-auto-hide::-webkit-scrollbar-thumb {
+    opacity: 0;
+    transition: opacity 0.3s ease, background-color 0.2s ease;
+  }
+  
+  .scrollbar-auto-hide:hover::-webkit-scrollbar-thumb,
+  .scrollbar-auto-hide:focus-within::-webkit-scrollbar-thumb {
+    opacity: 1;
+  }
+  
+  .scrollbar-auto-hide::-webkit-scrollbar-thumb:hover {
+    opacity: 1;
+    background: var(--color-theme-bg-tertiary);
+    background-clip: padding-box;
+  }
+}
+
+/* Thin scrollbar variant for compact areas */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+/* Hide scrollbar completely (for custom scroll implementations) */
+.scrollbar-none {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Dynamic Grid Layout Styles - CSS Grid with Variable Card Sizes */
+.dynamic-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 140px; /* Smaller base row for more granular sizing */
+  grid-auto-flow: dense; /* Pack items to prevent gaps and overlaps */
+  gap: 20px;
+  width: 100%;
+  align-items: start; /* Align items to top */
+}
+
+.dynamic-grid-item {
+  /* Height is controlled by grid-row span */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Card size classes for grid spans */
+.card-small {
+  /* Default: 1x1 - handled by gridColumn/gridRow spans */
+}
+
+.card-medium {
+  /* 1x2 - handled by gridColumn/gridRow spans */
+}
+
+.card-wide {
+  /* 2x1 - handled by gridColumn/gridRow spans */
+}
+
+.card-large {
+  /* 2x2 - handled by gridColumn/gridRow spans */
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1280px) {
+  .dynamic-grid {
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 140px;
+    gap: 16px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .dynamic-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 140px;
+    gap: 16px;
+  }
+  
+  /* On tablet, wide and tall cards adapt */
+  .card-wide,
+  .card-large {
+    grid-column: span 2 !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .dynamic-grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: 100px;
+    gap: 12px;
+  }
+  
+  /* On mobile, all cards are single column with reduced height */
+  .dynamic-grid-item {
+    grid-column: span 1 !important;
+    grid-row: span 2 !important; /* All cards 2 rows = 200px on mobile */
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .dynamic-grid-item * {
+    animation: none !important;
+    transition: none !important;
+  }
+  
+  .enhanced-summary-card {
+    transform: none !important;
+  }
+}
+
+/* Mermaid Diagram Font Size Configuration */
+/* Ensures all text in Mermaid diagrams uses normal font size (13px to match content) */
+.mermaid-diagram svg {
+  font-size: 13px !important;
+}
+
+.mermaid-diagram svg text,
+.mermaid-diagram svg tspan {
+  font-size: 13px !important;
+}
+
+/* Override font sizes in foreignObject elements (used in flowcharts) */
+.mermaid-diagram svg foreignObject div,
+.mermaid-diagram svg foreignObject span,
+.mermaid-diagram svg foreignObject p {
+  font-size: 13px !important;
+}
+
+/* Override font-size in SVG style tags */
+.mermaid-diagram svg style {
+  /* This will be handled by JavaScript, but adding for completeness */
+}
+
+/* Markdown horizontal rule (---) – darker in light mode for visibility */
+.prose hr {
+  border-color: var(--color-theme-border-primary);
+}
+html:not(.dark) .prose hr {
+  border-color: var(--color-theme-border-strong) !important;
+}
+
+/* Remove quotation marks from blockquotes added by Tailwind Typography plugin */
+/* Tailwind Typography adds quotes via ::before and ::after pseudo-elements */
+.prose blockquote::before,
+.prose blockquote::after,
+.prose-invert blockquote::before,
+.prose-invert blockquote::after,
+.prose blockquote p::before,
+.prose blockquote p::after,
+.prose-invert blockquote p::before,
+.prose-invert blockquote p::after,
+.prose blockquote p:first-child::before,
+.prose blockquote p:first-child::after,
+.prose-invert blockquote p:first-child::before,
+.prose-invert blockquote p:first-child::after,
+.prose blockquote p:last-child::before,
+.prose blockquote p:last-child::after,
+.prose-invert blockquote p:last-child::before,
+.prose-invert blockquote p:last-child::after,
+.prose blockquote > *::before,
+.prose blockquote > *::after,
+.prose-invert blockquote > *::before,
+.prose-invert blockquote > *::after {
+  content: none !important;
+}

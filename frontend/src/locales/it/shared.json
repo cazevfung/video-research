@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "Caricamento ricerca condivisa...",
+    "error": "Impossibile caricare la ricerca condivisa",
+    "errorMessage": "Si è verificato un errore durante il caricamento di questa ricerca condivisa.",
+    "shareIdRequired": "È richiesto l'ID di condivisione"
+  },
+  "metadata": {
+    "sharedOn": "Condiviso il {{date}}",
+    "viewed": "Visualizzato {{count}} {{count, plural, one {volta} other {volte}}}"
+  },
+  "footer": {
+    "createResearch": "Crea la tua ricerca",
+    "poweredBy": "Fornito da <brand>Video Research</brand>"
+  }
+}

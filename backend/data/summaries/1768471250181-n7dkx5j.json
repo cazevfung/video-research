@@ -1,0 +1,30 @@
+{
+  "id": "1768471250181-n7dkx5j",
+  "user_uid": "dev-user-id",
+  "user_id": "dev-user-id",
+  "job_id": "064264d0-bc6e-47e9-b639-e886877788a1",
+  "batch_title": "AI赋能学习：学生如何合理使用",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=N5yJJA0NCU0&pp=ugUEEgJlbg%3D%3D",
+      "title": "AI on campus",
+      "channel": "Anthropic",
+      "thumbnail": "https://i.ytimg.com/vi/N5yJJA0NCU0/maxresdefault.jpg",
+      "duration_seconds": 2328,
+      "word_count": 7420,
+      "was_pre_condensed": false,
+      "video_id": "N5yJJA0NCU0"
+    }
+  ],
+  "preset_style": "bullet_points",
+  "final_summary_text": "**AI在校园中的应用：学生视角**\n\n**AI已经改变了学生的学习方式，但其使用效果取决于学生的动机和使用方式。**\n\n为什么重要：AI在教育中的应用引发了一系列变化，从辅助学习到完成作业，不同学生对其使用方式各异。\n\n**关键点**：\n\n- **广泛的应用** — 90%的学生在日常学习中使用AI，包括总结讲座、解答问题集、提供作业反馈等（视频: AI on campus）。\n- **规则与规定的调整** — 大学正在管理AI的使用，一些课程禁止使用AI，而另一些则鼓励使用。学生处于灰色地带，不确定如何正确使用AI（视频: AI on campus）。\n- **不同的使用动机** — 学生使用AI的动机各不相同。有些学生用AI来完成作业，节省时间；而有些学生则用AI来增强学习，提高自己的知识深度（视频: AI on campus）。\n- **技术与社会的融合** — 一些大学开始将AI工具纳入课程，教授学生如何有效使用AI。例如，斯坦福大学开设了关于使用AI工具进行软件开发的课程（视频: AI on campus）。\n- **创新项目** — 学生们利用AI构建各种项目，如自动提醒课程注册、图书馆座位管理系统等。这些项目不仅展示了技术能力，也体现了实际应用价值（视频: AI on campus）。\n- **作弊问题** — 尽管AI为学习提供了便利，但也带来了作弊问题。许多学生直接使用AI输出作为答案，这引发了对学术诚信的担忧（视频: AI on campus）。\n- **平衡使用** — 学生需要找到使用AI的平衡点，既要利用AI的优势，又要避免过度依赖。能够解释和辩护自己的工作是判断是否过度依赖的标准之一（视频: AI on campus）。\n\n**结论**：\n学生应学会合理使用AI，将其作为学习和创新的工具，而不是简单的替代品。同时，学校和教师需要提供指导和支持，帮助学生更好地理解和使用AI。",
+  "language": "Chinese (Simplified)",
+  "processing_stats": {
+    "total_videos": 1,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 33
+  },
+  "created_at": "2026-01-15T10:00:50.181Z",
+  "updated_at": "2026-01-15T10:00:50.183Z"
+}

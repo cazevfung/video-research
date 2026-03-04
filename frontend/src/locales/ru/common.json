@@ -1,0 +1,49 @@
+{
+    "actions":  {
+                    "save":  "Сохранить",
+                    "cancel":  "Отменить",
+                    "delete":  "Удалить",
+                    "edit":  "Редактировать",
+                    "back":  "Назад",
+                    "next":  "Далее",
+                    "previous":  "Назад",
+                    "close":  "Закрыть",
+                    "confirm":  "Подтвердить",
+                    "submit":  "Отправить",
+                    "retry":  "Повторить",
+                    "loading":  "Загрузка...",
+                    "refresh":  "Обновить"
+                },
+    "status":  {
+                   "success":  "Успех",
+                   "error":  "Ошибка",
+                   "warning":  "Предупреждение",
+                   "info":  "Информация",
+                   "loading":  "Загрузка"
+               },
+    "time":  {
+                 "justNow":  "Только что",
+                 "minutesAgo":  "{{count}} минут назад",
+                 "hoursAgo":  "{{count}} часов назад",
+                 "daysAgo":  "{{count}} дней назад",
+                 "weeksAgo":  "{{count}} недель назад",
+                 "monthsAgo":  "{{count}} месяцев назад",
+                 "yearsAgo":  "{{count}} лет назад"
+             },
+    "validation":  {
+                       "required":  "Это поле обязательно",
+                       "invalid":  "Недопустимое значение",
+                       "tooShort":  "Слишком коротко",
+                       "tooLong":  "Слишком длинно"
+                   },
+    "devMode":  {
+                    "storage":  "Storage",
+                    "files":  "({{count}} {{count, plural, one {file} other {files}}})",
+                    "userId":  "User ID",
+                    "title":  "DEV MODE",
+                    "disabled":  "Disabled",
+                    "auth":  "Auth",
+                    "enabled":  "Enabled",
+                    "noLocalFiles":  "No local files found"
+                }
+}

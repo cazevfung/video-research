@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "共有された研究を読み込み中...",
+    "error": "共有された研究を読み込めませんでした",
+    "errorMessage": "この共有された研究の読み込み中にエラーが発生しました。",
+    "shareIdRequired": "共有IDが必要です"
+  },
+  "metadata": {
+    "sharedOn": "{{date}}に共有",
+    "viewed": "{{count}} {{count, plural, one {回} other {回}}}閲覧"
+  },
+  "footer": {
+    "createResearch": "独自の研究を作成",
+    "poweredBy": "<brand>Video Research</brand>によって提供"
+  }
+}

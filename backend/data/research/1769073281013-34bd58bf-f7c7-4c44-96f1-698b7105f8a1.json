@@ -1,0 +1,643 @@
+{
+  "job_id": "34bd58bf-f7c7-4c44-96f1-698b7105f8a1",
+  "timestamp": "2026-01-22T09:14:41.013Z",
+  "request": {
+    "research_query": "how would ai impact organizational structures, particularly to middle maangement and how teams are formed?",
+    "language": "English"
+  },
+  "generated_queries": [
+    "how AI is changing middle management",
+    "AI impact on team structure at work",
+    "will managers be replaced by AI",
+    "future of teams in AI companies",
+    "Google AI workplace restructuring example"
+  ],
+  "supadata_metadata": [
+    {
+      "video_id": "C0W4H6jMLKg",
+      "title": "Why Middle Management is the Hardest Job | Simon Sinek",
+      "channel": "Simon Sinek",
+      "thumbnail": "https://i.ytimg.com/vi/C0W4H6jMLKg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkpkrmVAS4iACdYXGqaLg8HNul1A",
+      "duration_seconds": 276,
+      "view_count": 1338143,
+      "upload_date": "5 years ago",
+      "url": "https://www.youtube.com/watch?v=C0W4H6jMLKg"
+    },
+    {
+      "video_id": "IeTFpsuCor8",
+      "title": "The graduate 'jobpocalypse':  Where have all the entry-level jobs gone? | FT Working It",
+      "channel": "Financial Times",
+      "thumbnail": "https://i.ytimg.com/vi/IeTFpsuCor8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9dEvC0SLI1w-8fb1tfhCkP4seQQ",
+      "duration_seconds": 838,
+      "view_count": 1251556,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=IeTFpsuCor8"
+    },
+    {
+      "video_id": "yic4ImNSE3w",
+      "title": "How AI Is Replacing Middle-Class Careers",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/yic4ImNSE3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7APHQMcJ5Lhby8T9BOb717fPJrA",
+      "duration_seconds": 533,
+      "view_count": 384420,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=yic4ImNSE3w"
+    },
+    {
+      "video_id": "F0E2WSpArdQ",
+      "title": "How AI Is Already Changing Jobs",
+      "channel": "The AI Daily Brief: Artificial Intelligence News",
+      "thumbnail": "https://i.ytimg.com/vi/F0E2WSpArdQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8xl6UQEG4n8n9VZ8XuaTxdxFHHg",
+      "duration_seconds": 955,
+      "view_count": 7652,
+      "upload_date": "8 months ago",
+      "url": "https://www.youtube.com/watch?v=F0E2WSpArdQ"
+    },
+    {
+      "video_id": "jWSH2wvi-94",
+      "title": "7 Jobs AI SHOULD Replace (Not Artists)",
+      "channel": "Fuzz Culture",
+      "thumbnail": "https://i.ytimg.com/vi/jWSH2wvi-94/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCNMVM6xCQ9xEooaJ8NZ3xflw7z0Q",
+      "duration_seconds": 694,
+      "view_count": 2470,
+      "upload_date": "1 month ago",
+      "url": "https://www.youtube.com/watch?v=jWSH2wvi-94"
+    },
+    {
+      "video_id": "6XGa7FG3mAI",
+      "title": "Why Middle Managers Are Vanishing (and What It Means for You)",
+      "channel": "Benjamin Preston",
+      "thumbnail": "https://i.ytimg.com/vi/6XGa7FG3mAI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYm88kJfxpDNiH0K1CRys_vEFH_A",
+      "duration_seconds": 268,
+      "view_count": 1283,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=6XGa7FG3mAI"
+    },
+    {
+      "video_id": "5TQFpKLbbmw",
+      "title": "r/Maliciouscompliance Middle manager wants to replace his coworkers with AI",
+      "channel": "blackcatzeromedia",
+      "thumbnail": "https://i.ytimg.com/vi/5TQFpKLbbmw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDLbV36gakxf01BhLV5R0H3FuiFlw",
+      "duration_seconds": 567,
+      "view_count": 907,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=5TQFpKLbbmw"
+    },
+    {
+      "video_id": "mOG1CDQZ5Gc",
+      "title": "The Manager’s Guide to Thriving in the AI Era (And Getting Promoted)",
+      "channel": "Helen Bryant  ",
+      "thumbnail": "https://i.ytimg.com/vi/mOG1CDQZ5Gc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCVYTH2VEWgKbtcr2faKA3TX4Uu-w",
+      "duration_seconds": 681,
+      "view_count": 503,
+      "upload_date": "10 months ago",
+      "url": "https://www.youtube.com/watch?v=mOG1CDQZ5Gc"
+    },
+    {
+      "video_id": "AL64C5ZdjVs",
+      "title": "How AI Changed Our Lives Forever",
+      "channel": "ilmi Taste",
+      "thumbnail": "https://i.ytimg.com/vi/AL64C5ZdjVs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1gaEf_t0eGNXCIiN8oUQ1Q0R1Uw",
+      "duration_seconds": 321,
+      "view_count": 266,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=AL64C5ZdjVs"
+    },
+    {
+      "video_id": "Dms5dNPvze8",
+      "title": "AI Will Replace Middle Managers, Not Leaders – Ankur Warikoo | Nitin Bajaj Podcast",
+      "channel": "Nitin Bajaj Clips",
+      "thumbnail": "https://i.ytimg.com/vi/Dms5dNPvze8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdk8OEYrykzBrMiFzhCXNglmaulA",
+      "duration_seconds": 314,
+      "view_count": 125,
+      "upload_date": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=Dms5dNPvze8"
+    },
+    {
+      "video_id": "avqMUyNrkGY",
+      "title": "All The Jobs AI Will Replace In 5 Years (And Jobs That It Won’t)",
+      "channel": "Andrei Jikh",
+      "thumbnail": "https://i.ytimg.com/vi/avqMUyNrkGY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAusNLFzOXr3lO8PA5Tu8WULz78GQ",
+      "duration_seconds": 819,
+      "view_count": 472830,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=avqMUyNrkGY"
+    },
+    {
+      "video_id": "QXAXNcRs7gQ",
+      "title": "Is McKinsey losing its crown to AI?",
+      "channel": "The Economist",
+      "thumbnail": "https://i.ytimg.com/vi/QXAXNcRs7gQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDX4F5RVz5FEa-gT-PW4k0_RRmp9w",
+      "duration_seconds": 444,
+      "view_count": 348359,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=QXAXNcRs7gQ"
+    },
+    {
+      "video_id": "p1yCOdp2vs0",
+      "title": "Jobs AI Will Never Replace, Study Finds",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/p1yCOdp2vs0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDGlYF5TKFSfO2y1pTjgninWkn3fw",
+      "duration_seconds": 496,
+      "view_count": 262040,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=p1yCOdp2vs0"
+    },
+    {
+      "video_id": "pgy3TMylTnA",
+      "title": "5 AI Tools That Will Replace 99% of Project Management Work - AI for Project Managers | PMPwithRay",
+      "channel": "PMPwithRay",
+      "thumbnail": "https://i.ytimg.com/vi/pgy3TMylTnA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-2RlEkKRE4rHioSLVFvcLms_TsQ",
+      "duration_seconds": 1181,
+      "view_count": 206408,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=pgy3TMylTnA"
+    },
+    {
+      "video_id": "hA98C-6rATk",
+      "title": "Will Middle Managers Exist Next Year?",
+      "channel": "Full Disclosure",
+      "thumbnail": "https://i.ytimg.com/vi/hA98C-6rATk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAv1-j0kR6XbYRyJAoUxnR1O2xUKQ",
+      "duration_seconds": 1054,
+      "view_count": 107185,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=hA98C-6rATk"
+    },
+    {
+      "video_id": "i3xmTvslN2I",
+      "title": "Bad News for PMPs—The Future Looks Uncertain, Here’s How to Stay Employed",
+      "channel": "Andrew Ramdayal",
+      "thumbnail": "https://i.ytimg.com/vi/i3xmTvslN2I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUaBvZADrKN6i79hxO929eHc9jKg",
+      "duration_seconds": 744,
+      "view_count": 75688,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=i3xmTvslN2I"
+    },
+    {
+      "video_id": "ERdymR1Fbkg",
+      "title": "Can Artificial Intelligence replace humans or not? | Group discussion in English | Titanium English",
+      "channel": "Mukesh Janwa English Trainer",
+      "thumbnail": "https://i.ytimg.com/vi/ERdymR1Fbkg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBBRo4jFCBZN0I7yDYmlEopG0sggg",
+      "duration_seconds": 394,
+      "view_count": 74830,
+      "upload_date": "3 years ago",
+      "url": "https://www.youtube.com/watch?v=ERdymR1Fbkg"
+    },
+    {
+      "video_id": "ECvQmfwVDJc",
+      "title": "Project Managers in the Age of AI (HONE THESE SKILLS!)",
+      "channel": "Adriana Girdler",
+      "thumbnail": "https://i.ytimg.com/vi/ECvQmfwVDJc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJN1EKBII3nEod1YA2aWK0bsBtUw",
+      "duration_seconds": 662,
+      "view_count": 36414,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=ECvQmfwVDJc"
+    },
+    {
+      "video_id": "f-6wAvkaO-g",
+      "title": "AI and Leadership: The Smart Way for Managers to Use Artificial Intelligence | 2025",
+      "channel": "David Burkus",
+      "thumbnail": "https://i.ytimg.com/vi/f-6wAvkaO-g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtW5JN6yRQ6mR1gFf0qpkzlD31RA",
+      "duration_seconds": 698,
+      "view_count": 10567,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=f-6wAvkaO-g"
+    },
+    {
+      "video_id": "fkPb4oOZvFU",
+      "title": "Will AI Replace Project Managers?",
+      "channel": "The Digital Project Manager",
+      "thumbnail": "https://i.ytimg.com/vi/fkPb4oOZvFU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDG2_VmO8lORDcEW4tRhUisZssHWQ",
+      "duration_seconds": 458,
+      "view_count": 9307,
+      "upload_date": "2 years ago",
+      "url": "https://www.youtube.com/watch?v=fkPb4oOZvFU"
+    },
+    {
+      "video_id": "ypicIkaiViM",
+      "title": "AI & future of workforce: Andrew Yang on how the technology will impact jobs",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/ypicIkaiViM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCc_CJkDLREGH4Blb4gagmv8_3ntQ",
+      "duration_seconds": 470,
+      "view_count": 951938,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=ypicIkaiViM"
+    },
+    {
+      "video_id": "EDb37y_MhRw",
+      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/EDb37y_MhRw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlsykKeIb-4tjRnxgOC1D56PbmvA",
+      "duration_seconds": 439,
+      "view_count": 875178,
+      "upload_date": "9 months ago",
+      "url": "https://www.youtube.com/watch?v=EDb37y_MhRw"
+    },
+    {
+      "video_id": "kkYQ0y9CGTU",
+      "title": "I Tested 500+ AI Tools, These 10 Will Make You Rich",
+      "channel": "Dan Martell",
+      "thumbnail": "https://i.ytimg.com/vi/kkYQ0y9CGTU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxLdBY7t_gWRdFzzY1SMaP2scInQ",
+      "duration_seconds": 1156,
+      "view_count": 816949,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=kkYQ0y9CGTU"
+    },
+    {
+      "video_id": "w4rG5GY9IlA",
+      "title": "Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU",
+      "channel": "TEDx Talks",
+      "thumbnail": "https://i.ytimg.com/vi/w4rG5GY9IlA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuUq8Owa8HDrFI_Pe5JV1Fj3Rwwg",
+      "duration_seconds": 747,
+      "view_count": 581097,
+      "upload_date": "5 months ago",
+      "url": "https://www.youtube.com/watch?v=w4rG5GY9IlA"
+    },
+    {
+      "video_id": "Ab1FyDL4HEY",
+      "title": "High-income AI business ideas for 2025 (no coding, no budget)",
+      "channel": "Silicon Valley Girl",
+      "thumbnail": "https://i.ytimg.com/vi/Ab1FyDL4HEY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4gjMirwTxf-1ndCXkzAVf34HugA",
+      "duration_seconds": 1089,
+      "view_count": 231705,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=Ab1FyDL4HEY"
+    },
+    {
+      "video_id": "QOKLW5ITEiI",
+      "title": "The future of AI, work, and human potential | Lars Thomsen | TEDxHWZ",
+      "channel": "TEDx Talks",
+      "thumbnail": "https://i.ytimg.com/vi/QOKLW5ITEiI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfoaF0E_KBKRMozyhSOvA_vAUQkA",
+      "duration_seconds": 966,
+      "view_count": 100637,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=QOKLW5ITEiI"
+    },
+    {
+      "video_id": "QOX_vzMVVGU",
+      "title": "How AI Will DESTROY the $5.75 Trillion Software Industry",
+      "channel": "John Zheng - The Automated Founder",
+      "thumbnail": "https://i.ytimg.com/vi/QOX_vzMVVGU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBa_6M1GFBfWyayxlUOYQ6GEBWZhA",
+      "duration_seconds": 1124,
+      "view_count": 75299,
+      "upload_date": "6 months ago",
+      "url": "https://www.youtube.com/watch?v=QOX_vzMVVGU"
+    },
+    {
+      "video_id": "AAQCtkZjG8A",
+      "title": "Top 4 AI Legal Tools Revolutionizing 2025 🔥 | The Future of Legal Tech",
+      "channel": "Exploding Topics",
+      "thumbnail": "https://i.ytimg.com/vi/AAQCtkZjG8A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3pfJNC2hdCux4w3I72x_OmLekjQ",
+      "duration_seconds": 483,
+      "view_count": 45146,
+      "upload_date": "1 year ago",
+      "url": "https://www.youtube.com/watch?v=AAQCtkZjG8A"
+    },
+    {
+      "video_id": "aHRp1CGG40s",
+      "title": "The FUTURE of FP&A: 7 AI Hacks Your Team MUST Adopt in 2025",
+      "channel": "Bojan Radojicic",
+      "thumbnail": "https://i.ytimg.com/vi/aHRp1CGG40s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCf-0ur-N-_WaJUJLxXngRV7HbrZA",
+      "duration_seconds": 673,
+      "view_count": 4318,
+      "upload_date": "3 months ago",
+      "url": "https://www.youtube.com/watch?v=aHRp1CGG40s"
+    },
+    {
+      "video_id": "jMUqdy1jZWg",
+      "title": "The AI Enabled Insights Team of the Future",
+      "channel": "Market Research Institute International",
+      "thumbnail": "https://i.ytimg.com/vi/jMUqdy1jZWg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDw8-osgEzaLazJSkomtOeb39FWWg",
+      "duration_seconds": 300,
+      "view_count": 2990,
+      "upload_date": "7 months ago",
+      "url": "https://www.youtube.com/watch?v=jMUqdy1jZWg"
+    }
+  ],
+  "selected_videos": [
+    {
+      "video_id": "C0W4H6jMLKg",
+      "title": "Why Middle Management is the Hardest Job | Simon Sinek",
+      "channel": "Simon Sinek",
+      "thumbnail": "https://i.ytimg.com/vi/C0W4H6jMLKg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkpkrmVAS4iACdYXGqaLg8HNul1A",
+      "duration_seconds": 276,
+      "url": "https://www.youtube.com/watch?v=C0W4H6jMLKg",
+      "classification": "Foundational",
+      "why_selected": "To understand the intrinsic role and challenges of middle management in organizational hierarchies before assessing how AI might disrupt it. Simon Sinek provides a human-centered leadership framework that emphasizes trust, communication, and psychological safety—core functions that may be threatened or transformed by AI.",
+      "fills_gap": "Provides a foundational understanding of the purpose of middle managers beyond administrative tasks—emotional intelligence, team cohesion, and translating strategy into action—which helps assess what AI can and cannot replace."
+    },
+    {
+      "video_id": "yic4ImNSE3w",
+      "title": "How AI Is Replacing Middle-Class Careers",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/yic4ImNSE3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB7APHQMcJ5Lhby8T9BOb717fPJrA",
+      "duration_seconds": 533,
+      "url": "https://www.youtube.com/watch?v=yic4ImNSE3w",
+      "classification": "Direct",
+      "why_selected": "This video offers a focused analysis on how AI is already automating cognitive, routine-based white-collar jobs—many of which are held by middle managers. It likely includes real-world examples and data on displacement trends.",
+      "fills_gap": "Adds empirical evidence and current case studies showing which managerial functions (e.g., reporting, scheduling, performance tracking) are most vulnerable to automation, grounding the research in observable impact."
+    },
+    {
+      "video_id": "QXAXNcRs7gQ",
+      "title": "Is McKinsey losing its crown to AI?",
+      "channel": "The Economist",
+      "thumbnail": "https://i.ytimg.com/vi/QXAXNcRs7gQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDX4F5RVz5FEa-gT-PW4k0_RRmp9w",
+      "duration_seconds": 444,
+      "url": "https://www.youtube.com/watch?v=QXAXNcRs7gQ",
+      "classification": "Direct",
+      "why_selected": "This video uses a high-profile example—the potential disruption of elite consulting firms like McKinsey—to explore how AI tools can replicate strategic analysis, data synthesis, and recommendation engines traditionally delivered by senior advisors and middle-tier consultants.",
+      "fills_gap": "Illustrates how AI impacts knowledge-intensive, high-skill roles typically seen as 'safe,' showing that even sophisticated analytical work in hierarchical organizations is at risk, reshaping team composition and value chains."
+    },
+    {
+      "video_id": "pgy3TMylTnA",
+      "title": "5 AI Tools That Will Replace 99% of Project Management Work - AI for Project Managers | PMPwithRay",
+      "channel": "PMPwithRay",
+      "thumbnail": "https://i.ytimg.com/vi/pgy3TMylTnA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-2RlEkKRE4rHioSLVFvcLms_TsQ",
+      "duration_seconds": 1181,
+      "url": "https://www.youtube.com/watch?v=pgy3TMylTnA",
+      "classification": "Direct",
+      "why_selected": "Offers concrete examples of AI tools automating core project management tasks such as scheduling, risk assessment, status reporting, and resource allocation—functions central to many middle managers’ daily work.",
+      "fills_gap": "Provides technical specificity about *how* AI integrates into workflows, helping distinguish between augmentation vs. replacement and identifying which tasks are being offloaded from humans."
+    },
+    {
+      "video_id": "hA98C-6rATk",
+      "title": "Will Middle Managers Exist Next Year?",
+      "channel": "Full Disclosure",
+      "thumbnail": "https://i.ytimg.com/vi/hA98C-6rATk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAv1-j0kR6XbYRyJAoUxnR1O2xUKQ",
+      "duration_seconds": 1054,
+      "url": "https://www.youtube.com/watch?v=hA98C-6rATk",
+      "classification": "Direct",
+      "why_selected": "Despite the hyperbolic title, the length and view count suggest a substantive exploration of near-term risks to middle management. Likely covers corporate restructuring trends, AI adoption rates, and interviews with professionals experiencing these changes firsthand.",
+      "fills_gap": "Adds urgency and timeliness, focusing on real companies potentially eliminating layers of management through AI-driven efficiency gains—direct insight into evolving team structures."
+    },
+    {
+      "video_id": "ypicIkaiViM",
+      "title": "AI & future of workforce: Andrew Yang on how the technology will impact jobs",
+      "channel": "CNBC Television",
+      "thumbnail": "https://i.ytimg.com/vi/ypicIkaiViM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCc_CJkDLREGH4Blb4gagmv8_3ntQ",
+      "duration_seconds": 470,
+      "url": "https://www.youtube.com/watch?v=ypicIkaiViM",
+      "classification": "Foundational",
+      "why_selected": "Andrew Yang brings a policy-oriented, humanistic perspective on technological unemployment. As a former presidential candidate who championed universal basic income due to automation threats, his insights connect AI’s impact to broader socioeconomic implications.",
+      "fills_gap": "Introduces ethical, societal, and political dimensions—such as inequality and worker retraining—that are essential for understanding long-term organizational responses to AI-driven structural change."
+    },
+    {
+      "video_id": "EDb37y_MhRw",
+      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+      "channel": "IBM Technology",
+      "thumbnail": "https://i.ytimg.com/vi/EDb37y_MhRw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlsykKeIb-4tjRnxgOC1D56PbmvA",
+      "duration_seconds": 439,
+      "url": "https://www.youtube.com/watch?v=EDb37y_MhRw",
+      "classification": "Foundational",
+      "why_selected": "IBM is a leader in enterprise AI. This video clarifies key technical distinctions—especially 'agentic' AI capable of autonomous decision-making—which directly affects whether AI systems can manage teams or coordinate complex projects independently.",
+      "fills_gap": "Provides conceptual clarity on AI capabilities (generative vs. goal-directed), enabling better judgment about what future organizational roles AI could realistically assume versus where human oversight remains necessary."
+    },
+    {
+      "video_id": "p1yCOdp2vs0",
+      "title": "Jobs AI Will Never Replace, Study Finds",
+      "channel": "Economy Media",
+      "thumbnail": "https://i.ytimg.com/vi/p1yCOdp2vs0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDGlYF5TKFSfO2y1pTjgninWkn3fw",
+      "duration_seconds": 496,
+      "url": "https://www.youtube.com/watch?v=p1yCOdp2vs0",
+      "classification": "Contrarian",
+      "why_selected": "This serves as a counterbalance to alarmist narratives. By highlighting roles requiring empathy, creativity, moral reasoning, and adaptive leadership, it identifies enduring human advantages in management—particularly relevant to middle managers acting as cultural carriers and conflict mediators.",
+      "fills_gap": "Challenges assumptions that all managerial work is automatable; reinforces the idea that while transactional tasks may vanish, relational and strategic leadership may become more valuable."
+    }
+  ],
+  "status_updates": [
+    {
+      "timestamp": "2026-01-22T09:11:30.355Z",
+      "status": "processing",
+      "progress": 10,
+      "message": "Processing..."
+    },
+    {
+      "timestamp": "2026-01-22T09:11:35.368Z",
+      "status": "processing",
+      "progress": 20,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:11:40.384Z",
+      "status": "processing",
+      "progress": 20,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:11:45.394Z",
+      "status": "processing",
+      "progress": 20,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:11:50.414Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:11:55.433Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:00.443Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:05.462Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:10.472Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:15.484Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:20.494Z",
+      "status": "processing",
+      "progress": 40,
+      "message": "Generated 5 search queries. Searching for videos..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:25.518Z",
+      "status": "fetching",
+      "progress": 55,
+      "message": "Selected 8 videos. Fetching transcripts..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:30.534Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:35.552Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:40.576Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:45.596Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:50.610Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:12:55.629Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:00.646Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:05.663Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:10.684Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:15.703Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:20.731Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:25.747Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:30.771Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:35.783Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:40.806Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:45.817Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:50.835Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:13:55.851Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:00.870Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:05.888Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:10.912Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:15.922Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:20.939Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:25.956Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:30.974Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:35.991Z",
+      "status": "generating",
+      "progress": 70,
+      "message": "Generating comprehensive research summary..."
+    },
+    {
+      "timestamp": "2026-01-22T09:14:41.012Z",
+      "status": "completed",
+      "progress": 100,
+      "message": "Research completed successfully"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "header": {
+    "title": "Convierte horas de video en minutos de lectura",
+    "subtitle": "Resume múltiples videos de YouTube con IA. Obtén información completa en tu estilo e idioma preferidos."
+  },
+  "form": {
+    "title": "Generador de resúmenes de YouTube",
+    "urlLabel": "URLs de YouTube",
+    "urlPlaceholder": "Pega enlaces de YouTube aquí (uno por línea)...",
+    "promptPresets": "Presets de indicaciones",
+    "expandStyles": "Más",
+    "collapseStyles": "Menos",
+    "expandStylesAria": "Expandir detalles de estilo",
+    "collapseStylesAria": "Contraer detalles de estilo",
+    "bestFor": "Ideal para",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "Puntos clave",
+      "deep_dive": "Análisis profundo",
+      "tutorial": "Tutorial",
+      "detailed": "Detallado"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "Resumen ultra-conciso que comienza con la conclusión principal. Perfecto para escaneo rápido y lectura móvil.",
+        "bestFor": "Resúmenes rápidos, usuarios móviles, ejecutivos, lectores con poco tiempo",
+        "characteristics": [
+          "Máximo 100 palabras",
+          "Comienza con la respuesta (Principio de Pirámide)",
+          "Pasa la Prueba de Twitter (idea central en 280 caracteres)",
+          "Título en negrita con datos concretos"
+        ]
+      },
+      "bullet_points": {
+        "name": "Puntos clave",
+        "framework": "Formato Smart Brevity",
+        "description": "Puntos clave escaneables en formato estructurado. Resumen principal seguido de viñetas priorizadas con detalles concretos.",
+        "bestFor": "Notas de reunión, referencia rápida, conclusiones escaneables, compartir con el equipo",
+        "characteristics": [
+          "Máximo 500 palabras",
+          "Formato de resumen principal",
+          "Viñetas priorizadas",
+          "Cada viñeta pasa la prueba \"¿y qué?\""
+        ]
+      },
+      "tutorial": {
+        "name": "Tutorial",
+        "framework": "Extracto de TED Talk + Pensamiento Visual",
+        "description": "Guía paso a paso con ejemplos de código y analogías visuales. Extrae la \"única técnica que vale la pena aprender\" con instrucciones accionables.",
+        "bestFor": "Contenido instructivo, tutoriales de código, guías técnicas, aprender nuevas habilidades",
+        "characteristics": [
+          "Máximo 1500 palabras",
+          "Idea central con analogía",
+          "Paso a paso con fragmentos de código",
+          "Trampas comunes destacadas",
+          "Se puede replicar sin ver el video"
+        ]
+      },
+      "detailed": {
+        "name": "Detallado",
+        "framework": "Método McKinsey + Principio de Pirámide",
+        "description": "Resumen completo estilo artículo con resumen ejecutivo, secciones estructuradas y recomendaciones accionables. Diseñado para reemplazar ver todos los videos.",
+        "bestFor": "Análisis completo, decisiones estratégicas, reemplazar visualización de videos, investigación en profundidad",
+        "characteristics": [
+          "Máximo 3000 palabras",
+          "Resumen ejecutivo (independiente)",
+          "Estructura Situación-Complicación-Resolución",
+          "Cada sección comienza con conclusión",
+          "Sección de análisis separada"
+        ]
+      },
+      "deep_dive": {
+        "name": "Análisis profundo",
+        "framework": "Estructura de Artículo de Investigación + Método McKinsey",
+        "description": "Análisis técnico profundo con análisis completo, puntos de referencia de rendimiento y múltiples enfoques de implementación. Máxima profundidad y detalle.",
+        "bestFor": "Análisis técnico, evaluación de rendimiento, discusiones de compensaciones, detalle a nivel de investigación",
+        "characteristics": [
+          "Máximo 3000 palabras",
+          "Ejemplos de código extensos",
+          "Puntos de referencia de rendimiento",
+          "Múltiples enfoques de implementación",
+          "Discusiones de compensaciones"
+        ]
+      }
+    },
+    "customPrompt": "Indicación personalizada",
+    "customPromptPlaceholder": "Agrega instrucciones o requisitos específicos para el resumen...",
+    "customPromptHelper": "Opcional: Agrega instrucciones personalizadas para personalizar la salida del resumen",
+    "language": "Idioma",
+    "submitButton": "Generar resumen",
+    "processing": "Procesando...",
+    "starting": "Iniciando...",
+    "summarize": "Resumir"
+  },
+  "urlValidation": {
+    "validLinks": "Se detectaron {{count}} {{count, plural, one {enlace válido} other {enlaces válidos}}}",
+    "invalidLinks": "{{count}} {{count, plural, one {enlace inválido} other {enlaces inválidos}}}",
+    "invalidLinksWithLines": "{{count}} {{count, plural, one {enlace inválido} other {enlaces inválidos}}} ({{count, plural, one {línea} other {líneas}}} {{lines}})",
+    "invalidTooltip": "Se detectaron {{count, plural, one {URL de YouTube inválida} other {URLs de YouTube inválidas}}}. Por favor, verifica el formato.",
+    "ariaLabel": "Entrada de URLs de YouTube"
+  },
+  "language": {
+    "default": "Predeterminado (Tu preferencia)",
+    "english": "Inglés",
+    "spanish": "Español",
+    "french": "Francés",
+    "german": "Alemán",
+    "chineseSimplified": "Chino (Simplificado)",
+    "chineseTraditional": "Chino (Tradicional)",
+    "japanese": "Japonés",
+    "korean": "Coreano",
+    "portuguese": "Portugués",
+    "italian": "Italiano",
+    "russian": "Ruso",
+    "arabic": "Árabe"
+  },
+  "messages": {
+    "pasteUrl": "Pega al menos una URL de YouTube para continuar",
+    "selectPreset": "Por favor, selecciona un preset de indicación para continuar"
+  },
+  "tooltips": {
+    "urlInput": "Pega uno o más URLs de YouTube aquí, uno por línea. El sistema validará cada URL automáticamente.",
+    "controlPanel": "Selecciona un preset de indicación para personalizar cómo se genera el resumen. También puedes agregar instrucciones personalizadas para requisitos específicos."
+  },
+  "errors": {
+    "configLoadFailed": "Error al cargar la configuración",
+    "retry": "Reintentar"
+  },
+  "result": {
+    "sourceVideos": "Videos fuente",
+    "viewOnYouTube": "Ver en YouTube",
+    "noImage": "Sin imagen",
+    "showLess": "Mostrar menos",
+    "showMore": "{{count}} más",
+    "videoAnalyzed": "{{count, plural, one {# Video} other {# Videos}}} analizado(s)",
+    "summary": "Resumen"
+  },
+  "buttons": {
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "copiedExclamation": "¡Copiado!",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "newBatch": "Nuevo lote",
+    "export": "Exportar",
+    "exporting": "Exportando...",
+    "delete": "Eliminar",
+    "deleting": "Eliminando..."
+  },
+  "tooltips": {
+    "waitForCompletion": "Espere a que se complete el resumen",
+    "summaryNotAvailable": "Resumen no disponible",
+    "saving": "Guardando...",
+    "saveToLibrary": "Guardar en la biblioteca",
+    "collapseVideos": "Contraer videos",
+    "showMoreVideos": "Mostrar {{count}} videos más"
+  },
+  "toasts": {
+    "copiedToClipboard": "¡Copiado al portapapeles!",
+    "failedToCopy": "Error al copiar al portapapeles",
+    "cannotSaveNotAvailable": "No se puede guardar: Resumen no disponible",
+    "waitForCompletion": "Por favor, espere a que se complete el resumen antes de guardar",
+    "cannotSaveMissingContent": "No se puede guardar: Falta el contenido del resumen",
+    "savedToLibrary": "Guardado en la biblioteca",
+    "failedToSave": "Error al guardar el resumen",
+    "summaryDeleted": "Resumen eliminado",
+    "failedToDelete": "Error al eliminar el resumen",
+    "summaryExported": "¡Resumen exportado!",
+    "failedToExport": "Error al exportar el resumen"
+  },
+  "metadata": {
+    "processedIn": "Procesado en {{seconds}}s",
+    "video": "video",
+    "videos": "videos"
+  },
+  "deleteDialog": {
+    "title": "Eliminar resumen",
+    "description": "¿Está seguro de que desea eliminar este resumen? Esta acción no se puede deshacer.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar"
+  }
+}

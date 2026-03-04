@@ -1,0 +1,184 @@
+{
+  "header": {
+    "title": "Verwandeln Sie Stunden von Videos in Minuten des Lesens",
+    "subtitle": "Fassen Sie mehrere YouTube-Videos mit KI zusammen. Erhalten Sie umfassende Einblicke in Ihrem bevorzugten Stil und Ihrer Sprache."
+  },
+  "form": {
+    "title": "YouTube-Zusammenfassungsgenerator",
+    "urlLabel": "YouTube-URLs",
+    "urlPlaceholder": "YouTube-Links hier einfügen (einer pro Zeile)...",
+    "promptPresets": "Eingabeaufforderungs-Voreinstellungen",
+    "expandStyles": "Mehr",
+    "collapseStyles": "Weniger",
+    "expandStylesAria": "Stildetails erweitern",
+    "collapseStylesAria": "Stildetails reduzieren",
+    "bestFor": "Ideal für",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "Stichpunkte",
+      "deep_dive": "Tiefenanalyse",
+      "tutorial": "Tutorial",
+      "detailed": "Detailliert"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "Ultra-knappe Zusammenfassung, die mit der Hauptschlussfolgerung beginnt. Perfekt für schnelles Scannen und mobiles Lesen.",
+        "bestFor": "Schnelle Überblicke, mobile Nutzer, Führungskräfte, zeitlich eingeschränkte Leser",
+        "characteristics": [
+          "Maximal 100 Wörter",
+          "Beginnt mit der Antwort (Pyramidenprinzip)",
+          "Besteht den Twitter-Test (Kernidee in 280 Zeichen)",
+          "Fettgedruckte Überschrift mit konkreten Daten"
+        ]
+      },
+      "bullet_points": {
+        "name": "Stichpunkte",
+        "framework": "Smart Brevity Format",
+        "description": "Scannbare Hauptpunkte im strukturierten Format. Hauptzusammenfassung gefolgt von priorisierten Aufzählungspunkten mit konkreten Details.",
+        "bestFor": "Besprechungsnotizen, schnelle Referenz, scannbare Erkenntnisse, Team-Sharing",
+        "characteristics": [
+          "Maximal 500 Wörter",
+          "Hauptzusammenfassungsformat",
+          "Priorisierte Aufzählungspunkte",
+          "Jeder Punkt besteht den \"Na und?\"-Test"
+        ]
+      },
+      "tutorial": {
+        "name": "Tutorial",
+        "framework": "TED Talk Extrakt + Visuelles Denken",
+        "description": "Schritt-für-Schritt-Anleitung mit Code-Beispielen und visuellen Analogien. Extrahiert die \"eine Technik, die es wert ist, gelernt zu werden\" mit umsetzbaren Anweisungen.",
+        "bestFor": "Anleitungsinhalte, Code-Tutorials, technische Leitfäden, Erlernen neuer Fähigkeiten",
+        "characteristics": [
+          "Maximal 1500 Wörter",
+          "Kernidee mit Analogie",
+          "Schritt-für-Schritt mit Code-Snippets",
+          "Häufige Fallstricke hervorgehoben",
+          "Kann ohne Video angesehen zu haben repliziert werden"
+        ]
+      },
+      "detailed": {
+        "name": "Detailliert",
+        "framework": "McKinsey-Methode + Pyramidenprinzip",
+        "description": "Umfassende artikelartige Zusammenfassung mit Executive Summary, strukturierten Abschnitten und umsetzbaren Empfehlungen. Entwickelt, um das Ansehen aller Videos zu ersetzen.",
+        "bestFor": "Umfassende Analyse, strategische Entscheidungen, Ersatz für Video-Ansicht, eingehende Recherche",
+        "characteristics": [
+          "Maximal 3000 Wörter",
+          "Executive Summary (eigenständig)",
+          "Situation-Komplikation-Lösung-Struktur",
+          "Jeder Abschnitt beginnt mit einer Schlussfolgerung",
+          "Separater Analyseabschnitt"
+        ]
+      },
+      "deep_dive": {
+        "name": "Tiefenanalyse",
+        "framework": "Forschungsartikel-Struktur + McKinsey-Methode",
+        "description": "Technische Tiefenanalyse mit umfassender Analyse, Performance-Benchmarks und mehreren Implementierungsansätzen. Maximale Tiefe und Detail.",
+        "bestFor": "Technische Analyse, Leistungsbewertung, Abwägungsdiskussionen, Forschungsniveau-Detail",
+        "characteristics": [
+          "Maximal 3000 Wörter",
+          "Umfangreiche Code-Beispiele",
+          "Performance-Benchmarks",
+          "Mehrere Implementierungsansätze",
+          "Abwägungsdiskussionen"
+        ]
+      }
+    },
+    "customPrompt": "Benutzerdefinierte Eingabeaufforderung",
+    "customPromptPlaceholder": "Fügen Sie spezifische Anweisungen oder Anforderungen für die Zusammenfassung hinzu...",
+    "customPromptHelper": "Optional: Fügen Sie benutzerdefinierte Anweisungen hinzu, um die Zusammenfassungsausgabe anzupassen",
+    "language": "Sprache",
+    "submitButton": "Zusammenfassung generieren",
+    "processing": "Wird verarbeitet...",
+    "starting": "Wird gestartet...",
+    "summarize": "Zusammenfassen"
+  },
+  "urlValidation": {
+    "validLinks": "{{count}} {{count, plural, one {gültiger Link} other {gültige Links}}} erkannt",
+    "invalidLinks": "{{count}} {{count, plural, one {ungültiger Link} other {ungültige Links}}}",
+    "invalidLinksWithLines": "{{count}} {{count, plural, one {ungültiger Link} other {ungültige Links}}} ({{count, plural, one {Zeile} other {Zeilen}}} {{lines}})",
+    "invalidTooltip": "Ungültige {{count, plural, one {YouTube-URL} other {YouTube-URLs}}} erkannt. Bitte überprüfen Sie das Format.",
+    "ariaLabel": "YouTube-URLs-Eingabe"
+  },
+  "language": {
+    "default": "Standard (Ihre Präferenz)",
+    "english": "Englisch",
+    "spanish": "Spanisch",
+    "french": "Französisch",
+    "german": "Deutsch",
+    "chineseSimplified": "Chinesisch (Vereinfacht)",
+    "chineseTraditional": "Chinesisch (Traditionell)",
+    "japanese": "Japanisch",
+    "korean": "Koreanisch",
+    "portuguese": "Portugiesisch",
+    "italian": "Italienisch",
+    "russian": "Russisch",
+    "arabic": "Arabisch"
+  },
+  "messages": {
+    "pasteUrl": "Fügen Sie mindestens eine YouTube-URL ein, um fortzufahren",
+    "selectPreset": "Bitte wählen Sie eine Eingabeaufforderungs-Voreinstellung aus, um fortzufahren"
+  },
+  "tooltips": {
+    "urlInput": "Fügen Sie hier einen oder mehrere YouTube-URLs ein, eine pro Zeile. Das System validiert jede URL automatisch.",
+    "controlPanel": "Wählen Sie eine Eingabeaufforderungs-Voreinstellung aus, um anzupassen, wie die Zusammenfassung generiert wird. Sie können auch benutzerdefinierte Anweisungen für spezifische Anforderungen hinzufügen."
+  },
+  "errors": {
+    "configLoadFailed": "Fehler beim Laden der Konfiguration",
+    "retry": "Wiederholen"
+  },
+  "result": {
+    "sourceVideos": "Quellvideos",
+    "viewOnYouTube": "Auf YouTube ansehen",
+    "noImage": "Kein Bild",
+    "showLess": "Weniger anzeigen",
+    "showMore": "{{count}} weitere",
+    "videoAnalyzed": "{{count, plural, one {# Video} other {# Videos}}} analysiert",
+    "summary": "Zusammenfassung"
+  },
+  "buttons": {
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+    "copiedExclamation": "Kopiert!",
+    "save": "Speichern",
+    "saving": "Wird gespeichert...",
+    "newBatch": "Neuer Batch",
+    "export": "Exportieren",
+    "exporting": "Wird exportiert...",
+    "delete": "Löschen",
+    "deleting": "Wird gelöscht..."
+  },
+  "tooltips": {
+    "waitForCompletion": "Warten Sie, bis die Zusammenfassung abgeschlossen ist",
+    "summaryNotAvailable": "Zusammenfassung nicht verfügbar",
+    "saving": "Wird gespeichert...",
+    "saveToLibrary": "In Bibliothek speichern",
+    "collapseVideos": "Videos reduzieren",
+    "showMoreVideos": "{{count}} weitere Videos anzeigen"
+  },
+  "toasts": {
+    "copiedToClipboard": "In Zwischenablage kopiert!",
+    "failedToCopy": "Fehler beim Kopieren in die Zwischenablage",
+    "cannotSaveNotAvailable": "Kann nicht speichern: Zusammenfassung nicht verfügbar",
+    "waitForCompletion": "Bitte warten Sie, bis die Zusammenfassung abgeschlossen ist, bevor Sie speichern",
+    "cannotSaveMissingContent": "Kann nicht speichern: Zusammenfassungsinhalt fehlt",
+    "savedToLibrary": "In Bibliothek gespeichert",
+    "failedToSave": "Fehler beim Speichern der Zusammenfassung",
+    "summaryDeleted": "Zusammenfassung gelöscht",
+    "failedToDelete": "Fehler beim Löschen der Zusammenfassung",
+    "summaryExported": "Zusammenfassung exportiert!",
+    "failedToExport": "Fehler beim Exportieren der Zusammenfassung"
+  },
+  "metadata": {
+    "processedIn": "Verarbeitet in {{seconds}}s",
+    "video": "Video",
+    "videos": "Videos"
+  },
+  "deleteDialog": {
+    "title": "Zusammenfassung löschen",
+    "description": "Sind Sie sicher, dass Sie diese Zusammenfassung löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Löschen"
+  }
+}

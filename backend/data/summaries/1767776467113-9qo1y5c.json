@@ -1,0 +1,29 @@
+{
+  "id": "1767776467113-9qo1y5c",
+  "user_id": "dev-user-id",
+  "job_id": "dcfcaf5c-34d4-4bd4-af16-c9be149b8b74",
+  "batch_title": "Heartopia: Cozy Life Sim with Free Full Access",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=rT1ZtsSkiw0, https://www.youtube.com/watch?v=MnJWQfrlBgk",
+      "title": "I'm OBSESSED with this game!!⭐Heartopia",
+      "channel": "froggycrossing",
+      "thumbnail": "https://i.ytimg.com/vi/rT1ZtsSkiw0/maxresdefault.jpg",
+      "duration_seconds": 575,
+      "word_count": 2788,
+      "was_pre_condensed": false,
+      "video_id": "rT1ZtsSkiw0"
+    }
+  ],
+  "preset_style": "tldr",
+  "final_summary_text": "tldr:  \nHearttopia is a free-to-play cozy multiplayer life sim with deep customization, five core hobbies (cooking, gardening, fishing, bug catching, and bird watching), and robust social features like co-building homes, party play, and friendship progression (Video: I'm OBSESSED with this game!!⭐Heartopia). While it includes gacha-style seasonal banners requiring currency or money, all core gameplay—including housing, character customization, and progression—is fully accessible for free. The game also features dynamic environments, pet adoption and breeding, and resident quests crucial for upgrading your guild level and unlocking key content.",
+  "language": "English",
+  "processing_stats": {
+    "total_videos": 1,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 14
+  },
+  "created_at": "2026-01-07T09:01:07.113Z",
+  "updated_at": "2026-01-07T09:01:07.115Z"
+}

@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "Loading shared research...",
+    "error": "Unable to load shared research",
+    "errorMessage": "An error occurred while loading this shared research.",
+    "shareIdRequired": "Share ID is required"
+  },
+  "metadata": {
+    "sharedOn": "Shared on {{date}}",
+    "viewed": "Viewed {{count}} {{count, plural, one {time} other {times}}}"
+  },
+  "footer": {
+    "createResearch": "Create your own research",
+    "poweredBy": "Powered by <brand>Video Research</brand>"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1767859765595-1rorbo2",
+  "user_id": "dev-user-id",
+  "job_id": "aeaeeaf1-07b8-4a06-be87-4da22679235d",
+  "batch_title": "Cozy Life Sim: Customize, Build, and Explore in Heartopia",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=rT1ZtsSkiw0",
+      "title": "I'm OBSESSED with this game!!⭐Heartopia",
+      "channel": "froggycrossing",
+      "thumbnail": "https://i.ytimg.com/vi/rT1ZtsSkiw0/maxresdefault.jpg",
+      "duration_seconds": 575,
+      "word_count": 1634,
+      "was_pre_condensed": false,
+      "video_id": "rT1ZtsSkiw0"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MnJWQfrlBgk",
+      "title": "WATCH THIS BEFORE YOU PLAY HEARTOPIA! Complete Guide for Full Release",
+      "channel": "cozy cyber",
+      "thumbnail": "https://i.ytimg.com/vi/MnJWQfrlBgk/maxresdefault.jpg",
+      "duration_seconds": 743,
+      "word_count": 2788,
+      "was_pre_condensed": false,
+      "video_id": "MnJWQfrlBgk"
+    }
+  ],
+  "preset_style": "tldr",
+  "final_summary_text": "tldr: Heartopia is a free-to-play cozy life simulation game (Video: I'm OBSESSED with this game!!⭐Heartopia) featuring deep customization, multiplayer co-building, and five core hobbies—fishing, gardening, bug catching with a bubble wand, bird watching with photo scoring, and cooking with burnable dishes (Video: WATCH THIS BEFORE YOU PLAY HEARTOPIA!). You can fully customize homes internally and externally, adopt uniquely-featured pets, explore diverse biomes with dynamic weather, and complete daily/weekly resident requests to upgrade your guild level—all without paywall-blocked core mechanics, though seasonal gacha banners are available (Video: WATCH THIS BEFORE YOU PLAY HEARTOPIA!).",
+  "language": "English",
+  "processing_stats": {
+    "total_videos": 2,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 18
+  },
+  "created_at": "2026-01-08T08:09:25.595Z",
+  "updated_at": "2026-01-08T08:09:25.597Z"
+}

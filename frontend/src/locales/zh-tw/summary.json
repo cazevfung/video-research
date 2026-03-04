@@ -1,0 +1,131 @@
+{
+  "header": {
+    "title": "將數小時的影片轉化為幾分鐘的閱讀",
+    "subtitle": "使用AI批量總結多個YouTube影片。以您喜歡的風格和語言獲得全面的見解。"
+  },
+  "form": {
+    "title": "YouTube摘要產生器",
+    "urlLabel": "YouTube連結",
+    "urlPlaceholder": "在此貼上YouTube連結（每行一個）...",
+    "promptPresets": "提示預設",
+    "expandStyles": "更多",
+    "collapseStyles": "收起",
+    "expandStylesAria": "展開樣式詳情",
+    "collapseStylesAria": "收起樣式詳情",
+    "bestFor": "適用於",
+    "presetLabels": {
+      "tldr": "TL;DR",
+      "bullet_points": "要點",
+      "deep_dive": "深入分析",
+      "tutorial": "教學",
+      "detailed": "詳細"
+    },
+    "styleDescriptions": {
+      "tldr": {
+        "name": "TL;DR",
+        "framework": "Smart Brevity + Pyramid Principle",
+        "description": "超簡潔摘要，以主要結論開頭。非常適合快速瀏覽和行動裝置閱讀。",
+        "bestFor": "快速概覽、行動使用者、高階主管、時間有限的讀者",
+        "characteristics": [
+          "最多100字",
+          "以答案開頭（金字塔原則）",
+          "通過Twitter測試（核心思想在280字元內）",
+          "加粗標題行，包含具體數據"
+        ]
+      },
+      "bullet_points": {
+        "name": "要點",
+        "framework": "Smart Brevity格式",
+        "description": "結構化格式的可掃描要點。主要摘要後跟帶具體細節的優先要點。",
+        "bestFor": "會議記錄、快速參考、可掃描要點、團隊分享",
+        "characteristics": [
+          "最多500字",
+          "主要摘要格式",
+          "優先要點",
+          "每個要點通過「那又怎樣？」測試"
+        ]
+      },
+      "tutorial": {
+        "name": "教學",
+        "framework": "TED演講提取 + 視覺思維",
+        "description": "帶程式碼範例和視覺類比的逐步指南。提取「值得學習的一種技術」，提供可操作的說明。",
+        "bestFor": "操作指南、程式碼教學、技術指南、學習新技能",
+        "characteristics": [
+          "最多1500字",
+          "核心思想帶類比",
+          "逐步說明帶程式碼片段",
+          "突出常見陷阱",
+          "無需觀看影片即可複製"
+        ]
+      },
+      "detailed": {
+        "name": "詳細",
+        "framework": "麥肯錫方法 + 金字塔原則",
+        "description": "全面的文章式摘要，包含執行摘要、結構化章節和可操作建議。旨在替代觀看所有影片。",
+        "bestFor": "全面分析、戰略決策、替代影片觀看、深入研究",
+        "characteristics": [
+          "最多3000字",
+          "執行摘要（獨立）",
+          "情境-複雜性-解決方案結構",
+          "每個章節以結論開頭",
+          "獨立分析章節"
+        ]
+      },
+      "deep_dive": {
+        "name": "深入分析",
+        "framework": "研究論文結構 + 麥肯錫方法",
+        "description": "技術深度分析，包含全面分析、效能基準和多種實作方法。最大深度和細節。",
+        "bestFor": "技術分析、效能評估、權衡討論、研究級細節",
+        "characteristics": [
+          "最多3000字",
+          "大量程式碼範例",
+          "效能基準",
+          "多種實作方法",
+          "權衡討論"
+        ]
+      }
+    },
+    "customPrompt": "自訂提示",
+    "customPromptPlaceholder": "新增任何特定的說明或要求...",
+    "customPromptHelper": "選用：新增自訂說明以自訂摘要輸出",
+    "language": "語言",
+    "submitButton": "產生摘要",
+    "processing": "處理中...",
+    "starting": "啟動中...",
+    "summarize": "總結"
+  },
+  "urlValidation": {
+    "validLinks": "偵測到{{count}}個有效連結",
+    "invalidLinks": "{{count}}個無效連結",
+    "invalidLinksWithLines": "{{count}}個無效連結（第{{lines}}行）",
+    "invalidTooltip": "偵測到無效的YouTube連結。請檢查格式。",
+    "ariaLabel": "YouTube連結輸入"
+  },
+  "language": {
+    "default": "預設（您的偏好）",
+    "english": "英語",
+    "spanish": "西班牙語",
+    "french": "法語",
+    "german": "德語",
+    "chineseSimplified": "簡體中文",
+    "chineseTraditional": "繁體中文",
+    "japanese": "日語",
+    "korean": "韓語",
+    "portuguese": "葡萄牙語",
+    "italian": "義大利語",
+    "russian": "俄語",
+    "arabic": "阿拉伯語"
+  },
+  "messages": {
+    "pasteUrl": "請至少貼上一個YouTube連結以繼續",
+    "selectPreset": "請選擇一個提示預設以繼續"
+  },
+  "tooltips": {
+    "urlInput": "在此貼上一個或多個YouTube連結，每行一個。系統將自動驗證每個連結。",
+    "controlPanel": "選擇一個提示預設以自訂摘要的產生方式。您也可以新增自訂說明以滿足特定要求。"
+  },
+  "errors": {
+    "configLoadFailed": "載入設定失敗",
+    "retry": "重試"
+  }
+}

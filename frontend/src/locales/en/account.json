@@ -1,0 +1,44 @@
+{
+  "title": "Account",
+  "back": "Back",
+  "sections": {
+    "profile": {
+      "title": "Profile",
+      "description": "Manage your profile information"
+    },
+    "credits": {
+      "title": "Credits",
+      "description": "Your credit balance and usage"
+    },
+    "tier": {
+      "title": "Tier",
+      "description": "Your subscription tier and benefits"
+    },
+    "statistics": {
+      "title": "Statistics",
+      "description": "Your account activity and usage"
+    }
+  },
+  "profile": {
+    "displayName": "Display Name",
+    "displayNamePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "emailNote": "Note: Email changes may require verification",
+    "language": "Language Preference",
+    "changeLanguage": "Change",
+    "languageNote": "This affects both the interface language and default summary language",
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "updateSuccess": "Profile updated successfully",
+    "updateFailed": "Failed to update profile"
+  },
+  "header": {
+    "joined": "Joined {{date}}"
+  },
+  "errors": {
+    "loadFailed": "Failed to load account data",
+    "retry": "Retry"
+  }
+}

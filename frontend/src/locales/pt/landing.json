@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "headline": "Turn hours of video into minutes of reading",
+    "subheadline": "Batch summarize multiple YouTube videos with AI. Get comprehensive summaries in your preferred style and language.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Powerful Features",
+    "subtitle": "Everything you need to transform video content into actionable insights",
+    "batchProcessing": {
+      "title": "Batch Processing",
+      "description": "Summarize multiple YouTube videos simultaneously. Save time by processing entire playlists or video series at once."
+    },
+    "aiPowered": {
+      "title": "AI-Powered",
+      "description": "Leverage advanced AI to extract key insights, main points, and actionable information from hours of video content."
+    },
+    "multiLanguage": {
+      "title": "Multi-Language",
+      "description": "Get summaries in your preferred language. Support for multiple languages ensures you understand content in your native tongue."
+    },
+    "customStyles": {
+      "title": "Custom Styles",
+      "description": "Choose from various summary styles - detailed, concise, bullet points, or create your own custom prompt."
+    }
+  },
+  "header": {
+    "logoAlt": "Video Research"
+  }
+}

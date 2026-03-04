@@ -1,0 +1,30 @@
+{
+  "id": "1768360533216-xqi0a1h",
+  "user_uid": "dev-user-id",
+  "user_id": "dev-user-id",
+  "job_id": "8074576b-1fe5-4b0a-a4d7-15c89082e8e7",
+  "batch_title": "Apple's Gemini AI Push: A Strategic Leap Forward",
+  "source_videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=be-hvAgT2Ac",
+      "title": "Apple Picks Gemini AI in Win for Google’s Tensor Chip",
+      "channel": "Bloomberg Technology",
+      "thumbnail": "https://i.ytimg.com/vi/be-hvAgT2Ac/maxresdefault.jpg",
+      "duration_seconds": 288,
+      "word_count": 875,
+      "was_pre_condensed": false,
+      "video_id": "be-hvAgT2Ac"
+    }
+  ],
+  "preset_style": "bullet_points",
+  "final_summary_text": "- Apple's partnership with Google's Gemini AI is a significant step forward for the company, as it was not feasible to develop such capabilities internally. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- The integration of Gemini into Apple's foundational models, including Siri, is expected to make Siri more useful and improve Apple's AI capabilities. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- The reaffirmation of a $350 stock price for Apple is tied to the potential benefits of this partnership, which could add up to $70-$500 per share if Apple successfully executes on the consumer revolution. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- The deal with Google is seen as a high-stakes negotiation, potentially leading to a broader agreement that may include a subscription or freemium service. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- Apple's decision to partner with Google rather than acquiring Perplexity (a previous consideration) was influenced by Google's victory in the DOJ lawsuit, which created a more favorable environment for big tech deals. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- Apple's strategy is to leverage its large install base of 2.4 billion iOS devices and 1.5 billion iPhones to drive the consumer revolution, with Gemini being a key component. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- Apple's focus on privacy and reliance on Google's AI capabilities is seen as a savvy move, allowing them to avoid heavy capital expenditures on data centers while still benefiting from advanced AI technology. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- Despite the partnership, Apple still has a significant amount of work to do to fully integrate and enhance Siri's functionality, given the loss of many talented developers over time. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- CEO Tim Cook's recognition of the need for a strategic shift and the importance of AI in the fourth industrial revolution is crucial for Apple's future success and stock performance. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)\n- The partnership with Google is expected to be exclusive, and Apple will likely rely on Google as a key partner to monetize the AI transition, given the scale and significance of the technological shift. (Video: Apple Picks Gemini AI in Win for Google’s Tensor Chip)",
+  "language": "English",
+  "processing_stats": {
+    "total_videos": 1,
+    "condensed_videos": 0,
+    "total_tokens_used": 0,
+    "processing_time_seconds": 25
+  },
+  "created_at": "2026-01-14T03:15:33.216Z",
+  "updated_at": "2026-01-14T03:15:33.218Z"
+}

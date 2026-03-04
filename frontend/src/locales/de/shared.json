@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "Geteilte Recherche wird geladen...",
+    "error": "Geteilte Recherche konnte nicht geladen werden",
+    "errorMessage": "Beim Laden dieser geteilten Recherche ist ein Fehler aufgetreten.",
+    "shareIdRequired": "Share-ID ist erforderlich"
+  },
+  "metadata": {
+    "sharedOn": "Geteilt am {{date}}",
+    "viewed": "{{count}} {{count, plural, one {Mal} other {Mal}}} angesehen"
+  },
+  "footer": {
+    "createResearch": "Erstellen Sie Ihre eigene Recherche",
+    "poweredBy": "Unterstützt von <brand>Video Research</brand>"
+  }
+}

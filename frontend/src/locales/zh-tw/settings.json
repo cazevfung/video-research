@@ -1,0 +1,87 @@
+{
+  "title": "設定",
+  "sections": {
+    "general": {
+      "title": "一般",
+      "description": "外觀和語言偏好"
+    },
+    "notifications": {
+      "title": "通知",
+      "description": "管理您的通知偏好"
+    },
+    "privacy": {
+      "title": "隱私",
+      "description": "控制您的資料分享和分析偏好"
+    },
+    "account": {
+      "title": "帳戶",
+      "description": "帳戶管理和安全設定"
+    },
+    "preferences": {
+      "title": "偏好設定",
+      "description": "摘要生成的預設設定"
+    }
+  },
+  "general": {
+    "theme": {
+      "label": "主題",
+      "description": "選擇您喜歡的顏色主題",
+      "options": {
+        "light": "淺色",
+        "dark": "深色",
+        "system": "系統"
+      }
+    },
+    "language": {
+      "label": "語言",
+      "description": "選擇您的首選語言"
+    }
+  },
+  "notifications": {
+    "email": {
+      "label": "電子郵件通知",
+      "description": "接收有關您帳戶的電子郵件通知"
+    },
+    "creditLowThreshold": {
+      "label": "積分不足警告閾值",
+      "description": "當您的積分低於此數量時收到通知"
+    },
+    "summaryComplete": {
+      "label": "摘要完成通知",
+      "description": "當您的摘要完成時收到通知"
+    },
+    "tierUpgrade": {
+      "label": "等級升級通知",
+      "description": "接收有關等級升級機會的通知"
+    }
+  },
+  "privacy": {
+    "dataSharing": {
+      "label": "資料分享",
+      "description": "允許分享匿名使用資料以改進服務"
+    },
+    "analytics": {
+      "label": "分析",
+      "description": "啟用分析以幫助我們改進應用程式"
+    }
+  },
+  "account": {
+    "comingSoon": "帳戶管理功能即將推出。您可以從帳戶頁面管理您的帳戶。",
+    "goToAccount": "前往帳戶頁面"
+  },
+  "preferences": {
+    "defaultLanguage": {
+      "label": "預設語言",
+      "description": "生成摘要的預設語言"
+    },
+    "autoSave": {
+      "label": "自動儲存",
+      "description": "自動儲存您的工作"
+    }
+  },
+  "buttons": {
+    "save": "儲存變更",
+    "saving": "儲存中...",
+    "back": "返回"
+  }
+}

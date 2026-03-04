@@ -1,0 +1,16 @@
+{
+  "loading": {
+    "title": "جاري تحميل البحث المشترك...",
+    "error": "تعذر تحميل البحث المشترك",
+    "errorMessage": "حدث خطأ أثناء تحميل هذا البحث المشترك.",
+    "shareIdRequired": "معرف المشاركة مطلوب"
+  },
+  "metadata": {
+    "sharedOn": "تم المشاركة في {{date}}",
+    "viewed": "تمت المشاهدة {{count}} {{count, plural, one {مرة} other {مرة}}}"
+  },
+  "footer": {
+    "createResearch": "أنشئ بحثك الخاص",
+    "poweredBy": "مدعوم من <brand>Video Research</brand>"
+  }
+}
